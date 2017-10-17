@@ -1,0 +1,9 @@
+ <section id="content">
+<!-- Page Content -->
+    <div class="{{ page.class }}">
+        {% if page.class contains "page" %}
+            <h2 class="section-heading {{ page.category }}">{{ page.title }}</h2>
+        {% endif %}
+        <div class="lead {{ page.class }}">{{ content }}</div>
+    </div>
+</section>

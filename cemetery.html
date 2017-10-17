@@ -1,0 +1,89 @@
+---
+layout: default
+title: St. Paul's Cemetery
+class: page
+sitemap:
+    priority: 0.7
+    changefreq: 'yearly'
+    lastmod: 2017-10-17T19:23:34+00:00
+image-array:
+     - img: cem-1.jpg
+       lightbox: cemetery
+       alt: Butterfly and Kubota
+     - img: cem-2.jpg
+       lightbox: cemetery
+       alt: Infant Wilson tombstone
+     - img: cem-3.jpg
+       lightbox: cemetery
+       alt: Raymond Wothe tombstone
+     - img: cem-4.jpg
+       lightbox: cemetery
+       alt: Vatter &amp; Mutter Thuerwachter monument
+     - img: cem-5.jpg
+       lightbox: cemetery
+       alt: tombstones
+     - img: cem-6.jpg
+       lightbox: cemetery
+       alt: Albert Bergen tombstone
+     - img: cem-7.jpg
+       lightbox: cemetery
+       alt: Anna Lohse infant tombstone
+     - img: cem-8.jpg
+       lightbox: cemetery
+       alt: monument
+     - img: cem-9.jpg
+       lightbox: cemetery
+       alt: monument
+     - img: cem-10.jpg
+       lightbox: cemetery
+       alt: Flowers &amp; tombstone
+     - img: cem-11.jpg
+       lightbox: cemetery
+       alt: Mutter tombstone
+     - img: cem-12.jpg
+       lightbox: cemetery
+       alt: Maria Wagner infant tombstone
+     - img: cem-13.jpg
+       lightbox: cemetery
+       alt: John Rothman tombstone
+     - img: cem-14.jpg
+       lightbox: cemetery
+       alt: Charles &amp; Louise Thuerwachter tombstone
+     - img: cem-15.jpg
+       lightbox: cemetery
+       alt: Philip &amp; Barbara Rothman tombstone
+     - img: cem-16.jpg
+       lightbox: cemetery
+       alt: Memorial flowers (geraniums)
+---
+
+<section id="cemetery">
+    <div class="content-section-b page">
+
+        <div class="container page">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <div class="clearfix"></div>
+                    <div class="lead padding-left"><p>The St. Paul's cemetery lies at the end of a gravel road, surrounded by farm fields on a wooded slope about a quarter-mile from the present sanctuary.</p>
+                    <p>As best we can tell, the cemetery predates the congregation itself, with burials going back to the 1830's. It is a place of great peace, often visited by members looking for solitude to think, meditate, and pray. The cemetery board has begun a long-term effort to locate and map all the graves. We hope to post the results of this survey and other genealogical data soon.</p>
+</div>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6 col-sm-6 no-left">
+                  <div class="custom-photo cemetery">
+    {% for item in page.image-array %}
+     <a href="{{ site.url }}/img/cemetery/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/cemetery/{{ item.img }}'>{{ item.alt }}</a>">
+         <img data-src="{{ site.url }}/img/cemetery/{{ item.img }}" src="{{ site.url }}/img/cemetery/{{ item.img }}" alt="{{ item.alt }}">
+         <span class="click-me">click to see more</span>
+     </a>
+    {% endfor %}
+  </div>
+                  
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->

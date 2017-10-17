@@ -1,0 +1,56 @@
+---
+layout: default
+title: Holyland Food Pantry
+class: page
+sitemap:
+    priority: 0.7
+    changefreq: 'yearly'
+    lastmod: 2017-10-17T19:23:34+00:00
+image-array:
+     - img: hfp-1.jpg
+       lightbox: xned
+       alt: Feed my sheep
+     - img: hfp-2.jpg
+       lightbox: xned
+       alt: Collection from the Holyland Mail Carriers Food Drive
+     - img: hfp-3.jpg
+       lightbox: xned
+       alt: Amazing generosity
+---
+
+<section id="hfp">
+    <div class="content-section-b page">
+
+        <div class="container page">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <div class="clearfix"></div>
+                    <div class="lead padding-left">
+                    	<p>At St. Paul's, we know that we are recipients of God's amazing generosity. God has fed us and continues to feed us in many ways. That's why, since 2015, the Holyland Food Pantry&mdash;a cooperative ministry of St. Paul's and several partners&mdash;has shared space with our offices in the St. Paul's parsonage.</p>
+                    	<p>HFP distributes on the third Friday of each month, from 11:00 a.m. to 1:00 p.m., and from 3:00 p.m. to 6:00 p.m. They support several dozen families in the Holyland.</p>
+                    	<p>Non-perishable donations can be dropped off in the large box on the parsonage porch, or in several other convenient locations.</p>
+                    	<p>
+                    		<strong>If you or someone you know is in need of food assistance, please call 920-418-1580. All calls and information will remain confidential.</strong>
+                    	</p>
+                    	<p>For more information on how to volunteer or connect with the Holyland Food Pantry, visit their <a href="http://holylandfoodpantry.webs.com">website</a> or <a href="https://www.facebook.com/holylandfoodpantry/">Facebook</a> page.</p>
+</div>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6 col-sm-6 no-left">
+                  <div class="custom-photo hfp">
+    {% for item in page.image-array %}
+     <a href="{{ site.url }}/img/hfp/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/hfp/{{ item.img }}'>{{ item.alt }}</a>">
+         <img data-src="{{ site.url }}/img/hfp/{{ item.img }}" src="{{ site.url }}/img/hfp/{{ item.img }}" alt="{{ item.alt }}">
+         <span class="click-me">click to see more</span>
+     </a>
+    {% endfor %}
+  </div>
+                  
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->

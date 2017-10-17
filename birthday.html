@@ -1,0 +1,249 @@
+<html>
+<head>
+<title>Birthday List</title>
+<style type="text/css">
+body {
+  font:14px Verdana;
+}
+/*display style when bday is today*/
+.bdayToday {
+  color: red;
+}
+</style>
+</head>
+<body>
+<span id="foodate" style="display: none; height: 0; width: 0;">2017-09-21</span>
+
+<script type="text/javascript">
+//the bday array data can be generated from server-side
+var arrBday = [
+  ['Kyle WAGNER', '4/8'],
+  ['Carrie OELKE', '4/14'],
+  ['April PITZEN', '4/15'],
+  ['Charlie HOEFLER', '4/17'],
+  ['Kelly BURLINGHAM', '4/22'],
+  ['Issac SHEPHERD', '4/22'],
+  ['Dana WAGNER', '4/28'],
+  ['Stephanie DIETERICH', '8/1'],
+  ['David PITZEN', '8/11'],
+  ['David BURLINGHAM', '8/12'],
+  ['Mary STELLICK', '8/12'],
+  ['Shirley MALTBY', '8/14'],
+  ['John ZIEGLER', '8/17'],
+  ['Roy KLESSIG', '8/20'],
+  ['Linda SATTLER', '8/23'],
+  ['Lori SCHMITZ', '8/23'],
+  ['Lorene BALTZ', '8/25'],
+  ['Sharon KOEPKE', '8/27'],
+  ['Richard STELLICK', '8/27'],
+  ['John VANDERPUTTEN', '8/28'],
+  ['Cassy DEMPSEY', '12/1'],
+  ['Lucas GROESCHL', '12/1'],
+  ['Marilyn GRONENG', '12/3'],
+  ['Nadia BURG', '12/4'],
+  ['Lisa RITCHIE', '12/6'],
+  ['Jenny WARNER', '12/9'],
+  ['Neale JENSEN', '12/11'],
+  ['Sue BURLINGHAM', '12/12'],
+  ['Tom SCHMITZ', '12/12'],
+  ['Rick GROESCHL', '12/13'],
+  ['Lori SALCHERT', '12/14'],
+  ['Jason HOEFLER', '12/16'],
+  ['Kaylee WARNER', '12/16'],
+  ['Paul GRONENG', '12/17'],
+  ['Lauren BURLINGHAM', '12/18'],
+  ['Joseph SATTLER', '12/19'],
+  ['Tim WARNER', '12/20'],
+  ['Kim BECKMAN', '12/24'],
+  ['Eva SALCHERT', '12/24'],
+  ['Keith WEILAND', '12/25'],
+  ['Mark WEILAND', '12/25'],
+  ['Raquelle PRATT', '12/26'],
+  ['JoAnne BURRIS', '12/27'],
+  ['Margaret NIKKHAH', '2/9'],
+  ['Oliver SATTLER', '2/9'],
+  ['Simon SATTLER', '2/9'],
+  ['Richard SCHULTZ', '2/12'],
+  ['Jack SHEPHERD', '2/12'],
+  ['Blake RITCHIE', '2/15'],
+  ['Brian SCHUSSMAN', '2/23'],
+  ['Thomas GRONENG', '2/24'],
+  ['Margaret PETERSON', '2/24'],
+  ['Austin SCHUSSMAN', '2/24'],
+  ['Brent SHEPHERD', '2/27'],
+  ['Emerson HOEFLER', '2/28'],
+  ['Lloyd KOEPKE', '1/4'],
+  ['Jonathan GRONENG', '1/5'],
+  ['Henry BUB', '1/7'],
+  ['Abby KUHN', '1/8'],
+  ['Brendan WAGNER', '1/8'],
+  ['Lina EBERT', '1/10'],
+  ['TJ WARNER', '1/11'],
+  ['Amanda WILFERT', '1/21'],
+  ['Dwight SATTLER', '1/23'],
+  ['Britney BURG', '1/24'],
+  ['Darrin OELKE', '1/24'],
+  ['Robert EVJEN', '1/25'],
+  ['Oran SATTLER', '1/25'],
+  ['Sarah BURG', '1/27'],
+  ['Barb MILLS', '7/4'],
+  ['Brad BURG', '7/5'],
+  ['Cara WAGNER', '7/6'],
+  ['Sue SCHULTZ', '7/8'],
+  ['William DIETERICH V', '7/21'],
+  ['Jessica RADLOFF', '7/25'],
+  ['Dustin WAGNER', '7/25'],
+  ['Howard SATTLER', '7/27'],
+  ['Bonnie EBERT', '6/7'],
+  ['Terry BECKMAN', '6/12'],
+  ['Grace DIETERICH', '6/13'],
+  ['Bruce PETERSON', '6/13'],
+  ['Mackenzie WAGNER', '6/29'],
+  ['Theresa MAYER', '6/5'],
+  ['Marsha LISOWE', '6/8'],
+  ['Erin KUHN', '6/19'],
+  ['Andrea Duwell', '6/29'],
+  ['Audrey ENLOE', '3/2'],
+  ['Stefanie WAGNER', '3/2'],
+  ['Stephanie SHEPHERD', '3/6'],
+  ['Abbey BURLINGHAM', '3/7'],
+  ['Warren BACKUS', '3/13'],
+  ['Bill DIETERICH', '3/13'],
+  ['Myra MAURER', '3/13'],
+  ['David BURG', '3/18'],
+  ['Jean PITZEN', '3/27'],
+  ['Maddie RITCHIE', '3/27'],
+  ['Mary DEMPSEY', '3/28'],
+  ['Suzanne LEMKE', '3/30'],
+  ['John LISOWE', '5/4'],
+  ['Tyler SCHUSSMAN', '5/5'],
+  ['Angie PRULL', '5/6'],
+  ['Leah BURG', '5/13'],
+  ['Clayton SATTLER', '5/13'],
+  ['Tom TOMTER', '5/17'],
+  ['Kelly GROESCHL', '5/19'],
+  ['Peyton SALCHERT', '5/23'],
+  ['Grant BURLINGHAM', '5/25'],
+  ['Joe BALTZ', '5/26'],
+  ['Cindy SCHUSSMAN', '5/27'],
+  ['Sarah JAIN', '5/29'],
+  ['Cathy BARR', '5/31'],
+  ['Mary SATTLER', '11/1'],
+  ['Richard Jr DEMPSEY', '11/2'],
+  ['Angela HOEFLER', '11/2'],
+  ['Ann BURG', '11/4'],
+  ['Rudy SATTLER', '11/4'],
+  ['Natalie WAGNER', '11/6'],
+  ['Chris BECKMAN', '11/9'],
+  ['Mitchell SALCHERT', '11/13'],
+  ['Zach OELKE', '11/18'],
+  ['Craig SHEPHERD', '11/21'],
+  ['Alex KUHN', '11/24'],
+  ['Jeannette LISOWE', '11/24'],
+  ['Shannon VANDERPUTTEN', '11/30'],
+  ['Ann MARTIN', '10/6'],
+  ['Clara EBERT', '10/11'],
+  ['Nancy BECKMAN', '10/12'],
+  ['Kevin BURLINGHAM', '10/12'],
+  ['Blair MILLS', '10/12'],
+  ['Weldon Sr. PETERSON', '10/12'],
+  ['Duncan SATTLER', '10/13'],
+  ['Emma OELKE', '10/15'],
+  ['Angie SCHUSSMAN', '10/15'],
+  ['Ben BURLINGHAM', '10/28'],
+  ['Rick DEMPSEY', '10/31'],
+  ['Ty GROESCHL', '9/2'],
+  ['Gayle MARTIN', '9/4'],
+  ['Ken PRULL', '9/6'],
+  ['Eric EVJEN', '9/7'],
+  ['Morgan GROESCHL', '9/8'],
+  ['Carol DIETERICH', '9/10'],
+  ['Virginia SCHUSSMAN', '9/11'],
+  ['Jerrod EBERT', '9/14'],
+  ['Eric RITCHIE', '9/21'],
+  ['Natalee HOEFLER', '9/23']
+  //...and so on (last entry must not have a trailing comma)
+];
+
+function getBdaysThisWeek(){
+  var arrMonth = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+  var bday, idx;
+  var bdayList = new Array();
+  var today = new Date();
+
+  for (var i=0;i<arrBday.length;i++){
+    var bday = new Date(arrBday[i][1] + '/' + today.getFullYear());
+    if (isNaN(bday)) continue;
+
+    if ( isBdayInRange(bday, 7) ){
+       idx = bdayList.length;
+       bdayList[idx] = new Object();
+       bdayList[idx].name = arrBday[i][0];
+       bdayList[idx].bday = bday;
+       bdayList[idx].month = arrMonth[bday.getMonth()];      
+    }
+  }
+  if (bdayList.length > 0){ //sort asc by birthdate
+     bdayList.sort(
+       function(a, b){
+         if (a.bday < b.bday) return -1
+         if (a.bday > b.bday) return 1;
+         return 0;
+       }
+     );
+  }
+  return bdayList;
+}
+
+function isBdayInRange(bday, interval){
+//credit for this function goes to:
+//-Rob (@slingfive) Eberhardt, Slingshot Solutions
+//http://slingfive.com/pages/code/jsDate/jsDate.html
+//first, let's grab the post date
+  var a = document.getElementById("foodate").textContent.split('-');
+
+  var today = new Date(a[0],a[1]-1,a[2]); 
+  //have to override time so entire day will be valid
+  today.setHours(0,0,0,0);
+  //set date to post date
+  //if the birthday has already occurred in the year, increment to the next year
+  if (bday < today)
+    bday.setFullYear(bday.getFullYear() + 1);
+  
+  // get ms between dates (UTC) and make into "difference" date
+  var iDiffMS = bday.valueOf() - today.valueOf();
+  //divide iDiffMS by 1000, Seconds, Minutes, Hours
+  nDays = parseInt(iDiffMS / 1000 / 60 / 60 / 24);
+  
+  if(parseInt(nDays) <= parseInt(interval))
+    return true;
+  else
+    return false;
+}
+
+function displayBdayList(){
+  var date = new Date().getDate();  
+  var bdayList = getBdaysThisWeek();
+  var len = bdayList.length;
+  var s = "<h1>Birthday Celebrants for this week:</h1>";
+  if (len>0){
+    s += '<ul>';
+    for (var i=0; i<len; i++){
+       //be mindful of the string-line continuation character (\) at the end of the first line
+    s += '<li' + ((date == bdayList[i].bday.getDate())?' class="bdayToday"':'')+ '>\
+          <strong>' + bdayList[i].name + '</strong> - ' 
+          + bdayList[i].month + ' ' + bdayList[i].bday.getDate() + '</li>';       
+    }
+    s += '</ul>';
+  }
+  else{
+    s += "No birthday celebrant for this week.";
+  }
+  document.write(s);
+}
+</script>
+<script type="text/javascript">
+displayBdayList();
+</script>
+</body>
+</html>

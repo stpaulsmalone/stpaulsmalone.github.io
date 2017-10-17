@@ -1,0 +1,67 @@
+---
+layout: default
+title: Hospitality
+class: page
+sitemap:
+    priority: 0.7
+    changefreq: 'yearly'
+    lastmod: 2017-10-17T19:23:34+00:00
+image-array:
+     - img: welcome-1.jpg
+       lightbox: welcome
+       alt: Flowery Easter bonnets are welcome any time of year
+     - img: welcome-2.jpg
+       lightbox: welcome
+       alt: Let's talk
+     - img: welcome-3.jpg
+       lightbox: welcome
+       alt: Cake is good, we like cake
+     - img: welcome-4.jpg
+       lightbox: welcome
+       alt: Christmas Dinner with Myra
+     - img: welcome-5.jpg
+       lightbox: welcome
+       alt: Tuesdays Together
+     - img: welcome-6.jpg
+       lightbox: welcome
+       alt: Lunch at LaClare has been known to happen
+     - img: welcome-7.jpg
+       lightbox: welcome
+       alt: Listening to one another's stories
+     - img: welcome-8.jpg
+       lightbox: welcome
+       alt: Dinner church at Vesper Point
+---
+
+<section id="hospitality">
+    <div class="content-section-b page">
+
+        <div class="container page">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <div class="clearfix"></div>
+                    <div class="lead padding-left">
+                    	<p>We are an intentionally welcoming, accepting and affirming congregation, including across generational lines.</p>
+                    	<p>We prize our openness and want to extend our table. That starts with the Lord's Supper, where there are no barriers, no tests to pass before you can receive. It continues with fellowship: after church, in the book club, visiting an old friend at the nursing home, talking away a summer evening on the shore of Lake Winnebago, or in our many social gatherings. No matter who you are, pull up a chair. You're always welcome here.</p>
+</div>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6 col-sm-6 no-left">
+                  <div class="custom-photo">
+		{% for item in page.image-array %}
+		 <a href="{{ site.url }}/img/hospitality/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/hospitality/{{ item.img }}'>{{ item.alt }}</a>">
+		     <img data-src="{{ site.url }}/img/hospitality/{{ item.img }}" src="{{ site.url }}/img/hospitality/{{ item.img }}" alt="{{ item.alt }}">
+         <span class="click-me">click to see more</span>
+		 </a>
+		{% endfor %}
+	</div>
+                  
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+</section>

@@ -1,0 +1,44 @@
+---
+layout: default
+class: page
+sitemap:
+    priority: 0.7
+    changefreq: 'weekly'
+    lastmod: 2017-10-17T19:23:34+00:00
+category: news
+title: News &amp; Updates (a.k.a. the Midweek Apostle)
+pagination: true
+enabled: true
+---
+<ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+<span class="teaser">{{ post.teaser }}</span><br />
+
+{% if post.img !=null %}
+        <figure>
+          <a target="_blank" href="http://localhost:4000/img/news/{{ post.img }}">
+            <img src="http://localhost:4000/img/news/{{ post.img }}" class="post-img" alt="{{ post.caption }}">
+          </a>
+            <figcaption>{{ post.caption }}</figcaption>
+        </figure>
+{% endif %}
+        
+  <div class="content">
+    {% if post.content contains '<!--more-->' %}
+      {{ post.content | split:'<!--more-->' | first }}
+    {% else %}
+      {{ post.content }}
+    {% endif %}
+
+  </div>
+  <div><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+            {% if post.content contains '<!--more-->' %}
+            <span class="more"><a href="{{ post.url | prepend: site.baseurl }}">read more...</a></span>
+            {% endif %}
+            </div> 
+      </li>
+      <div class="post-divider"><img src="/img/church.svg"></div>
+    {% endfor %}
+  </ul>

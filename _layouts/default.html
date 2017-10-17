@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+
+	<body onunload="">
+		{% include header.html %}
+		{% if page.class contains "page" %}
+			{% else %} {% include modal.html %}	
+		{% endif %}
+		{% include content.html %}
+		{% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>

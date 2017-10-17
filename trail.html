@@ -1,0 +1,108 @@
+---
+layout: default
+title: Stone Soup Trail
+class: page
+sitemap:
+    priority: 0.7
+    changefreq: 'yearly'
+    lastmod: 2017-10-17T19:23:34+00:00
+image-array:
+     - img: trail-1a.jpg
+       lightbox: trail
+       alt: A view back to the sanctuary
+     - img: trail-1.jpg
+       lightbox: trail
+       alt: Memorial plaque near the head of Stone Soup Trail
+     - img: trail-2.jpg
+       lightbox: trail
+       alt: The official beginning of the trail
+     - img: trail-3.jpg
+       lightbox: trail
+       alt: Spring is a lovely time to visit
+     - img: trail-4.jpg
+       lightbox: trail
+       alt: Trees shade the Stone Soup Trail
+     - img: trail-9.jpg
+       lightbox: trail
+       alt: Sun and shade dapple the Stone Soup Trail
+     - img: trail-5.jpg
+       lightbox: trail
+       alt: One of several prayer stations along the path
+     - img: trail-6.jpg
+       lightbox: trail
+       alt: Shade cools the trail
+     - img: trail-11.jpg
+       lightbox: trail
+       alt: The path continues
+     - img: trail-12.jpg
+       lightbox: trail
+       alt: Irises bloom on Stone Soup Trail
+     - img: trail-13.jpg
+       lightbox: trail
+       alt: Iris and sanctuary
+     - img: trail-14.jpg
+       lightbox: trail
+       alt: A bench given in honor of Rev. Keith Weiland
+     - img: trail-15.jpg
+       lightbox: trail
+       alt: Looking back on the trail
+     - img: trail-16.jpg
+       lightbox: trail
+       alt: The pond, often a stopover for ducks, geese and other migrating birds
+     - img: trail-17.jpg
+       lightbox: trail
+       alt: Old oak
+     - img: trail-18.jpg
+       lightbox: trail
+       alt: Come, for I will give rest to the weary
+     - img: trail-19.jpg
+       lightbox: trail
+       alt: Oak
+     - img: trail-7.jpg
+       lightbox: trail
+       alt: Vespers Point
+     - img: trail-8.jpg
+       lightbox: trail
+       alt: Birdhouse near the end of the trail
+     - img: trail-20.jpg
+       lightbox: trail
+       alt: St. Paul's is set in the middle of a wind farm
+     - img: trail-21.jpg
+       lightbox: trail
+       alt: The Vespers Point cross
+     - img: trail-22.jpg
+       lightbox: trail
+       alt: A tree given in memory of Dick Martin
+---
+
+<section id="trail">   
+  <div class="content-section-a page">
+   
+       <div class="container">
+   
+           <div class="row">
+               <div class="col-lg-5 col-sm-6">
+                   <div class="clearfix"></div>
+                   <div class="lead padding-right">
+                       <p>One of the loveliest parts of our setting is Stone Soup Trail, a walking path paralleling St. Paul Rd. alongside a pond from our parsonage to Vespers Point.</p>
+                       <p>The land for Stone Soup Trail was purchased in 1984, but the trail itself was not established until 2009 by Dwight Sattler, a member of the congregation. Dotted with benches and prayer stations, Stone Soup Trail is a perfect place to pray for, contemplate, or learn about nature. On Sunday mornings, it is often used by walkers and Sunday School classes alike. In the summers, we hold outdoor worship services by the cross at Vespers Point every so often. Come join us.</p>
+   </div>
+               </div>
+               <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                   <div class="custom-photo trail">
+					{% for item in page.image-array %}
+		 				<a href="{{ site.url }}/img/trail/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/trail/{{ item.img }}'>{{ item.alt }}</a>">
+		     			<img data-src="{{ site.url }}/img/trail/{{ item.img }}" src="{{ site.url }}/img/trail/{{ item.img }}" alt="{{ item.alt }}">
+              <span class="click-me">click to see more</span>
+		 </a>
+		{% endfor %}
+	</div>
+               </div>
+           </div>
+   
+       </div>
+       <!-- /.container -->
+   
+   </div>
+   <!-- /.content-section-a -->
+ </section>

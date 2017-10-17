@@ -1,0 +1,34 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+title: St. Paul's UCC Malone WI
+email: office@stpaulsmalone.org
+url: ~administrator/st_pauls/_site 
+
+# Permalinks
+permalink: pretty
+
+author: Pastor Dan
+description: > # "Write an awesome description for your new site here. 
+  Nestled between farm fields and ponds, close by the shores of Lake Winnebago, we are a family-sized church dedicated to God, community, and creation. Oh, and we like kids, too.
+copyright: '&copy; 2015 St. Paul&#39;s UCC. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/stpaulsmalone
+  - title: facebook
+    url: https://www.facebook.com/St-Pauls-UCC-Malone-Wisconsin-173703179630657/
+  - title: news
+    url: 

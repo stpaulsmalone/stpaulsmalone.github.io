@@ -1,0 +1,125 @@
+saint_pauls
+	∟config.yml
+
+	∟_includes/
+		∟about.html
+		∟contact.html
+		∟footer.html
+		∟head.html
+		∟header.html
+		∟js.html
+		∟no_posts_content.html
+		∟page_contact.html
+		∟page_content.html
+		∟page_header.html
+
+	∟_layouts
+		∟default.html
+		∟page_default.html
+
+	∟_posts/
+
+	∟_site/
+		∟building/
+			∟index.html
+
+		∟cemetery/
+			∟index.html
+
+		∟christianed/
+			∟index.html
+
+		∟community/
+			∟index.html
+
+		∟css/
+			bootstrap.css
+			bootstrap.min.css
+			landing-page.css
+
+		∟follow/
+			∟index.html
+
+		∟font-awesome-4.7.0/
+
+		∟fonts/
+
+		∟history/
+			∟index.html
+
+		∟hospitality/
+			∟index.html
+
+		∟img/
+
+		∟index.html
+
+		∟js/
+			bootstrap.js
+			bootstrap.min.js
+			jquery-1.11.0.js
+			jquery-easing.min.js
+			landing-page.js
+
+		∟location/
+			∟index.html
+
+		∟loving/
+			∟index.html
+
+		∟ministry/
+			∟index.html
+
+		∟news/
+			∟index.html
+
+		∟pastor/
+			∟index.html
+
+		∟README.md
+
+		∟setting/
+			∟index.html
+
+		∟worship/
+			∟index.html
+
+	∟building.html
+	∟cemetery.html
+	∟christianed.html
+	∟community.html
+
+	∟css/
+		bootstrap.css
+		bootstrap.min.css
+		landing-page.css
+
+	∟follow.html
+
+	∟font-awesome-4.7.0/
+
+	∟fonts/
+
+	∟history.html
+	∟hospitality.html
+
+	∟img/
+
+	∟index.html
+	∟js/
+
+	∟location.html
+	∟loving.html
+	∟ministry.html
+
+	∟news/
+		∟index.html
+
+	∟pastor.html
+	∟README.md
+	∟setting.html
+
+	∟worship/
+		∟index.html
+		
+	∟worship.html
