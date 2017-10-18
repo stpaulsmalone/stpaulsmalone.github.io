@@ -1,0 +1,101 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 10/18/17 - Quick, no time to explain - go to stpaulsmalone.org right away
+img: new-site.jpg
+caption:
+teaser: If you want, I can explain how I built the site (you don't want).
+---
+
+
+The big news of the week, as the headline indicates and after a whole lot of work, is that <a href="http://stpaulsmalone.org">we now have a church website</a>! 
+
+I'm not kidding when I say "a whole lot of work": I've been messing with this since July or August. Why did it take so long? A variety of reasons: first, I'm admittedly a bit rusty in my web-building skills. Second, this is more than a "cut and paste" site: it's got some cool customized features that I hope you will enjoy. Usually, turning something like this around quickly requires a team effort, and I've been working at it alone.
+
+In any case, the best website is a done website! There are a few behind-the-scenes things I need to do, but they shouldn't prevent the site from being usable. In the meantime, I hope you will explore, and let me know if you spot any problems. That is, things like a missing image, text that overlaps another section of the page, a link that doesn't work. Other things like tweaks to the wording are suggestions, and I'll collect them presently.
+
+## 1.
+
+Don't forget that we're having a special kids' Sunday this week! It won't be quite like the Messy Church Sunday we held earlier in the year. We'll have some activities during the Children's Time and Sermon, and lots and lots of participation from children during the entire service. Also, there will be a special competition after worship that you won't want to miss!
+
+## 2.
+
+Also on Sunday, and immediately following worship: a brief remembrance service for Gary Miller at the cemetery. We will then have coffee hour with a few of Pastor Gary’s favorite goodies. Please come and help us celebrate the life of a beloved friend.
+
+## 3.
+
+A follow-up from last Sunday's KIVA presentation: first of all, thank you to Nancy Beckman and Peg Isaacson for their work! If after seeing the presentation, you're moved to make some KIVA loans, talk to Nancy or Peggy, and they'll show you how. If you'd like to see the videos again, look here: 
+<ul>
+	<li>
+		<a href="https://www.youtube.com/watch?v=2ZYDKGfcSh4">KIVA</a>
+	</li>
+	<li>
+		<a href="https://www.youtube.com/watch?v=gEliDilpdBE">What is Microfinance?</a>
+	</li>
+	<li>
+		<a href="https://www.youtube.com/watch?v=hmjTwp_MViU">Be the Spark that Changes the World</a>
+	</li>
+</ul>
+
+We're collecting for the church KIVA fund one more Sunday. You should find blank envelopes in the pews, if you'd care to give.
+
+
+4.
+
+Book Club will meet Wednesday, November 15th at the parsonage.
+
+The October/November read is "The Autobiography of Santa Claus" by Jeff Guinn. Books are available at St. Paul's in the book club kit tote - back pew. If you take one, please sign out for it. 
+
+
+5.
+
+Did you know the new site has a <a href="http://stpaulsmalone.org/sermons/">sermons page</a>? Very useful for those nights you can't quite drift off to sleep!
+
+
+6.
+
+Rick Stellick made it home from the hospital on Sunday afternoon. He's recuperating nicely.
+
+
+7.
+
+This week's scriptures:
+<ul>
+	<li><a href="http://bible.oremus.org/?ql=375351952">Deuteronomy 6:5-7</a></li>
+	<li><a href="http://bible.oremus.org/?ql=375351952">Matthew 19:13-15</a></li>
+</ul>
+
+Short and to-the-point, and for once, it's not the kids who are getting scolded.
+
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+
+<div class="after-box" markdown="1">
+
+### Upcoming Events:
+
+| 10/18 | 6:30 Council |
+| 10/20 | Holyland Food Pantry Distribution |
+| 10/22 | 10:00 Worship with "Messy Church#!|
+|  | Children's Sabbath#! |
+|  | Gary Miller service |
+| 10/23 | 6:30 Women's Fellowship |
+| 10/29 | 10:00 Worship with Fellowship#! |
+|  | Reformation Sunday |
+| 10/30 | 7:00 Mission Committee |
+| 11/1 | 7:00 Worship Committee |
+| 11/5 | Worship with Communion—Kids' Sunday#! |
+|  | Food Pantry Blessing#! |
+|  | All Saints' Day |
+| 11/12 | Worship and Sunday School |
+| 11/13 | Women's Fellowship |
+| 11/19 | Worship with Communion (Circle)--Kids' Sunday!#! |
+|  | Thanksgiving Sunday#! |
+|  | Noisy Sunday! |
+| 11/26 | 10:00 Worship and Sunday School |
+|  | Christ the King Sunday |
+
+</div>
