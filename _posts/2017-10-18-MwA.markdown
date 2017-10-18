@@ -14,7 +14,7 @@ The big news of the week, as the headline indicates and after a whole lot of wor
 
 I'm not kidding when I say "a whole lot of work": I've been messing with this since July or August. Why did it take so long? A variety of reasons: first, I'm admittedly a bit rusty in my web-building skills. Second, this is more than a "cut and paste" site: it's got some cool customized features that I hope you will enjoy. Usually, turning something like this around quickly requires a team effort, and I've been working at it alone.
 
-In any case, the best website is a done website! There are a few behind-the-scenes things I need to do, but they shouldn't prevent the site from being usable. In the meantime, I hope you will explore, and let me know if you spot any problems. That is, things like a missing image, text that overlaps another section of the page, a link that doesn't work. Other things like tweaks to the wording are suggestions, and I'll collect them presently.
+In any case, the best website is a done website! There are a few behind-the-scenes things I need to do, but they shouldn't prevent the site from being usable. In the meantime, I hope you will explore, and let me know if you spot any problems. That is, things like a missing image, text that overlaps another section of the page, a link that doesn't work. Other things like tweaks to the wording are suggestions, and I'll collect them presently. <!--more-->
 
 ## 1.
 
