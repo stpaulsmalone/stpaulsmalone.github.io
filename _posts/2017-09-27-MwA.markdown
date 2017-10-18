@@ -11,10 +11,10 @@ teaser: It's St. Vincent De Paul's day! Shop a thrift store in his honor.
 
 
 <figure>
-          <a href="http://stpaulsmalone.org/img/news/{{ post.img }}">
-            <img src="http://stpaulsmalone.org/img/news/{{ post.img }}" class="post-img" alt="{{ post.caption }}">
+          <a href="http://stpaulsmalone.org/img/news/{{ page.img }}">
+            <img src="http://stpaulsmalone.org/img/news/{{ page.img }}" class="post-img" alt="{{ page.caption }}">
           </a>
-            <figcaption>{{ post.caption }}</figcaption>
+            <figcaption>{{ page.caption }}</figcaption>
         </figure> 
 
 Thank you to everyone who expressed care and concern over my voice on Sunday. (In case you weren't around, I have a case of laryngitis.) The stupid virus behind the issue is a stubborn one. It hasn't stopped me yet, but it's kept me from getting up to too much trouble. I'll let you decide if that's a good thing or a bad one. Either way, don't be surprised if I sound like a deflated basketball again this coming Sunday. *Somebody's* got to do it. <!--more-->
