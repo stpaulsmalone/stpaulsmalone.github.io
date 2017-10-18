@@ -5,7 +5,16 @@ class: page
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <div class="post-content {{ page.class }}" itemprop="articleBody">      
+  <div class="post-content {{ page.class }}" itemprop="articleBody">
+  	<span class="teaser">{{ page.teaser }}Hi!</span><br />
+    {% if post.img !=null %}
+        <figure>
+          <a href="http://stpaulsmalone.org/img/news/{{ post.img }}">
+            <img src="http://stpaulsmalone.org/img/news/{{ post.img }}" class="post-img" alt="{{ post.caption }}">
+          </a>
+            <figcaption>{{ post.caption }}</figcaption>
+        </figure> 
+    {% endif %}       
     {{ content }}
   <div class="after-box">
     {% include hfp_needs.html %}
