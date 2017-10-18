@@ -9,8 +9,8 @@ class: page
   	<span class="teaser">{{ page.teaser }}</span><br />
     {% if post.img !=null %}
         <figure>
-          <a href="http://stpaulsmalone.org/img/news/{{ post.img }}">
-            <img src="http://stpaulsmalone.org/img/news/{{ post.img }}" class="post-img" alt="{{ post.caption }}">
+          <a href="http://stpaulsmalone.org/img/news/{{ post.img }}" data-lightbox="{{ page.date }}" data-title="<a href='http://stpaulsmalone.org/img/news/{{ page.img }}'>{{ page.caption }}</a>">
+            <img data-src="http://stpaulsmalone.org/img/news/{{ post.img }}" src="http://stpaulsmalone.org/img/news/{{ post.img }}" class="post-img" alt="{{ post.caption }}">
           </a>
             <figcaption>{{ post.caption }}</figcaption>
         </figure> 
