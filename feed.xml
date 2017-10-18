@@ -25,7 +25,6 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
-        <media:content url="http://stpaulsmalone.org/img/news/{{ post.img }}" type="image/jpg">
       </item>
     {% endif %}
     {% endfor %}
