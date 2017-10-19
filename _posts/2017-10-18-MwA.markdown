@@ -9,7 +9,7 @@ caption:
 teaser: If you want, I can explain how I built the site (you don't want).
 ---
 
-<img src="http://stpaulsmalone.org/img/news/{{ page.img }}">
+<img src="http://stpaulsmalone.org/img/news/{{ page.img }}" width="600">
 
 The big news of the week, as the headline indicates and after a whole lot of work, is that <a href="http://stpaulsmalone.org">we now have a church website</a>! 
 
