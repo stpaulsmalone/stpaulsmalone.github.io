@@ -102,7 +102,7 @@ Pastor Dan</div>
 <p><strong>Personal care items</strong>: Shampoo, deodorant, toothpaste</p>
 <span id="foodate" class="hidden">{{ page.date | date: "%F" }}</span>
     
-<script type="text/javascript" src="../js/birthday.js"></script>
+<script type="text/javascript" src="/js/birthday.js"></script>
 <script type="text/javascript">displayBdayList();</script>
 
 <p>Are we missing anyone?</p>
