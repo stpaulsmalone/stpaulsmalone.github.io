@@ -107,4 +107,3 @@ Pastor Dan</div>
 
 <p>Are we missing anyone?</p>
   </div>
-</div>
