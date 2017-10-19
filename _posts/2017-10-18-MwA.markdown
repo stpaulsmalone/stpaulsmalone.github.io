@@ -9,9 +9,6 @@ caption:
 teaser: If you want, I can explain how I built the site (you don't want).
 ---
 
-<span class="teaser">{{ page.teaser }}</span><br />
-<img src="http://stpaulsmalone.org/img/news/{{ page.img }}" width="600">
-
 The big news of the week, as the headline indicates and after a whole lot of work, is that <a href="http://stpaulsmalone.org">we now have a church website</a>! 
 
 I'm not kidding when I say "a whole lot of work": I've been messing with this since July or August. Why did it take so long? A variety of reasons: first, I'm admittedly a bit rusty in my web-building skills. Second, this is more than a "cut and paste" site: it's got some cool customized features that I hope you will enjoy. Usually, turning something like this around quickly requires a team effort, and I've been working at it alone.
@@ -99,7 +96,3 @@ Pastor Dan</div>
 |  | Noisy Sunday! |
 | 11/26 | 10:00 Worship and Sunday School |
 |  | Christ the King Sunday |
-
-<span id="foodate" class="hidden">{{ page.date | date: "%F" }}</span>
-    {% include birthday_list.html %}
-</div>
