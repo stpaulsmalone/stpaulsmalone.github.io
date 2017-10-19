@@ -1,27 +1,3 @@
----
-layout: default
-class: page
----
-
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <div class="post-content {{ page.class }}" itemprop="articleBody">
-  	<span class="teaser">{{ page.teaser }}</span><br />
-    {% if page.img !=null %}
-        <figure>
-          <a target="_blank" href="http://stpaulsmalone.org/img/news/{{ page.img }}">
-            <img src="http://stpaulsmalone.org/img/news/{{ page.img }}" class="post-img" alt="{{ page.caption }}">
-          </a>
-            <figcaption>{{ page.caption }}</figcaption>
-        </figure>
-    {% endif %}       
-    {{ content }}
-  <div class="after-box">
-    <h3>Holyland Food Pantry needs</h3>
-    <p><strong>Food</strong>: Black beans, chick peas, navy beans, canned peas, tomato soup, jelly, quick oats, lunch snackables, sugar, flour.</p>
-    <p><strong>Personal care items</strong>: Shampoo, deodorant, toothpaste</p>
-    <span id="foodate" class="hidden">{{ page.date | date: "%F" }}</span>
-    <script type="text/javascript">
       //the bday array data can be generated from server-side
       var arrBday = [
       ['Jonathan Groneng', '1/5'],
@@ -246,14 +222,3 @@ class: page
         }
         document.write(s);
       }
-</script>
-<script type="text/javascript">
-displayBdayList();
-</script>
-
-<p>Are we missing anyone?</p>
-  </div>
-</div>
-  </div>
- 
-</article>

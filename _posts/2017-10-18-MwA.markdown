@@ -96,3 +96,15 @@ Pastor Dan</div>
 |  | Noisy Sunday! |
 | 11/26 | 10:00 Worship and Sunday School |
 |  | Christ the King Sunday |
+
+<h3>Holyland Food Pantry needs</h3>
+<p><strong>Food</strong>: Black beans, chick peas, navy beans, canned peas, tomato soup, jelly, quick oats, lunch snackables, sugar, flour.</p>
+<p><strong>Personal care items</strong>: Shampoo, deodorant, toothpaste</p>
+<span id="foodate" class="hidden">{{ page.date | date: "%F" }}</span>
+    
+<script type="text/javascript" src="../js/birthday.js"></script>
+<script type="text/javascript">displayBdayList();</script>
+
+<p>Are we missing anyone?</p>
+  </div>
+</div>
