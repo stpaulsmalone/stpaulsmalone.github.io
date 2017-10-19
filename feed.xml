@@ -7,9 +7,9 @@ layout: null
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
     <image>
-        <url>http://stpaulsmalone.org/img/news/{{ page.img }}</url>
-        <title>{{ page.caption }}</title>
-        <link>http://stpaulsmalone.org/img/news/{{ page.img }}</link>
+        <url>http://stpaulsmalone.org/img/news/{{ post.img }}</url>
+        <title>{{ post.caption }}</title>
+        <link>http://stpaulsmalone.org/img/news/{{ post.img }}</link>
     </image>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <atom:link href="http://stpaulsmalone.org/feed.xml" rel="self" type="application/rss+xml"/>
