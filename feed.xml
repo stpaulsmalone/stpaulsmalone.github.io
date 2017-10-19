@@ -17,8 +17,10 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         <description>
             {{ post.teaser | xml_escape }}
-            <![CDATA[ <img src="http://stpaulsmalone.org/img/news/{{ post.img }}"> ]]>
+            <![CDATA[ <img style="max-width:600px; padding-top:10px;" src="http://stpaulsmalone.org/img/news/{{ post.img }}"> ]]>
             {{ post.content | xml_escape }}
+            {% include hfp_needs.html | xml_escape %}
+            {% include birthday_list.html | xml_escape %}
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
