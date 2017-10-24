@@ -96,13 +96,14 @@ Pastor Dan</div>
 |  | Noisy Sunday! |
 | 11/26 | 10:00 Worship and Sunday School |
 |  | Christ the King Sunday |
+</div>
 
 <div class="after-box">
     <h3>Holyland Food Pantry needs</h3>
     <p><strong>Food</strong>: Black beans, chick peas, navy beans, canned peas, tomato soup, jelly, quick oats, lunch snackables, sugar, flour.</p>
     <p><strong>Personal care items</strong>: Shampoo, deodorant, toothpaste</p>
-    <span id="foodate" class="hidden">{{ page.date | date: "%F" }}</span>
     
+<h3>Happy Birthday to:</h3>
 {% for birthday in site.data.birthday %}
   	{% assign date_birthday = birthday.birthday | date: '%j' %}
 	{% assign date_now = '10/23' | date: '%j' %}
@@ -112,23 +113,14 @@ Pastor Dan</div>
 		<ul>
 			<li>
 	     	 {{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }}
-	     	 {{date_birthday}}
-	     	 {{date_difference}}
-	     	 {{date_now}}
 	  		</li>
 	  	{% elsif january_birthday <= 14 and date_difference <= -352 %}
 	  		<li>
 	     	 {{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }}
-	     	 {{date_birthday}}
-	     	 {{date_difference}}
-	     	 {{date_now}}
-	     	 {{january_birthday}}
 	  		</li>
 	  	</ul>
   	{% endif %}
 {% endfor %}
 
 <p>Are we missing anyone?</p>
-  </div>
-</div>
   </div>
