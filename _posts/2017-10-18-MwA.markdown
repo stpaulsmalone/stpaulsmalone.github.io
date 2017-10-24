@@ -122,7 +122,5 @@ Pastor Dan</div>
   	{% endif %}
 {% endfor %}
 
-{% include birthday2.html %}
-
 <p>Are we missing anyone?</p>
   </div>
