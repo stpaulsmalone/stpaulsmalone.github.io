@@ -11,21 +11,13 @@
 		<ul>
 			<li>
 	     	 {{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }}
-	     	 {{date_birthday}}
-	     	 {{date_difference}}
-	     	 {{date_now}}
 	  		</li>
 	  	{% elsif january_birthday <= 14 and date_difference <= -352 %}
 	  		<li>
 	     	 {{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }}
-	     	 {{date_birthday}}
-	     	 {{date_difference}}
-	     	 {{date_now}}
-	     	 {{january_birthday}}
 	  		</li>
 	  	</ul>
   	{% endif %}
 {% endfor %}
-
 
 
