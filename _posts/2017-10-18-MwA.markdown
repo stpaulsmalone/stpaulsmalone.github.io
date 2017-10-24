@@ -96,6 +96,7 @@ Pastor Dan</div>
 |  | Noisy Sunday! |
 | 11/26 | 10:00 Worship and Sunday School |
 |  | Christ the King Sunday |
+</div>
 
 <div class="after-box">
     <h3>Holyland Food Pantry needs</h3>
