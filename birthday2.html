@@ -1,0 +1,23 @@
+---
+---
+
+
+{% for birthday in site.data.birthday %}
+  	{% assign date_birthday = birthday.birthday | date: '%j' %}
+	{% assign date_now = '10/23' | date: '%j' %}
+	{% assign date_difference = date_birthday | minus: date_now %}
+	{% assign january_birthday = date_birthday | plus: date_birthday %}
+	{% if date_difference > 0 and date_difference < 7 %}
+		<ul>
+			<li>
+	     	 {{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }}
+	  		</li>
+	  	{% elsif january_birthday <= 14 and date_difference <= -352 %}
+	  		<li>
+	     	 {{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }}
+	  		</li>
+	  	</ul>
+  	{% endif %}
+{% endfor %}
+
+
