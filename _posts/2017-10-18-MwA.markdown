@@ -96,8 +96,9 @@ Short and to-the-point, and for once, it's not the kids who are getting scolded.
 
 <div class="blessings">Many blessings,<br />
 Pastor Dan</div>
-
-<div class="after-box" style="padding-top: 20px;">
+<br />
+<br />
+<div class="after-box">
 
 <h3>Upcoming Events:</h3>
 {% capture page_events %}
