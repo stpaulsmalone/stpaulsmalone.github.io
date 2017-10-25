@@ -754,7 +754,7 @@ div.neighbor-modal img {
     h2.section-heading.news {
         padding-bottom: 50px;
     }
-    p.teaser {
+    div.teaser {
         padding-top: 0;
         text-align: center;
         font-style: italic;
