@@ -94,7 +94,7 @@ This week's scriptures:
 Short and to-the-point, and for once, it's not the kids who are getting scolded.
 
 
-<div class="blessings">Many blessings,<br />
+<div class="blessings" style="font-family: 'Palatino', Times, serif;">Many blessings,<br />
 Pastor Dan</div>
 <br />
 <br />
