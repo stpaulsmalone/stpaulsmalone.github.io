@@ -1,13 +1,7 @@
-{% capture currentDate %}
-      {{ 'now' | date: '%j'}}
-    {% endcapture %}
-{{ include.page_date }}
-{{page_date | date: '%j'}}
 <h3>Happy Birthday to:</h3>
 <ul class="no-bullets">
 {% for birthday in site.data.birthday %}
   	{% assign date_birthday = birthday.birthday | date: '%j' %}
-	{% assign date_now = "now" %}
 	{% assign date_difference = date_birthday | minus: page_date %}
 	{% assign january_birthday = date_birthday | plus: date_birthday %}
 	{% if date_difference == 0 %}
@@ -15,7 +9,7 @@
 	    	{{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }}
 	  	</li>
 	{% endif %}
-	{% if date_difference > 0 and date_difference < 7 %}
+	{% if date_difference > 0 and date_difference < 8 %}
 		<li>
 	    	{{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }}
 	  	</li>
@@ -25,8 +19,6 @@
 	     	{{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }}
 	  	</li>
   	 {% endif %}
-  	 <li>{{ birthday.name }}, {{ birthday.birthday | date: '%-m/%-d' }} {{currentDate}} {{date_birthday}} {{date_difference}} </li>
 {% endfor %}
 </ul>
-<p class="no-left">Are we missing anyone?</p>
-
+<p>Are we missing anyone?</p>

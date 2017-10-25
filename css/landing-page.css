@@ -384,6 +384,10 @@ img.pastor-pic {
     padding-left: 10px;
 }
 
+section#hfp {
+    
+}
+
 div.taco-modal {
     color: #000;
     border-bottom: 1px dotted blue;
@@ -558,28 +562,29 @@ div.post-divider img {
 
 /* After Box */
 
-div.after-box, div.after-box2 {
+div.after-box {
     background-color: #333;
     color: #fff;
+    margin-top: 25px;
     padding: 0 20px 25px 20px;
 }
 div.after-box h3 {
     padding-top: 25px;
     padding-bottom: 10px;
 }
-div.after-box table {
+table.upcoming {
     margin-bottom: 20px;
 }
 td { 
     padding-bottom: 0;
 }
-div.after-box td {
+table.upcoming td {
     padding-right: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
 }
 
 .after-box:last-of-type {
-    margin-top: -25px;
+    margin-top: 25px;
     padding-bottom: 30px;
 }
 
@@ -629,6 +634,16 @@ div.custom-photo {
     margin-bottom: 10px;
     margin-left: -5px;
     overflow: hidden;
+}
+
+div.custom-photo.hfp {
+    float: left;
+    padding: 0;
+    margin: 0px 25px 10px 0px;
+    border: 1px solid #000;
+    position: relative;
+    min-width: 48%;
+    min-height: 74vh;
 }
 
 div.custom-photo a:first-of-type {

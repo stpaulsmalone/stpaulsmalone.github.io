@@ -1,0 +1,8 @@
+<table class="upcoming">
+	{% for item in page.calendar %}
+	<tr>
+		<td>{{ item.date }}</td>
+		<td>{{ item.events }}</td>
+	</tr>
+	{% endfor %}
+</table>

@@ -1,0 +1,22 @@
+---
+layout: default
+class: page
+title: Calendar
+---
+
+<div class="content no-columns">
+<h3>Upcoming Events at St. Paul's</h3>
+
+{% assign post = site.posts.first %}
+{% assign calendar = post.calendar %}
+
+<table class="upcoming">
+	{% for item in calendar %}
+	<tr>
+		<td>{{ item.date }}</td>
+		<td>{{ item.events }}</td>
+	</tr>
+	{% endfor %}
+</table>
+</div>
+
