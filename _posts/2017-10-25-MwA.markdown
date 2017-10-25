@@ -1,0 +1,100 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 10/18/17 - If you can't see this, I've messed something up
+img: noisy102517.jpg
+caption:
+teaser: So far, $72.52 collected on Noisy Sundays. Keep it up, kids!
+calendar: 
+     - date: 10/29
+       events: 10&#58;00 Worship with Fellowship<br />Reformation Sunday
+     - date: 10/30
+       events: 7&#58;00 Mission Committee
+     - date: 11/1
+       events: 7&#58;00 Worship Committee
+     - date: 11/5
+       events: Worship with Communion&mdash;Kids' Sunday<br />Food Pantry Blessing<br />All Saints' Day
+     - date: 11/12
+       events: Worship and Sunday School<br />Council meeting after worship
+     - date: 11/13
+       events: Women's Fellowship
+     - date: 11/19
+       events: Worship with Communion (Circle)&mdash;Kids' Sunday! <br />Noisy Sunday!
+     - date: 11/26
+       events: 10&#58;00 Worship and Sunday School<br />Thanksgiving Sunday<br />Christ the King Sunday
+---
+
+If all goes well, you will be receiving this email via RSS, which is web-gibberish for "an automated system that allows Pastor Dan to post on the church website and automatically generate an email for everyone." If all does *not* go well, you'll be wondering where your weekly update got to.
+
+In any case, I have added a few other things to the website. One is a "<a href="https://stpaulsmalone.org/directions/">Find Us</a>" page with directions to the church, another is a <a href="https://stpaulsmalone.org/calendar/">Calendar</a>, so you don't have to go rummaging through back issues of the Midweek Apostle to see what's coming up. Oh, and if you look at the <a href="https://stpaulsmalone.org/hfp/">Holyland Food Pantry</a> page, you'll see a list of needs for the month. 
+
+Be prepared: there's more to come. And with that, on to the week's news.<!--more-->
+
+## 1.
+
+A few different needs for the week:
+
+- Someone to host Fellowship Hour this Sunday. Please let me know if you're interested, and also what delicious treats you're planning to bring. There's at least one container of juice downstairs to give you a head start.
+- Adults willing to work with young members as they take part in worship, or to sit in the kids' area in the back of church during worship to help keep them on track.
+- Anyone willing to serve on Council beginning in 2018.
+
+## 2.
+
+Help make Christmas shine bright for a child! Our annual Salvation Army Christmas Giving Tree is displayed on the North wall of the sanctuary (near the children’s area). Please select a card from the wall and shop for your child. Return your unwrapped gift by Sunday, December 3rd with the gift selection card attached. If we run out of tags, we can always adopt another family.
+
+In other Mission-related news, we collected $1020 for the KIVA fund, well above the goal. Yay, thank you everybody!
+
+And, the Mission Committee will meet October 30th, 7:00 p.m. downstairs at the parsonage. Stop by and hear about our plans.
+
+## 3.
+
+Nancy Beckman provided an update from the Future Building Committee in worship this past Sunday. In case you weren't around, [you can read it here](https://stpaulsmalone.org/documents/bldg102217.pdf).
+
+## 4.
+
+The Turkey Trot is back! We will gather at 8:00 on Thanksgiving morning at the church in St. Cloud for an ecumenical prayer service, followed by the Walk/Run at 8:30. Donations raised at the event go to support of the Holyland Food Pantry.
+
+Last year, St. Paul's was represented by Jen, Bill, and myself, joined by Taco. I would like to challenge our congregation to turn out for this event. It's an easy-ish walk, and really a lot of fun. Put the turkey in a Nesco and put your walking shoes on!
+
+## 5.
+
+Since Father Gary mentioned it in his newsletter, I'll mention it here: we'll have a pulpit exchange for the week of Christian Unity in 2018. I'll preach at Johnsburg on Saturday, January 20th and St. Cloud at 8:00 on Sunday the 21st. Father Gary will join us for worship that morning at 10:00. Looking forward to it.
+
+
+## 6.
+
+St. John UCC in New Holstein is welcoming "Broken Chains," a Christian musical group, at their service this coming Sunday. All are welcome, and a coffee reception will follow.
+
+
+## 7.
+
+This week's scriptures is:
+<ul>
+	<li><a href="http://bible.oremus.org/?ql=375961068">John 8:31–36</a></li>
+</ul>
+
+It's Reformation Day. I'll be preaching on the question of "what is truth?" If you have any ideas, I could sure use them.
+
+
+<div class="blessings" style="font-family: 'Palatino', Times, serif;">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
