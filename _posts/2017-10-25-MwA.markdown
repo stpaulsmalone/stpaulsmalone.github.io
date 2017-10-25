@@ -3,7 +3,7 @@ layout: mwa_post
 category: news
 class: page
 description:
-title: Midweek Apostle 10/18/17 - If you can't see this, I've messed something up
+title: Midweek Apostle 10/25/17 - If you can't see this, I've messed something up
 img: noisy102517.jpg
 caption:
 teaser: So far, $72.52 collected on Noisy Sundays. Keep it up, kids!
