@@ -1,0 +1,24 @@
+rss {
+	font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif;
+    max-width: 750px;
+    display: block;
+}
+
+title {
+display: block;
+margin: 5px;
+padding: 2px;
+border-bottom: 1px solid black;
+font-family: Arial, sans-serif;
+}
+
+link {
+display: block;
+font-size: small;
+padding-left: 10px;
+}
+
+item {
+display: block;
+padding: 2px 30px 2px 30px;
+}
