@@ -28,7 +28,7 @@ calendar:
 
 If all goes well, you will be receiving this email via RSS, which is web-gibberish for "an automated system that allows Pastor Dan to post on the church website and automatically generate an email for everyone." If all does *not* go well, you'll be wondering where your weekly update got to.
 
-In any case, I have added a few other things to the website. One is a "<a href="https://stpaulsmalone.com/directions/">Find Us</a>" page with directions to the church, another is a <a href="https://stpaulsmalone.com/calendar/">Calendar</a>, so you don't have to go rummaging through back issues of the Midweek Apostle to see what's coming up. Oh, and if you look at the <a href="https://stpaulsmalone.com/hfp/">Holyland Food Pantry</a> page, you'll see a list of needs for the month. 
+In any case, I have added a few other things to the website. One is a "<a href="http://stpaulsmalone.org/directions/">Find Us</a>" page with directions to the church, another is a <a href="http://stpaulsmalone.org/calendar/">Calendar</a>, so you don't have to go rummaging through back issues of the Midweek Apostle to see what's coming up. Oh, and if you look at the <a href="http://stpaulsmalone.org/hfp/">Holyland Food Pantry</a> page, you'll see a list of needs for the month. 
 
 Be prepared: there's more to come. And with that, on to the week's news.<!--more-->
 
@@ -50,7 +50,7 @@ And, the Mission Committee will meet October 30th, 7:00 p.m. downstairs at the p
 
 ## 3.
 
-Nancy Beckman provided an update from the Future Building Committee in worship this past Sunday. In case you weren't around, [you can read it here](https://stpaulsmalone.com/documents/bldg102217.pdf).
+Nancy Beckman provided an update from the Future Building Committee in worship this past Sunday. In case you weren't around, [you can read it here](http://stpaulsmalone.org/documents/bldg102217.pdf).
 
 ## 4.
 

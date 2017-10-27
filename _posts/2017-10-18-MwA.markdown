@@ -3,7 +3,7 @@ layout: mwa_post
 category: news
 class: page
 description:
-title: Midweek Apostle 10/18/17 - Quick, no time to explain - go to stpaulsmalone.com right away
+title: Midweek Apostle 10/18/17 - Quick, no time to explain - go to stpaulsmalone.org right away
 img: new-site.jpg
 caption:
 teaser: If you want, I can explain how I built the site (you don't want).
@@ -34,7 +34,7 @@ calendar:
        events: 10&#58;00 Worship and Sunday School<br />Christ the King Sunday
 ---
 
-The big news of the week, as the headline indicates and after a whole lot of work, is that <a href="http://stpaulsmalone.com">we now have a church website</a>! 
+The big news of the week, as the headline indicates and after a whole lot of work, is that <a href="http://stpaulsmalone.org">we now have a church website</a>! 
 
 I'm not kidding when I say "a whole lot of work": I've been messing with this since July or August. Why did it take so long? A variety of reasons: first, I'm admittedly a bit rusty in my web-building skills. Second, this is more than a "cut and paste" site: it's got some cool customized features that I hope you will enjoy. Usually, turning something like this around quickly requires a team effort, and I've been working at it alone.
 
@@ -75,7 +75,7 @@ The October/November read is "The Autobiography of Santa Claus" by Jeff Guinn. B
 
 ## 5.
 
-Did you know the new site has a <a href="http://stpaulsmalone.com/sermons/">sermons page</a>? Very useful for those nights you can't quite drift off to sleep!
+Did you know the new site has a <a href="http://stpaulsmalone.org/sermons/">sermons page</a>? Very useful for those nights you can't quite drift off to sleep!
 
 
 ## 6.

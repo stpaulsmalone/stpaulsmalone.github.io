@@ -2,15 +2,15 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="http://stpaulsmalone.com/css/rss.css" ?>
+<?xml-stylesheet type="text/css" href="http://stpaulsmalone.org/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="http://stpaulsmalone.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://stpaulsmalone.org/feed.xml" rel="self" type="application/rss+xml"/>
     <link>{{ site.url }}/css/landing-page.css</link>
-    <atom:link href="http://stpaulsmalone.com/css/landing-page.css" rel="stylesheet" type="css"/>
+    <atom:link href="http://stpaulsmalone.org/css/landing-page.css" rel="stylesheet" type="css"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
@@ -20,7 +20,7 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         <description>
             {{ post.teaser | xml_escape }}
-            <![CDATA[ <img src="http://stpaulsmalone.com/img/news/{{ post.img }}"> ]]>
+            <![CDATA[ <img src="http://stpaulsmalone.org/img/news/{{ post.img }}"> ]]>
             {{ post.content | xml_escape }}
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
