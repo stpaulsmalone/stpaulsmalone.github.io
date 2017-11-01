@@ -4,8 +4,8 @@ category: news
 class: page
 description:
 title: Midweek Apostle 11/1/17 - Happy All Saints' Day!
-img: noisy102517.jpg
-caption:
+img: quilt110117.jpg
+caption: Nancy Beckman shared this quilt at the last Women's Fellowship Meeting
 teaser: I can't believe it's only All Saints' and we're already planning Advent...
 calendar: 
      - date: 11/1
