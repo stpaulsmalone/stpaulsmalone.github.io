@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Women's Fellowship
+alias: wfp
+img-float: left
 class: page
 sitemap:
     priority: 0.7
@@ -20,35 +22,9 @@ image-array:
        lightbox: wfp
        alt: Amazing generosity
 ---
+{% include custom-photo.html %}
 
-<section id="wfp">
-    <div class="content-section-b page">
-
-        <div class="container page">
-
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6">
-                    <div class="clearfix"></div>
-                    <div class="lead padding-left">
-                    	<p>Since <a href="../history/index.html#womenshistory">at least 1918</a>, St. Paul's has had a secret superpower: the Women's Fellowship. The longest-running social group in the congregation, Women's Fellowship is the backbone for much of what happens around the church. They sing and play handbells at local nursing homes, provide catering for funeral lunches, organize bake sales and parents' nights out, pay for janitorial services, and conduct charity drives for the Holyland Food Pantry, among many other organizations.</p>
-                    	<p>They also provide fellowship, of course, with educational programs, field trips, lunches, dinners, and Tuesdays Together in the summer.</p>
+<div class="textwrap-right">
+  <p>Since <a href="../history/index.html#womenshistory">at least 1918</a>, St. Paul's has had a secret superpower: the Women's Fellowship. The longest-running social group in the congregation, Women's Fellowship is the backbone for much of what happens around the church. They sing and play handbells at local nursing homes, provide catering for funeral lunches, organize bake sales and parents' nights out, pay for janitorial services, and conduct charity drives for the Holyland Food Pantry, among many other organizations.</p>
+  <p>They also provide fellowship, of course, with educational programs, field trips, lunches, dinners, and Tuesdays Together in the summer.</p>
 </div>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6 col-sm-6 no-left">
-                  <div class="custom-photo wfp">
-    {% for item in page.image-array %}
-     <a href="{{ site.url }}/img/wfp/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/wfp/{{ item.img }}'>{{ item.alt }}</a>">
-         <img data-src="{{ site.url }}/img/wfp/{{ item.img }}" src="{{ site.url }}/img/wfp/{{ item.img }}" alt="{{ item.alt }}">
-         <span class="click-me">click to see more</span>
-     </a>
-    {% endfor %}
-  </div>
-                  
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-b -->

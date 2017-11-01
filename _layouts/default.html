@@ -4,10 +4,27 @@
 
 	<body onunload="">
 		{% include header.html %}
-		{% if page.class contains "page" %}
-			{% else %} {% include modal.html %}	
-		{% endif %}
-		{% include content.html %}
+			{% assign class = page.class %}
+			{% case class %}
+				{% when 'page' %}
+					<section id="{{ page.alias }}" class="{{ page.img-float }}">   
+						  <div class="content">
+						    <div class="container">
+						      <div class="clearfix"></div>
+						      {% include content.html %}
+				{% when 'index' %}
+					{% include modal.html %}
+					{% include content.html %}
+				{% when 'no-columns' %}
+				<section id="{{ page.alias }}" class="no-float">   
+						  <div class="content">
+						    <div class="container">
+						    	{% include content.html %}
+				{% endcase %}
+				</div>
+		    </div>
+		   <!-- /.content -->
+		 </section>
 		{% include contact.html %}
 		{% include footer.html %}
 		{% include js.html %}

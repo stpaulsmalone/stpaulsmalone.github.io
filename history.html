@@ -1,13 +1,14 @@
 ---
 layout: default
 title: History
-class: page
+alias: history
+class: no-columns
 sitemap:
     priority: 0.7
     changefreq: 'yearly'
     lastmod: 2017-10-17T19:23:34+00:00
 ---
-
+<h2 class="section-heading history">History</h2>
 <h3 class="no-columns">Timeline</h2>
 
 <table class="page-table" id="timeline">
@@ -55,7 +56,7 @@ sitemap:
     </tr>
     <tr class="decade-start">
       <td>1870</td>
-      <td>Arrival of Rev. Rahmeier of the Evangelical Synod, a predecessor of<br /> the <a href="http://ucc.org">United Church of Christ.</a> After this point, ministers seem to be exclusively from the Evangelical Synod and successor bodies.</td>
+      <td>Arrival of Rev. Rahmeier of the Evangelical Synod, a predecessor of <span id="rahmeier"><br /></span>the <a href="http://ucc.org">United Church of Christ.</a> After this point, ministers seem to be exclusively from the Evangelical Synod and successor bodies.</td>
     </tr>
     <tr>
       <td>1873</td>
@@ -101,7 +102,7 @@ sitemap:
    	<td class="decade-end">Rudolph Kalwitz ordained at St. Paul's</td>
    </tr>
     <tr class="alt-decade-start" id="Wilking">
-      <td>1944-1945</td>
+      <td id="adjustable">1944-<span id="insertbr"></span>1945</td>
       <td>Sanctuary refurbished<br />
       “Christ in Gethsemane” altar painting by Rev. E.F. Wilking installed</td>
     </tr>
@@ -159,3 +160,14 @@ sitemap:
     </tr>
   </tbody>
 </table>
+
+<script type="text/javascript">
+  if ($(window).width() < 768){
+    $( '#insertbr' ).html("<br />");
+    $( '#rahmeier' ).empty();
+  }
+  if ($(window).width() >= 768){
+    $( '#insertbr' ).empty();
+    $( '#rahmeier' ).html("<br />");
+  }
+</script>

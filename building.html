@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Our Building
+alias: building
+img-float: right
 class: page
 sitemap:
     priority: 0.7
@@ -38,37 +40,10 @@ image-array:
        lightbox: building
        alt: Sanctuary facing west
 ---
+{% include custom-photo.html %}
 
- <section id="building">   
-  <div class="content-section-a page">
-   
-       <div class="container">
-   
-           <div class="row">
-               <div class="col-lg-5 col-sm-6">
-                   <div class="clearfix"></div>
-                   <div class="lead padding-right">
-                       <p>Our sanctuary, built in <a href="../history/index.html#Building">1892</a>, is the third building St. Paul's has occupied.</p>
-                       <p>A lovely example of Cream City brick architecture, our sanctuary is treasured for its historic character, family memories, and cozy interior. Modern features include a hearing loop and a wheelchair ramp for accessibility. St. Paul's is in the midst of considering a building program. Stay tuned for more details.</p>
-
-                       <p>You can find more information about the building in the <a href="..history/">history of St. Paul's</a>. </p>
-   </div>
-               </div>
-               <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                   <div class="custom-photo building">
-   {% for item in page.image-array %}
-    <a href="{{ site.url }}/img/building/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/building/{{ item.img }}'>{{ item.alt }}</a>">
-        <img data-src="{{ site.url }}/img/building/{{ item.img }}" src="{{ site.url }}/img/building/{{ item.img }}" alt="{{ item.alt }}">
-        <span class="click-me">click to see more</span>
-    </a>
-   {% endfor %}
-     </div>
-               </div>
-           </div>
-   
-       </div>
-       <!-- /.container -->
-   
-   </div>
-   <!-- /.content-section-a -->
- </section>
+<div class="textwrap-left">
+    <p>Our sanctuary, built in <a href="../history/index.html#Building">1892</a>, is the third building St. Paul's has occupied.</p>
+    <p>A lovely example of Cream City brick architecture, our sanctuary is treasured for its historic character, family memories, and cozy interior. Modern features include a hearing loop and a wheelchair ramp for accessibility. St. Paul's is in the midst of considering a building program. Stay tuned for more details.</p>
+    <p>You can find more information about the building in the <a href="..history/">history of St. Paul's</a>. </p>
+</div>

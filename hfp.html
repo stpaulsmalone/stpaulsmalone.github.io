@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Holyland Food Pantry
-class: page
+alias: hfp
+img-float: right
+class: no-columns
 sitemap:
     priority: 0.7
     changefreq: 'yearly'
@@ -17,24 +19,15 @@ image-array:
        lightbox: xned
        alt: Amazing generosity
 ---
+<h2>Holyland Food Pantry</h2>
+{% include custom-photo.html %}
 
-<section id="hfp">
-    <div class="content no-columns">
-        <div class="custom-photo hfp">
-            {% for item in page.image-array %}
-             <a href="{{ site.url }}/img/hfp/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/hfp/{{ item.img }}'>{{ item.alt }}</a>">
-                 <img data-src="{{ site.url }}/img/hfp/{{ item.img }}" src="{{ site.url }}/img/hfp/{{ item.img }}" alt="{{ item.alt }}">
-                 <span class="click-me">click to see more</span>
-             </a>
-            {% endfor %}
-        </div>
+<div class="hfp">
+  <p>At St. Paul's, we know that we are recipients of God's amazing generosity. God has fed us in so many ways. That's why, since 2015, the Holyland Food Pantry&mdash;a cooperative ministry of St. Paul's and several partners&mdash;has shared space with our offices in the St. Paul's parsonage.</p>
+  <p>HFP distributes on the third Friday of each month, from 11:00 a.m. to 1:00 p.m., and from 2:00 p.m. to 6:00 p.m. They support several dozen families in the Holyland.</p>
+  <p>Non-perishable donations can be dropped off in the large box on the parsonage porch.</p>
+  <p><strong>If you or someone you know is in need of food assistance, please call 920-418-1580. All calls and information will remain confidential.</strong></p>
+  <p>For more information on how to volunteer or connect with the Holyland Food Pantry, visit their <a href="http://holylandfoodpantry.webs.com">website</a> or <a href="https://www.facebook.com/holylandfoodpantry/">Facebook</a> page.</p>
+</div>
 
-        <p>At St. Paul's, we know that we are recipients of God's amazing generosity. God has fed us in so many ways. That's why, since 2015, the Holyland Food Pantry&mdash;a cooperative ministry of St. Paul's and several partners&mdash;has shared space with our offices in the St. Paul's parsonage.</p>
-        <p>HFP distributes on the third Friday of each month, from 11:00 a.m. to 1:00 p.m., and from 2:00 p.m. to 6:00 p.m. They support several dozen families in the Holyland.</p>
-        <p>Non-perishable donations can be dropped off in the large box on the parsonage porch.</p>
-        <p><strong>If you or someone you know is in need of food assistance, please call 920-418-1580. All calls and information will remain confidential.</strong></p>
-        <p>For more information on how to volunteer or connect with the Holyland Food Pantry, visit their <a href="http://holylandfoodpantry.webs.com">website</a> or <a href="https://www.facebook.com/holylandfoodpantry/">Facebook</a> page.</p>
-
-        {% include hfp_needs.html %}
-    </div>
-</section>
+{% include hfp_needs.html %}

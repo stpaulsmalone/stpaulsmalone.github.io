@@ -1,0 +1,105 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 11/1/17 - Happy All Saints' Day!
+img: noisy102517.jpg
+caption:
+teaser: I can't believe it's only All Saints' and we're already planning Advent...
+calendar: 
+     - date: 11/1
+       events: 7&#58;00 Worship Committee
+     - date: 11/5
+       events: Worship with Communion&mdash;Kids' Sunday<br />Food Pantry Blessing<br />All Saints' Day
+     - date: 11/12
+       events: Worship and Sunday School<br />Council meeting after worship
+     - date: 11/13
+       events: Women's Fellowship
+     - date: 11/19
+       events: Worship with Communion (Circle)&mdash;Kids' Sunday! <br />Noisy Sunday!
+     - date: 11/26
+       events: 10&#58;00 Worship and Sunday School<br />Thanksgiving Sunday<br />Christ the King Sunday
+     - date: 12/3
+       events: 10&#58;00 Worship with Communion<br />Kids' Sunday! <br />First Sunday in Advent
+---
+
+Lots to talk about this week, and I have to run out to make a pastoral visit, so just one thing before we get down to the news. Keep letting me know if you have problems with the website. I think I've solved the whole security issue, but now I'm making sure things look okay on iPads and phones, etc. If anything looks weird, let me know.<!--more-->
+
+## 1.
+
+Don't forget to set your clocks back Saturday night. You can use the extra sleep. Trust me on this.
+
+Also on Sunday! Kids are invited to wear their Halloween costumes to church and do a little trick-or-treating during the offering. Big people, bring a little leftover candy if you please. We don't want the church windows getting soaped.
+
+## 2.
+
+Peg Isaacson is organizing a "Pie Day" for her new cousin-in-law Leah Peterson. Everyone is invited to come to the Isaacsons' at 1:00 on November 12th. Bring a pie based on your first initial.
+
+
+## 3.
+
+Women's Fellowship will make Thanksgiving Baskets at their November meeting. Please consider donating fruit, cookies, candy, treats—anything to make the folks we want to remember smile. Also, if you have someone whose name you'd want us to share with&mdash;an elderly neighbor, someone with health concerns, someone in need&mdash;please contact Sue Schultz, Nancy Beckman, or Pastor Dan.
+
+## 4.
+
+<strike>Two</strike> *Three* things from the Mission Committee:
+
+- During the month of November, the Mission Committee is sponsoring a
+Thanksgiving Drive. We are asking  St. Paul's UCC Church member/families 
+to donate diapers (sizes 1, 4, 5, 6), baby wipes and toilet paper to be distributed to
+our Holyland Food Pantry families. Donations can be brought to church. Also, monetary
+donations are being accepted. There is a container for monetary donations on the 
+counter when you enter church.  The Thanksgiving Drive will end on Sunday,November 26th.
+Thanks to all who donate to the Thanksgiving Drive.
+
+- Due to the popularity of the 2017 St. Paul's UCC Adopt-A-Family mission project, 
+we have added a third family we will be adopting from the FDL Salvation Army 
+Adopt-A Family program. Gift tags will be added to our giving wall tree at church.
+Thanks to St. Paul's UCC members for your generous, giving hearts.
+
+- We will be singing to residents of Willowdale Nursing Facility in New Holstein at 6:30 on December 4th. Elaine Hessil and Karen Cmejla will bring bells from Ebenezer UCC, and we will provide dessert for the residents. Come join us!
+
+## 5.
+
+Whoops&mdash;my family reminded me that Tom and Lori Schmitz walked in the Turkey Trot last year. Sorry Tom, sorry Lori. We can still use you and/or your dog, if they're willing to walk: 8:00 Ecumenical prayer service, 8:30 the Trot itself.
+
+
+## 6.
+
+We're still looking for folks willing to serve on the Church Council next year. I know how this works: nobody volunteers until they're asked. So, just pray on it, and be ready if you are nominated.
+
+
+## 7.
+
+This week's scriptures:
+<ul>
+<li><a href="http://bible.oremus.org/?ql=376562161">Revelation 7:9-17</a></li>
+<li><a href="http://bible.oremus.org/?ql=376562161">Psalm 34:1-10, 22</a></li>
+<li><a href="http://bible.oremus.org/?ql=376562161">1 John 3:1-3</a></li>
+<li><a href="http://bible.oremus.org/?ql=376562161">Matthew 5:1-12</a></li>
+</ul>
+
+O taste and see that the Lord is good!
+
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}

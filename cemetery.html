@@ -1,6 +1,8 @@
 ---
 layout: default
 title: St. Paul's Cemetery
+alias: cemetery
+img-float: left
 class: page
 sitemap:
     priority: 0.7
@@ -56,34 +58,9 @@ image-array:
        lightbox: cemetery
        alt: Memorial flowers (geraniums)
 ---
+{% include custom-photo.html %}
 
-<section id="cemetery">
-    <div class="content-section-b page">
-
-        <div class="container page">
-
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <div class="clearfix"></div>
-                    <div class="lead padding-left"><p>The St. Paul's cemetery lies at the end of a gravel road, surrounded by farm fields on a wooded slope about a quarter-mile from the present sanctuary.</p>
-                    <p>As best we can tell, the cemetery predates the congregation itself, with burials going back to the 1830's. It is a place of great peace, often visited by members looking for solitude to think, meditate, and pray. The cemetery board has begun a long-term effort to locate and map all the graves. We hope to post the results of this survey and other genealogical data soon.</p>
+<div class="textwrap-right">
+  <p>The St. Paul's cemetery lies at the end of a gravel road, surrounded by farm fields on a wooded slope about a quarter-mile from the present sanctuary.</p>
+  <p>As best we can tell, the cemetery predates the congregation itself, with burials going back to the 1830's. It is a place of great peace, often visited by members looking for solitude to think, meditate, and pray. The cemetery board has begun a long-term effort to locate and map all the graves. We hope to post the results of this survey and other genealogical data soon.</p>
 </div>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6 col-sm-6 no-left">
-                  <div class="custom-photo cemetery">
-    {% for item in page.image-array %}
-     <a href="{{ site.url }}/img/cemetery/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/cemetery/{{ item.img }}'>{{ item.alt }}</a>">
-         <img data-src="{{ site.url }}/img/cemetery/{{ item.img }}" src="{{ site.url }}/img/cemetery/{{ item.img }}" alt="{{ item.alt }}">
-         <span class="click-me">click to see more</span>
-     </a>
-    {% endfor %}
-  </div>
-                  
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-b -->

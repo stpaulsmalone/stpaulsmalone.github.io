@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hospitality
+alias: hospitality
+img-float: left
 class: page
 sitemap:
     priority: 0.7
@@ -32,36 +34,9 @@ image-array:
        lightbox: welcome
        alt: Dinner church at Vesper Point
 ---
+{% include custom-photo.html %}
 
-<section id="hospitality">
-    <div class="content-section-b page">
-
-        <div class="container page">
-
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <div class="clearfix"></div>
-                    <div class="lead padding-left">
-                    	<p>We are an intentionally welcoming, accepting and affirming congregation, including across generational lines.</p>
-                    	<p>We prize our openness and want to extend our table. That starts with the Lord's Supper, where there are no barriers, no tests to pass before you can receive. It continues with fellowship: after church, in the book club, visiting an old friend at the nursing home, talking away a summer evening on the shore of Lake Winnebago, or in our many social gatherings. No matter who you are, pull up a chair. You're always welcome here.</p>
+<div class="textwrap-right">
+  <p>We are an intentionally welcoming, accepting and affirming congregation, including across generational lines.</p>
+  <p>We prize our openness and want to extend our table. That starts with the Lord's Supper, where there are no barriers, no tests to pass before you can receive. It continues with fellowship: after church, in the book club, visiting an old friend at the nursing home, talking away a summer evening on the shore of Lake Winnebago, or in our many social gatherings. No matter who you are, pull up a chair. You're always welcome here.</p>
 </div>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6 col-sm-6 no-left">
-                  <div class="custom-photo">
-		{% for item in page.image-array %}
-		 <a href="{{ site.url }}/img/hospitality/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/hospitality/{{ item.img }}'>{{ item.alt }}</a>">
-		     <img data-src="{{ site.url }}/img/hospitality/{{ item.img }}" src="{{ site.url }}/img/hospitality/{{ item.img }}" alt="{{ item.alt }}">
-         <span class="click-me">click to see more</span>
-		 </a>
-		{% endfor %}
-	</div>
-                  
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-b -->
-</section>

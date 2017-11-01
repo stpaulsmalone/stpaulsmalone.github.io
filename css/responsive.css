@@ -1,0 +1,471 @@
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+    
+    a.navbar-brand {
+        margin-left: 5%;
+    }
+    
+    #intro h3 {
+        font-size: 1.35em;
+    }
+    div.padding-left {
+        padding-left: 0;
+    }
+    div.content-section-a.page {
+        margin-left: 0;
+    }
+    div.padding-right {
+        padding-right:0;
+    }
+
+    section.right h2.section-heading {
+        padding-left: 0;
+    }
+    
+    section.left h2.section-heading {
+        padding-left:7%;
+    }
+    h2.section-heading.news {
+        padding-left: 5%;
+        font-size: 1.75em;
+    }
+    ul.post-list h3 {
+        font-size: 1.05em;
+    }
+    ul.post-list figure img {
+        max-width: 100%;
+    }
+    ul.post-list li h2 {
+        margin-left: -1%;
+    }
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 2.75em;
+    }
+
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    div.post-divider {
+        padding: 20px 0;
+    }
+
+    div.post-divider img {
+        width:35px;
+    }
+    
+    div.custom-photo a img:first-of-type {
+       max-width: 100%;
+    }
+    div.custom-photo {
+       margin-left: -5%;
+    }
+    div.textwrap-right {
+       float: none;
+       width: 100%;
+       padding-top: 50vh;
+        margin-left: 1%;
+    }
+    div.textwrap-left {
+       float: none;
+       width: 100%;
+       padding-top: 50vh;
+       margin-left: -5%;
+    }
+    section.right div.custom-photo {
+        float: none;
+        margin-left: -10%;
+        padding-bottom: 15px;
+    }
+    div.lead.page {
+        margin-bottom: 150px;
+    }
+    ul.customdrop { 
+        margin-left: 1%;
+    }
+    h3.no-columns {
+        margin-left: 5%;
+    }
+    #timeline {
+        margin-left: 5%;
+        font-size: .85em;
+    }
+    #timeline td {
+        padding-right: 0;
+    }
+    #timeline td:first-child {
+        padding-right: 0px;
+        padding-left: 0;
+        width: 50px;
+    }
+    #timeline br {
+        margin-bottom: 5px;
+    }
+    #insertbr br {
+        margin-bottom: 0px;
+    }
+    div.pastor {
+        max-width: 100%;
+    }
+    div.pastor-img {
+        max-width: 100%;
+        float: initial !important;
+        margin-left: -5%;
+        border:none;
+    }
+    div.pastor-img img {
+        max-width: 100vw;
+        border: 1px solid black;
+    }
+    div.content.no-columns {
+        max-width: 100%;
+    }
+    h2 {
+        margin-left: -5%;
+    }
+    div.no-columns h2 {
+        margin-left: 0;
+    }
+    #follow h2,
+    #calendar h2,
+    #wfp h2, #hfp h2 {
+        font-size: 1.5em;
+    }
+    #loving h2 {
+        font-size: 1.25em;
+    }
+    #hfp div.custom-photo {
+        margin-left: -6%;
+    }
+    #hfp div.custom-photo a img:first-of-type {
+        min-width: initial;
+        min-height: initial;
+    }
+    div.hfp {
+        margin-top: 70vh;
+    }
+    div.no-columns {
+        margin-top: 15vh;
+        max-width: 100%;
+    }
+    div.content.no-columns {
+        margin-top: 8vh;
+    }
+    table.upcoming {
+        font-size: .8em;
+        margin-top: 5vh;
+    }
+    table.upcoming td:nth-of-type(2) {
+        padding-right: 0;
+    }
+    
+}
+
+@media (max-width:799px) {
+   
+    div.textwrap-right {
+       float: none;
+       width: 100%;
+       padding-top: 55vh;
+       margin-left: 1%;
+        margin-top: 0;
+       padding-left: 0;
+    }
+    div.textwrap-left {
+       float: none;
+       width: 100%;
+       padding-top: 55vh;
+    }
+    #ministry div.textwrap-left {
+        padding-top: 60vh;
+    }
+    section.right div.container {
+        margin-left: 0;
+    }
+    section.right div.custom-photo {
+        float: none;
+        margin-right: 0;
+        margin-left: -7%;
+        padding-bottom: 15px;
+        max-width: 100vw;
+    }
+    div.lead.page {
+        margin-bottom: 150px;
+    }
+    ul.customdrop { 
+        margin-left: 1%;
+    }
+    h3.no-columns {
+        margin-left: 5%;
+    }
+    #timeline {
+        margin-left: 5%;
+        font-size: .85em;
+    }
+    #timeline td {
+        padding-right: 0;
+    }
+    #timeline td:first-child {
+        padding-right: 0px;
+        padding-left: 0;
+        width: 50px;
+    }
+    #timeline br {
+        margin-bottom: 5px;
+    }
+    #insertbr br {
+        margin-bottom: 0px;
+    }
+    div.pastor {
+        max-width: 100%;
+    }
+    div.pastor-img {
+        max-width: 100%;
+        float: left;
+        margin-left: 0%;
+        border:none;
+    }
+    div.pastor-img img {
+        max-width: 100vw;
+        border: 1px solid black;
+    }
+    div.pastor-img figure {
+        width: 250px;
+    }
+    div.content.no-columns {
+        max-width: 100%;
+    }
+    div.no-columns h2 {
+        margin-left: 0;
+    }
+    #hfp div.custom-photo {
+        margin-left: 0%;  
+    }
+    div.hfp {
+        margin-top: 73vh;
+    }
+    div.no-columns {
+        margin-top: 7vh;
+        max-width: 100%;
+    }
+    div.content.no-columns {
+        margin-top: 3vh;
+    }
+    table.upcoming {
+        margin-top: 4vh;
+    }
+    img.post-img {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 979px) {
+     nav.navbar div.container {
+        padding-left: 1%;
+    }
+    .nav > li > a {
+        padding: 17px 5px 0 5px;
+    }
+    h2.section-heading {
+        margin-left: -.5%;
+    } 
+    div.page {
+        margin-left: -.5%;
+    }
+    div.custom-photo {
+       margin-left: -5%;
+       float: initial !important;
+    }
+    div.custom-photo a img:first-of-type {
+       max-width: 100%;
+    }
+    div.textwrap-right {
+       float: none;
+       width: 100%;
+       padding-top: 45vh;
+       margin-left: 1%;
+        margin-top: 0;
+       padding-left: 0;
+    }
+    div.textwrap-left {
+       float: none;
+       width: 100%;
+       padding-top: 37vh;
+    }
+    
+    #xned div.textwrap-left {
+        margin-top: 8vh;
+    }
+    
+    #timeline tr > td {
+        padding-top: 10px;
+    }
+    
+    #timeline tr td:nth-of-type(2) {
+        display: table;
+        width: 500px;
+        margin-top: 10px;
+        margin-right: 20px;
+    }
+    
+    #timeline tr.decade-start td, tr.alt-decade-start td {
+        padding-top: 10px;
+    }
+    
+    div.no-columns {
+        max-width: 100%
+    }
+    
+    div.lead.no-columns {
+        margin-top: 5vh;
+    }
+    ul.no-bullets {
+        max-width: 80%;
+    }
+    #hfp h2, #hfp div.custom-photo {
+        margin-left: -1%;  
+    }
+    div.hfp {
+        margin-top: 58vh;
+        margin-left: -1%;
+    }
+    
+    #ministry div.textwrap-left {
+        margin-top: 12vh;
+    }
+}
+
+@media (max-width: 1279px) {
+     nav.navbar div.container {
+        padding-left: 1%;
+    }
+    .nav > li > a {
+        padding: 17px 5px 0 5px;
+    }
+    h2.section-heading {
+        margin-left: 1%;
+    } 
+    #xned h2.section-heading, #ministry h2.section-heading {
+        margin-left: 11%;
+    }
+    #news h2.section-heading {
+        margin-left: -.5%;
+    }
+    div.page {
+        margin-left: -.5%;
+    }
+    div.custom-photo {
+       margin-left: -16%;
+       float: initial !important;
+    }
+    #xned div.custom-photo a {
+        margin-left: 7.8%;
+        max-width: 100%;
+    }
+    div.custom-photo a img:first-of-type {
+       max-width: 100%;
+    }
+    div.textwrap-right {
+       float: none;
+       width: 100%;
+       padding-top: 53vh;
+       margin-left: 1%;
+        margin-top: 0;
+       padding-left: 0;
+    }
+    div.textwrap-left {
+       float: none;
+       width: 100%;
+       padding-top: 45vh;
+    }
+    
+    #xned div.textwrap-left {
+        margin-top: 8vh;
+        margin-left: 11%;
+    }
+    
+    #timeline tr > td {
+        padding-top: 10px;
+    }
+    
+    #timeline tr td:nth-of-type(2) {
+        display: table;
+        width: 500px;
+        margin-top: 10px;
+        margin-right: 20px;
+    }
+    
+    #timeline tr.decade-start td, tr.alt-decade-start td {
+        padding-top: 10px;
+    }
+    
+    div.no-columns {
+        max-width: 100%;
+        margin-left: -.25%;
+    }
+    
+    div.no-columns h2 {
+        margin-left: -.5%;
+    }
+    
+    div.lead.no-columns {
+        margin-top: 5vh;
+    }
+    ul.no-bullets {
+        max-width: 80%;
+    }
+    #hfp h2, #hfp div.custom-photo {
+        margin-left: -1%;  
+    }
+    div.hfp {
+        margin-top: 58vh;
+        margin-left: -1%;
+    }
+    
+    #ministry div.textwrap-left {
+        margin-top: 12vh;
+    }
+}
+
+@media (min-width:1200px) {
+    .col-lg-offset-2 {
+    margin-left: 8%;
+}
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) and (min-width: 768px) {
+    .col-sm-pull-6 {
+        right:43%;
+    }
+    .col-sm-push-6 {
+        left:45%;
+    }
+}

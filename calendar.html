@@ -1,11 +1,16 @@
 ---
 layout: default
-class: page
+alias: calendar
+class: no-columns
 title: Calendar
+sitemap:
+    priority: 0.7
+    changefreq: 'weekly'
+    lastmod: 2017-10-17T19:23:34+00:00
 ---
 
 <div class="content no-columns">
-<h3>Upcoming Events at St. Paul's</h3>
+<h2>Upcoming Events at St. Paul's</h2>
 
 {% assign post = site.posts.first %}
 {% assign calendar = post.calendar %}

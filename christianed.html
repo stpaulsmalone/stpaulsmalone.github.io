@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Christian Education
+alias: xned
+img-float: right
 class: page
 sitemap:
     priority: 0.7
@@ -44,34 +46,9 @@ image-array:
        lightbox: xned
        alt: All God's critters got a place in the choir
 ---
-<section id="xned">   
-  <div class="content-section-a page">
-   
-       <div class="container">
-   
-           <div class="row">
-               <div class="col-lg-5 col-sm-6">
-                   <div class="clearfix"></div>
-                   <div class="lead padding-right">
-                       <p>Owls and whales and curious minds, oh my!</p>
-	                    <p>St. Paul's offers Sunday School on second and fourth Sundays of each month. On first and third Sundays, children learn the good news by attending and participating in worship. We also hold "Messy Church" on fifth Sundays (a hands-on learning experience in worship) and "Mossy Church" in the summer (learning about God's creation outdoors). We are committed to forming kids with strong minds, strong hearts, and strong faith. Questions are encouraged.</p>
+{% include custom-photo.html %}
+
+<div class="textwrap-left">
+  <p>Owls and whales and curious minds, oh my!</p>
+	<p>St. Paul's offers Sunday School on second and fourth Sundays of each month. On first and third Sundays, children learn the good news by attending and participating in worship. We also hold "Messy Church" on fifth Sundays (a hands-on learning experience in worship) and "Mossy Church" in the summer (learning about God's creation outdoors). We are committed to forming kids with strong minds, strong hearts, and strong faith. Questions are encouraged.</p>
    </div>
-               </div>
-               <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                   <div class="custom-photo">
-		{% for item in page.image-array %}
-		 <a href="{{ site.url }}/img/xned/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/xned/{{ item.img }}'>{{ item.alt }}</a>">
-		     <img data-src="{{ site.url }}/img/xned/{{ item.img }}" src="{{ site.url }}/img/xned/{{ item.img }}" alt="{{ item.alt }}">
-         <span class="click-me">click to see more</span>
-		 </a>
-		{% endfor %}
-	</div>
-               </div>
-           </div>
-   
-       </div>
-       <!-- /.container -->
-   
-   </div>
-   <!-- /.content-section-a -->
- </section>
