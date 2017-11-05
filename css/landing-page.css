@@ -38,6 +38,15 @@ a h3:hover {
     font-size: 18px;
     font-weight: 400;
 }
+.container {
+    padding-left: 0;
+}
+section#content {
+    padding-left: 15px;
+}
+section.no-float section#content {
+    padding-left: 0;
+}
 
 .padding-left {
     padding-left: 20px;
@@ -265,7 +274,7 @@ section.right div.container {
     margin-left: 3.25%;
 }
 
-div.page {
+div.page, div.lead {
     padding-top: 50px;
 }
 
@@ -280,6 +289,10 @@ div.lead.page {
     padding-top: 0;
     margin-top: 2.5%;
     min-height: 100vh;
+}
+
+div.lead.no-columns {
+    /*! margin-left: -2%; */
 }
 
 div.lead.page div.container {
@@ -298,12 +311,15 @@ div.textwrap-right {
     padding-left: 1%;
 }
 
-div.no-columns {
-    max-width: 75%;
+
+div.banner.no-columns {
+    max-width: 100%;
+    margin-left: 0%;
 }
 
-#hfp div.lead.page {
+#hfp div.hfp {
     max-width: 45%;
+    float: right;
 }
 
 .hfp-needs h3 {
@@ -315,12 +331,12 @@ div.no-columns {
 }
 
 #history div.no-columns {
-    margin-top: 10%;
-    margin-left: -1%;
+    /*! margin-top: 10%; */
+    /*! margin-left: -1%; */
 }
 
 #history h2 {
-    padding: 0;
+    padding-left: 0;
 }
 
 #history h3 {
@@ -735,14 +751,18 @@ div.neighbor-modal img {
         margin-left: 0;
         padding-left: 2.9%;
     }
-    div.lead {
-    margin-left: 3.2%;
-}
+    section.left div.page h2 {
+        margin-left: 2.5%;
+    }
+    section.left div.lead.page {
+        margin-left: 2.5%;
+    }
+    div.textwrap-right {
+        width:55%;
+        padding-top: .5%;
+    }
     div.no-columns {
         margin-left: 1%;
-    }
-    div.lead.page {
-        margin-top: -5%;
     }
     div.padding-right {
         padding-right: 0;
@@ -763,6 +783,15 @@ div.neighbor-modal img {
         text-align: center;
         font-style: italic;
     }
+    
+    #history div.no-columns {
+    margin-top: 0;
+    margin-left: 0;
+}
+
+#history h3 {
+    margin-left: 2.5%;
+}
 }
 
 @media (min-width:1200px) {
