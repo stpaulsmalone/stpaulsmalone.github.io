@@ -62,7 +62,7 @@ Due to the popularity of the 2017 St. Paul's UCC Adopt-A-Family mission project,
 
 Because I can't resist a good photo, here's the candles from our All Saints celebration this past Sunday. We gathered around them for communion, which I at least thought was very nice:
 
-<img src="/img/news/allsaints110817.jpg" alt="All Saints">
+<img src="../img/news/allsaints110817.jpg" alt="All Saints">
 
 They're selling Turkey Trot t-shirts this year. 8:00 Ecumenical prayer service, 8:30 the Trot itself, is all I'm saying.
 
