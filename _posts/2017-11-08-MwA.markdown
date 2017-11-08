@@ -1,0 +1,109 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 11/8/17 - Cool and Crisp Edition
+img: costumes110817.jpg
+caption: Trick or Treaters at worship on 11/5
+teaser: Curtis Mayfield was a saint and prophet, to be honest. (Scroll down)
+calendar: 
+     - date: 11/12
+       events: Worship and Sunday School<br />Council meeting after worship
+     - date: 11/13
+       events: Women's Fellowship
+     - date: 11/15
+       events: 6&#58;30 Book Club
+     - date: 11/17
+       events: Holyland Food Pantry distribution
+     - date: 11/19
+       events: Worship with Communion (Circle)&mdash;Kids' Sunday! <br />Noisy Sunday!
+     - date: 11/26
+       events: 10&#58;00 Worship and Sunday School<br />Thanksgiving Sunday<br />Christ the King Sunday
+     - date: 12/3
+       events: 10&#58;00 Worship with Communion<br />Kids' Sunday! <br />First Sunday in Advent
+     - date: 12/4
+       events: 6&#58;30 Advent Concert at Willowdale
+---
+
+Let's start with a couple of updates this week: Gayle M. got through surgery yesterday. Everything went well, and she should be coming home tomorrow (Thursday).
+
+As you probably saw earlier this week, Betty Sattler's mother Lucy Heus died Monday afternoon. Her funeral will be at Holy Rosary Catholic Church in New Holstein on Saturday the 11th. Visitation will be from 9:30-11:30 that morning, and the funeral mass at noon. A meal will follow.<!--more-->
+
+## 1.
+
+Council meets after worship this coming Sunday. Please be there: it would be nice to avoid missing quorum again. (We weren't able to approve September's minutes, so I should have two sets to pass on next week.)
+
+## 2.
+
+The church office is moving, kind of! We've decided to move Ann's work area upstairs in the parsonage, to the smaller room next to my office. This will provide more room for meetings downstairs, and hopefully, just plain make a little more sense. Stop up and say hello sometime!
+
+## 3.
+
+Women's Fellowship will make Thanksgiving Baskets at their November 13th meeting. Please consider donating fruit, cookies, candy, treats—anything to make the folks we want to remember smile. Also, if you have someone whose name you'd want us to share with&mdash;an elderly neighbor, someone with health concerns, someone in need&mdash;please contact Sue Schultz, Nancy Beckman, or Pastor Dan.
+
+## 4.
+
+Peg Isaacson is organizing a "Pie Day" for her new cousin-in-law Leah Peterson. Everyone is invited to come to the Isaacsons' at 1:00 on November 12th. Bring a pie based on your first initial.
+
+## 5.
+
+During the month of November, the Mission Committee is sponsoring a
+Thanksgiving Drive. We are asking  St. Paul's UCC Church member/families 
+to donate diapers (sizes 1, 4, 5, 6), baby wipes and toilet paper to be distributed to
+our Holyland Food Pantry families. Donations can be brought to church. Also, monetary
+donations are being accepted. There is a container for monetary donations on the 
+counter when you enter church. The Thanksgiving Drive will end on Sunday, November 26th.
+Thanks to all who donate to the Thanksgiving Drive.
+
+Due to the popularity of the 2017 St. Paul's UCC Adopt-A-Family mission project, we have added a third family we will be adopting from the FDL Salvation Army Adopt-A Family program. Gift tags will be added to our giving wall tree at church. [**Update 11/8:** *Those* tags are at least half-gone now. Get 'em while you can!] Thanks to St. Paul's UCC members for your generous, giving hearts.
+
+## 6.
+
+Because I can't resist a good photo, here's the candles from our All Saints celebration this past Sunday. We gathered around them for communion, which I at least thought was very nice:
+
+<img src="/img/news/allsaints110817.jpg" alt="All Saints">
+
+They're selling Turkey Trot t-shirts this year. 8:00 Ecumenical prayer service, 8:30 the Trot itself, is all I'm saying.
+
+
+## 7.
+
+We're still looking for folks willing to serve on the Church Council next year. I know how this works: nobody volunteers until they're asked. So, just pray on it, and be ready if you are nominated.
+
+## 8.
+
+This week's scriptures:
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=377171771">Psalm 78:1-7</a></li>
+  <li><a href="http://bible.oremus.org/?ql=377171771">Amos 5:18-24</a></li>
+  <li><a href="http://bible.oremus.org/?ql=377171771">Wisdom of Solomon 6:17-20</a></li>
+  <li><a href="http://bible.oremus.org/?ql=377171771">1 Thessalonians 4:13-18</a></li>
+  <li><a href="http://bible.oremus.org/?ql=377171771">Matthew 25:1-13</a></li>
+</ul>
+
+The short version: people get ready.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NdKEbnS1eBE" frameborder="0" allowfullscreen></iframe>
+
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}

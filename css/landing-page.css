@@ -322,6 +322,10 @@ div.banner.no-columns {
     float: right;
 }
 
+div.hfp-outer {
+    padding-bottom: 110vh;
+}
+
 .hfp-needs h3 {
     padding-top: 2%;
 }
@@ -492,6 +496,10 @@ article.post {
     margin-left: 50px;
     width: 66%;
     max-width: 750px;
+}
+
+article.post img {
+    max-width: 100%;
 }
 
 div.post-content.page {
