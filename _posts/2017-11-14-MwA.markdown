@@ -1,0 +1,100 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 11/14/17 - 
+img: baskets111317a.jpg
+caption: Women's Fellowship Stuffing Thanksgiving Baskets
+teaser: Getting to be that time of year when turkeys should start praying
+calendar: 
+     - date: 11/19
+       events: 10&#58;00 Worship with Communion (Pew)&mdash;Kids' Sunday! <br />Noisy Sunday!
+     - date: 11/26
+       events: 10&#58;00 Worship and Sunday School<br />Thanksgiving Sunday<br />Christ the King Sunday
+     - date: 11/28
+       events: 4&#58;00-7&#58;00 Tuesdays Together @ Sue &amp; Dave Burlingham's house
+     - date: 12/3
+       events: 8&#58;30 Hanging of the Greens<br />10&#58;00 Worship with Communion<br />Kids' Sunday! <br />First Sunday in Advent<br /><strong>Commitment Sunday</strong>
+     - date: 12/4
+       events: 6&#58;30 Advent Concert at Willowdale
+     - date: 12/10
+       events: 10&#58;00 Worship and Sunday School<br />5&#58;00 Women's Fellowship Winter Gathering (Tentative)
+     - date: 12/11
+       events: 7&#58;00 Future Building Committee
+     - date: 12/13
+       events: 6&#58;00 Church Council
+     - date: 12/17
+       events: 10&#58;00 Worship with Communion (Pew)&mdash;Kids' Sunday! <br />Noisy Sunday!
+     - date: 12/24
+       events: 10&#58;00 Worship<br />Last Sunday in Advent<br />7&#58;00 Christmas Eve Service
+
+---
+
+Just a quick (and early) Midweek Apostle, since I'm taking a little vacation between today and Thanksgiving Day. So I guess that's announcement one? I'm taking a short vacation between today and Thanksgiving Day! 
+
+The Rev. Barbara Loose will join us on Sunday morning. If there is a pastoral emergency, you may call me at home&mdash;it's probably not the best boundaries, but I'm not planning on going anywhere.<!--more-->
+
+## 1.
+
+You're invited! Sue and Dave Burlingham have graciously offered to open their new home to fellow members of St. Paul's the night of November 28th. There will be a potluck (Sue will provide the meat) and plenty of games to play. However, unlike the Tuesdays Together gatherings over the summer, there probably won't be any sitting outside to watch the sunset.
+
+## 2.
+
+<strong>Christmas poinsettias! Getcher Christmas poinsettias!</strong> St. Paul's UCC will be decorating the sanctuary with red poinsettia's for our Christmas Eve Service. We are taking orders for poinsettia's to decorate our sanctuary. The price is $9.00 per poinsettia. You can sign up for purchasing a poinsettia at church this Sunday, November 19th or call Mary Stellick at (920) 989-1282 or email rstellick@tds.net to place your order. <a href="">Deadline to place a poinsettia order is Monday, November 20th.</a> That's coming right up, so get your order in today!
+
+## 3.
+
+Sunday, December 3rd is the First Sunday in Advent. We'll be hanging the greens before worship and finishing up after. The Council has also decided to hold Commitment Sunday that day, when we ask members to fill out and return a pledge card to help us set the annual budget. Please pray about what you might be able to give to St. Paul's in 2018. As always, it's an estimate, not an unbreakable promise.
+
+On Christmas Eve, we will celebrate the last Sunday in Advent at the regular morning service. Then in the evening (7:00), we will have a Christmas Eve worship service. Details to come, but the plan is to have the children sing a few songs and do a skit. Don't worry: we'll still light candles and sing "Silent Night."
+
+## 4.
+
+During the month of November, the Mission Committee is sponsoring a
+Thanksgiving Drive. We are asking  St. Paul's UCC Church member/families 
+to donate diapers (sizes 1, 4, 5, 6), baby wipes and toilet paper to be distributed to
+our Holyland Food Pantry families. Donations can be brought to church. Also, monetary
+donations are being accepted. There is a container for monetary donations on the 
+counter when you enter church. The Thanksgiving Drive will end on Sunday, November 26th.
+Thanks to all who donate to the Thanksgiving Drive.
+
+Due to the popularity of the 2017 St. Paul's UCC Adopt-A-Family mission project, we have added a third family we will be adopting from the FDL Salvation Army Adopt-A Family program. Gift tags will be added to our giving wall tree at church. [**Update 11/8:** *Those* tags are at least half-gone now. Get 'em while you can!] Thanks to St. Paul's UCC members for your generous, giving hearts.
+
+## 5.
+
+Women's Fellowship packed an amazing 21 Thanksgiving Baskets for 23 individuals last night! We also had a fun time watching me shoot mini candy bars into the baskets and miss. A lot. Anyway, up above are all the women, looking proud of themselves, which they absolutely should be. Here's another shot of the baskets so you can see how amazing & overflowing they are:
+
+
+## 6.
+
+This week's scriptures:
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=377689522">Zephaniah 1:7, 12-18</a></li>
+  <li><a href="http://bible.oremus.org/?ql=377689522">Psalm 90:1-12</a></li>
+  <li><a href="http://bible.oremus.org/?ql=377689522">1 Thessalonians 5:1-11</a></li>
+  <li><a href="http://bible.oremus.org/?ql=377689522">Matthew 25:14-30</a></li>
+</ul>
+
+The day of the Lord will come like a thief in the night!
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
