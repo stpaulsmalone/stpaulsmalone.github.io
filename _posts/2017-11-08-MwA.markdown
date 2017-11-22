@@ -4,7 +4,7 @@ category: news
 class: page
 description:
 title: Midweek Apostle 11/8/17 - Cool and Crisp Edition
-img: costumes110817.jpg
+img: costumes110817.JPG
 caption: Trick or Treaters at worship on 11/5
 teaser: Curtis Mayfield was a saint and prophet, to be honest. (Scroll down)
 calendar: 
