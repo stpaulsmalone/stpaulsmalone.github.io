@@ -1,0 +1,109 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 11/21/17 - Surprise, I guess.
+img: baskets111317a.jpg
+caption: Women's Fellowship Stuffing Thanksgiving Baskets
+teaser: Miscalculated when I was supposed to come back from vacation, so here I am.
+calendar: 
+     - date: 11/26
+       events: 10&#58;00 Worship and Sunday School<br />Thanksgiving Sunday<br />Christ the King Sunday
+     - date: 11/28
+       events: 4&#58;00-7&#58;00 Tuesdays Together @ Sue &amp; Dave Burlingham's house<br />2959 Schumacher Road, Malone, WI
+     - date: 12/3
+       events: 8&#58;30 Hanging of the Greens<br />10&#58;00 Worship with Communion<br />Kids' Sunday! <br />First Sunday in Advent<br /><strong>Commitment Sunday</strong>
+     - date: 12/4
+       events: 6&#58;30 Advent Concert at Willowdale
+     - date: 12/10
+       events: 10&#58;00 Worship and Sunday School<br />5&#58;00 Women's Fellowship Christmas Gathering @ Altona Restaurant
+     - date: 12/11
+       events: 7&#58;00 Future Building Committee
+     - date: 12/13
+       events: 6&#58;00 Church Council
+     - date: 12/17
+       events: 10&#58;00 Worship with Communion (Pew)&mdash;Kids' Sunday! <br />Noisy Sunday!
+     - date: 12/24
+       events: 10&#58;00 Worship<br />Last Sunday in Advent<br />7&#58;00 Christmas Eve Service
+---
+
+In case you're wondering (you're not), vacation was a success. I spent some time with my family, took care of some long-overdue projects around the house, took a few naps. What more could you ask for? <!--more-->
+
+## 1.
+
+Tomorrow's the big day! No, not for turkey. No, not football, either. Not even the Macy's parade. <em>Before</em> all that, it's the Holyland Food Pantry Turkey Trot! Come and work off your starches even before you eat them! Prayer service at 8:00 at the St. Cloud church, walk registration begins at 8:30, walk itself starts at 9:00.
+
+Yes, Taco is coming.
+
+## 2.
+
+As promised, here are the Council minutes from September and October. As always, paper copies will be available, and financial reports can be gotten from Ann Martin.
+
+## 3.
+
+The Noisy Sunday collection on 11/19 was $20.65 which brings us to a total of $93.17 collected this year so far. Woot! Thanks, everyone, for your generosity. Can't wait to see where the kids decide to donate.
+
+## 4.
+
+A couple of general announcements:
+
+- Please don't leave any kind of donations in the downstairs meeting room at the parsonage, whether for the Holyland Food Pantry, books, or other items. Stuff has a way of accumulating in that space, and we don't know what to do with it.
+
+- I've decided to discontinue the use of my personal email address for church business. Please send them all to the church address: stpaulsmalone@gmail.com. You may get an automatic reminder to that effect. If you have an emergency or need a quick response on something, feel free to give me a call. This helps me be away from work when I am away, if that makes any sense.
+<br />
+<hr>
+<br />
+Here's a few repeats from last week:
+
+## 5.
+
+Sunday, December 3rd is the First Sunday in Advent. We'll be hanging the greens before worship and finishing up after. The Council has also decided to hold Commitment Sunday that day, when we ask members to fill out and return a pledge card to help us set the annual budget. Please pray about what you might be able to give to St. Paul's in 2018. As always, it's an estimate, not an unbreakable promise.
+
+On Christmas Eve, we will celebrate the last Sunday in Advent at the regular morning service. Then in the evening (7:00), we will have a Christmas Eve worship service. Details to come, but the plan is to have the children sing a few songs and do a skit. Don't worry: we'll still light candles and sing "Silent Night."
+
+## 6.
+
+During the month of November, the Mission Committee is sponsoring a
+Thanksgiving Drive. We are asking  St. Paul's UCC Church member/families 
+to donate diapers (sizes 1, 4, 5, 6), baby wipes and toilet paper to be distributed to
+our Holyland Food Pantry families. Donations can be brought to church. Also, monetary
+donations are being accepted. There is a container for monetary donations on the 
+counter when you enter church. The Thanksgiving Drive will end on Sunday, November 26th.
+Thanks to all who donate to the Thanksgiving Drive.
+
+Due to the popularity of the 2017 St. Paul's UCC Adopt-A-Family mission project, we have added a third family we will be adopting from the FDL Salvation Army Adopt-A Family program. Gift tags will be added to our giving wall tree at church. [**Update 11/21:** Any tags left?] Thanks to St. Paul's UCC members for your generous, giving hearts.
+
+## 7.
+
+This week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=378381097">Deuteronomy 8:7-18</a></li>
+  <li><a href="http://bible.oremus.org/?ql=378381097">Psalm 65</a></li>
+  <li><a href="http://bible.oremus.org/?ql=378381097">2 Corinthians 9:6-15</a></li>
+  <li><a href="http://bible.oremus.org/?ql=378381097">Luke 17:11-19</a></li>
+</ul>
+
+(These are actually the readings for Thanksgiving Day, but hey, who's counting?)
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
