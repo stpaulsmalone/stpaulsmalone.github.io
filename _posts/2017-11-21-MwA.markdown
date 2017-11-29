@@ -4,7 +4,7 @@ category: news
 class: page
 description:
 title: Midweek Apostle 11/21/17 - Surprise, I guess.
-img: baskets111317a.jpg
+img: 
 caption: Women's Fellowship Stuffing Thanksgiving Baskets
 teaser: Miscalculated when I was supposed to come back from vacation, so here I am.
 calendar: 
