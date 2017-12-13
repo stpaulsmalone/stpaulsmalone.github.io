@@ -3,7 +3,7 @@ layout: mwa_post
 category: news
 class: page
 description:
-title: Midweek Apostle 12/13/17 - St. Nick Edition
+title: Midweek Apostle 12/13/17 - First Snow of the Year
 img: bells121317.jpg
 caption: Bells from Concert Night at Willowdale
 teaser: Joy to the World, a little early!
