@@ -6,7 +6,7 @@ description:
 title: Midweek Apostle 12/13/17 - St. Nick Edition
 img: bells121317.jpg
 caption: Bells from Concert Night at Willowdale
-teaser: Say "diaper drive donations" three times fast!
+teaser: Joy to the World, a little early!
 calendar: 
      - date: 12/17
        events: 9&#58;00 Christmas Eve Rehearsal<br />10&#58;00 Worship with Communion (Pew)&mdash;Kids' Sunday! <br />Noisy Sunday!
