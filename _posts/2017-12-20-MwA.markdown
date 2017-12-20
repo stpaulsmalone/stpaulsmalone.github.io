@@ -30,7 +30,6 @@ calendar:
        events: 7&#58;00 Future Building Committee
      - date: 1/28
        events: 10&#58;00 Worship<br />Annual Meeting after worship
-
 ---
 
 Last week I told you about getting involved in a new ministry with the Fond du Lac Suicide Prevention Task Force. Today, I'd like to talk about another ministry I've recently taken on, one that might feel a little more familiar.
