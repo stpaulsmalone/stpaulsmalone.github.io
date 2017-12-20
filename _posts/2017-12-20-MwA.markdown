@@ -6,7 +6,7 @@ description:
 title: Midweek Apostle 12/20/17 - Rats
 img: rehearsal120317.jpg
 caption: Rehearsing for Christmas Eve
-teaser: Read to the end - lots of important stuff this week.
+teaser: Read to the end! Lots of important stuff this week.
 calendar: 
      - date: 12/24
        events: 9&#58;00 Christmas Eve Rehearsal<br />10&#58;00 Worship<br />Last Sunday in Advent<br />7&#58;00 Christmas Eve Service
