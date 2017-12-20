@@ -15,7 +15,7 @@ calendar:
      - date: 1/4
        events: 6&#58;30 Book Club meets at Parsonage<br />Book of the month: <em>Wonder</em> by R.J. Palacio
      - date: 1/7
-       events: 10&#58;00 Worship with Communion (Intinction)—Kids' Sunday<br />Epiphany Sunday<br />Annual Reports due to Marilyn Groneng groneng@me.com
+       events: 10&#58;00 Worship with Communion (Intinction)—Kids' Sunday<br />Epiphany Sunday<br />Annual Reports due to Marilyn Groneng (See email address below.)
      - date: 1/8
        events: 7&#58;00 Worship Committee
      - date: 1/10
