@@ -4,9 +4,32 @@ category: news
 class: page
 description:
 title: Midweek Apostle 12/20/17 - Rats
-img: rehearsal120317.jpg
+img: rehearsal120317.JPG
 caption: Rehearsing for Christmas Eve
 teaser: Read to the end! Lots of important stuff this week.
+calendar: 
+     - date: 12/24
+       events: 9&#58;00 Christmas Eve Rehearsal<br />10&#58;00 Worship<br />Last Sunday in Advent<br />7&#58;00 Christmas Eve Service
+     - date: 12/31
+       events: 10&#58;00 Worship
+     - date: 1/4
+       events: 6&#58;30 Book Club meets at Parsonage<br />Book of the month: Wonder by R.J. Palacio
+     - date: 1/7
+       events: 10&#58;00 Worship with Communion (Intinction)—Kids' Sunday<br />Epiphany Sunday<br />Annual Reports due to Marilyn Groneng
+     - date: 1/8
+       events: 7&#58;00 Worship Committee
+     - date: 1/10
+       events: 6&#58;00 Church Council
+     - date: 1/14
+       events: 10&#58;00 Worship and Sunday School<br />Christmas un-decorating after worship
+     - date: 1/20
+       events: 4&#58;45 Pastor Dan preaching at St. John’s, Johnsburg
+     - date: 1/21
+       events: 8&#58;00 Pastor Dan preaching at St. Cloud<br />10&#58;00 Worship with Communion (Table)<br />Noisy Sunday!<br />Father Gary preaching<br />Potluck after worship
+     - date: 1/24
+       events: 7&#58;00 Future Building Committee
+     - date: 1/28
+       events: 10&#58;00 Worship<br />Annual Meeting after worship
 ---
 
 Last week I told you about getting involved in a new ministry with the Fond du Lac Suicide Prevention Task Force. Today, I'd like to talk about another ministry I've recently taken on, one that might feel a little more familiar.
@@ -50,12 +73,12 @@ In our church basement dwelling...&#9836;&#9836;
 
 ## 5.
 
-<img src="/img/mouse.svg" width="16px">
-<img src="/img/mouse.svg" width="16px">
-<img src="/img/mouse.svg" width="16px">
-<img src="/img/mouse.svg" width="16px">
-<img src="/img/mouse.svg" width="16px">
-<img src="/img/mouse.svg" width="16px">, if you catch my drift.<br />(Mouse icons via <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.)
+<img src="/img/news/mouse.svg" width="16px">
+<img src="/img/news/mouse.svg" width="16px">
+<img src="/img/news/mouse.svg" width="16px">
+<img src="/img/news/mouse.svg" width="16px">
+<img src="/img/news/mouse.svg" width="16px">
+<img src="/img/news/mouse.svg" width="16px">, if you catch my drift.<br />(Mouse icons via <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.)
 
 ## 6.
 
