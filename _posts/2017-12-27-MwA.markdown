@@ -29,7 +29,7 @@ calendar:
      - date: 1/24
        events: 7&#58;00 Future Building Committee
      - date: 1/26
-       events: 10&58;00 Worship service at Willowdale, New Holstein
+       events: 10&#58;00 Worship service at Willowdale, New Holstein
      - date: 1/28
        events: 10&#58;00 Worship<br />Annual Meeting after worship
      - date: 1/29
