@@ -90,16 +90,16 @@ Please, feel free to share any thoughts you might have on these values.
 
 ## 6.
 
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;"><br />
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" style="width:24px !important;"> We think we've got them all now, but in case we haven't, let Cara or Rick or Mary Dempsey know.<br />(Mouse icons via <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.)
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18"><br />
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18"> We think we've got them all now, but in case we haven't, let Cara or Rick or Mary Dempsey know.<br />(Mouse icons via <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.)
 
 <a href="{{ site.url }}/img/news/christmaseve122717.JPG"><img src="{{ site.url }}/img/news/christmaseve122717.JPG" width="500"></a>
 
