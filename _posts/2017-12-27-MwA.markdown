@@ -42,13 +42,13 @@ If you weren't here for the Christmas Eve service, you missed a treat! The kids 
 
 <!--more-->
 
-<a href="{{ site.url }}/img/news/willowdale122717.JPG"><img src="{{ site.url }}/img/news/willowdale122717.JPG" width="500px"></a>
+<a href="{{ site.url }}/img/news/willowdale122717.JPG"><img src="{{ site.url }}/img/news/willowdale122717.JPG" width="500"></a>
 
 ## 1.
 
 This coming Sunday! I am threatening to bring some &aelig;bleskiver for fellowship time. Jen probably thinks I'm nuts for wanting to make them <em>again</em>, but some of you have expressed curiosity about how they're made, and what they wind up tasting like. Also, I kind of enjoy playing Johnny &AElig;bleskiverseed, so why not?
 
-<a href="{{ site.url }}/img/news/willowdale2122717.JPG"><img src="{{ site.url }}/img/news/willowdale2122717.JPG" width="500px"></a>
+<a href="{{ site.url }}/img/news/willowdale2122717.JPG"><img src="{{ site.url }}/img/news/willowdale2122717.JPG" width="500"></a>
 
 ## 2.
 
@@ -56,13 +56,13 @@ As part of our drive to live up to our core value of hospitality, at least <stri
 
 Along the same lines, we have been working on the church microphones, and we do have a hearing loop installed. But if you're still finding it difficult to hear what's going on, please let Pastor or Dwight know so we can work on trying to find a solution that works for you. The same goes for any barrier to participation: let us know, and we'll tear it down. We probably can't make the church perfectly accessible, but that doesn't mean we can't die trying.
 
-<a href="{{ site.url }}/img/newsfellowship122717.JPG"><img src="{{ site.url }}/img/news/fellowship122717.JPG" width="500px"></a>
+<a href="{{ site.url }}/img/newsfellowship122717.JPG"><img src="{{ site.url }}/img/news/fellowship122717.JPG" width="500"></a>
 
 ## 3.
 
 In the liturgical season of Christmas (between Christmas Day and Epiphany), there are no fasts in the Eastern Orthodox churches. They know when they're fighting a losing battle.
 
-<a href="{{ site.url }}/img/news/mary122717.JPG"><img src="{{ site.url }}/img/news/mary122717.JPG" width="500px"></a>
+<a href="{{ site.url }}/img/news/mary122717.JPG"><img src="{{ site.url }}/img/news/mary122717.JPG" width="500"></a>
 ## 4.
 
 Some quick announcements:
@@ -73,7 +73,7 @@ Some quick announcements:
   <li>Book Club will meet at 6:30 on Thursday, January 4 at the parsonage. The book of the month is <em>Wonder</em> by R.J. Palacio. Everyone is welcome.</li>
 </ul>
 
-<a href="{{ site.url }}/img/news/joseph122717.JPG"><img src="{{ site.url }}/img/news/joseph122717.JPG" width="500px"></a>
+<a href="{{ site.url }}/img/news/joseph122717.JPG"><img src="{{ site.url }}/img/news/joseph122717.JPG" width="500"></a>
 
 ## 5.
 
@@ -86,22 +86,22 @@ I'll talk more about this next week, but at our annual congregational meeting on
 
 Please, feel free to share any thoughts you might have on these values.
 
-<a href="{{ site.url }}/img/news/angel122717.JPG"><img src="{{ site.url }}/img/news/angel122717.JPG" width="500px"></a>
+<a href="{{ site.url }}/img/news/angel122717.JPG"><img src="{{ site.url }}/img/news/angel122717.JPG" width="500"></a>
 
 ## 6.
 
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px"><br />
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24px"> We think we've got them all now, but in case we haven't, let Cara or Rick or Mary Dempsey know.<br />(Mouse icons via <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.)
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24"><br />
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24"> We think we've got them all now, but in case we haven't, let Cara or Rick or Mary Dempsey know.<br />(Mouse icons via <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.)
 
-<a href="{{ site.url }}/img/news/christmaseve122717.JPG"><img src="{{ site.url }}/img/news/christmaseve122717.JPG" width="500px"></a>
+<a href="{{ site.url }}/img/news/christmaseve122717.JPG"><img src="{{ site.url }}/img/news/christmaseve122717.JPG" width="500"></a>
 
 ## 7.
 
