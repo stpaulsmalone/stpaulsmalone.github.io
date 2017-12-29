@@ -1,7 +1,7 @@
 <div class="custom-photo">
 	{% for item in page.image-array %}
-		<a href="{{ site.url }}/img/{{ page.alias }}/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='{{ site.url }}/img/{{ page.alias }}/{{ item.img }}'>{{ item.alt }}</a>">
-			<img data-src="{{ site.url }}/img/{{ page.alias }}/{{ item.img }}" src="{{ site.url }}/img/{{ page.alias }}/{{ item.img }}" alt="{{ item.alt }}">
+		<a href="../img/{{ page.alias }}/{{ item.img }}" data-lightbox="{{ item.lightbox }}" data-title="<a href='../img/{{ page.alias }}/{{ item.img }}'>{{ item.alt }}</a>">
+			<img data-src="../img/{{ page.alias }}/{{ item.img }}" src="../img/{{ page.alias }}/{{ item.img }}" alt="{{ item.alt }}">
 			<span class="click-me">click to see more</span>
 		</a>
 	{% endfor %}
