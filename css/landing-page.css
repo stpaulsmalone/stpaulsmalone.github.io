@@ -25,6 +25,10 @@ h6 {
     font-weight: 700;
 }
 
+a {
+    color: #24547e;
+}
+
 a h3 {
     color: white;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
@@ -260,6 +264,10 @@ svg:not(:root) {
     margin-top: 1.5%;
 }
 
+.contact-p a {
+    color: #f8f8f8;
+}
+
 /* Page Stuff */
 
 .no-left {
@@ -268,6 +276,10 @@ svg:not(:root) {
 }
 nav.navbar div.container {
     padding-left: 0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #494949;
 }
 
 section.right div.container {
