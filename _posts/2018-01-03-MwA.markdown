@@ -1,0 +1,115 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle A Strange Hope
+img:
+caption:
+teaser: Peace I leave with you; my peace I give to you. Do not let your hearts be troubled, and do not let them be afraid.
+calendar: 
+     - date: 1/4
+       events: 6&#58;30 Book Club meets at Parsonage<br />Book of the month&#58; <em>Wonder</em> by R.J. Palacio
+     - date: 1/7
+       events: 10&#58;00 Worship with Communion (Intinction)—Kids' Sunday<br />Epiphany Sunday<br />Annual Reports due to Marilyn Groneng <a href="mailto:groneng@me.com">groneng@me.com</a>
+     - date: 1/8
+       events: 2&#58;00 Pastor Dan at professional development meeting<br />7&#58;00 Worship Committee
+     - date: 1/10
+       events: 6&#58;00 Church Council
+     - date: 1/14
+       events: 10&#58;00 Worship and Sunday School<br />Christmas un-decorating after worship
+     - date: 1/19
+       events: Holyland Food Pantry Distribution
+     - date: 1/20
+       events: 4&#58;45 Pastor Dan preaching at St. John’s, Johnsburg
+     - date: 1/21
+       events: 8&#58;00 Pastor Dan preaching at St. Cloud<br />10&#58;00 Worship with Communion (Table)<br />Noisy Sunday!<br />Father Gary preaching<br />Potluck after worship
+     - date: 1/24
+       events: 7&#58;00 Future Building Committee
+     - date: 1/26
+       events: 10&#58;00 Worship service at Willowdale, New Holstein
+     - date: 1/28
+       events: 10&#58;00 Worship<br />Annual Meeting after worship
+     - date: 1/29
+       events: 6&#58;30 Mission Committee
+---
+
+Some of you may have heard about the president's latest saber-rattling tweet. In response to a perceived threat by North Korean president Kim Jong-Un, Pres. Trump essentially said America's nuclear capabilities were bigger and more powerful than North Korea's, and he was prepared to use them.
+
+It's justifiable to be more than a little concerned about such messages. As perhaps I've explained before, North Korea uses military threats to extract concessions and financial support from the US and the nations surrounding it: China, South Korea, and Japan. They have to: military force is about their only resource, other than coal and cheap labor. American presidents have had to strike a delicate balance between surrendering to the threats while not provoking the North Koreans into doing something stupid. Pres. Trump's latest message appears to be a miscalculated attempt to stand firm against Kim. 
+
+Like me, most of you are old enough to remember what it was like to live with the possibility of a nuclear war in the back of one's mind. Regardless of what we think of Pres. Trump or Kim Jong-Un, I think it's safe to say none of us are eager to go back to those days.
+
+The question is, how do we deal with the anxiety a situation like this provokes? What reassurance can we hold onto in a dangerous and unstable moment? It's tempting to demand our government live up to the Christian values of peace, reconciliation, and forgiveness, or on the other side, to argue that the North Koreans should stop trying to hold us for ransom. Both of those things are true, but I don't know how helpful they are. The North Koreans certainly aren't interested in our moral values, and there are days I suspect the American government isn't, either. Even if either side were, there's a terrible internal logic to global conflict that makes it almost impossible to do the right thing.
+
+So, what to do? Take comfort in Christian life, I think. We are people who have been claimed by and now live in Christ. That does <em>not</em> mean Jesus is going to solve all our problems. Nuclear war is as real a possibility as it ever was. But as Paul says, we have died already, and our lives are hidden in Christ. We acknowledge that come what may&mdash;and again, it may be very bad&mdash;our lives belong to Christ, and in his life. That life will continue, regardless of what happens to our bodies in the world. In that life, we are called to reflect God's nature. We are called to be peaceable people and people who make peace. As always, I'll let you decide how to work that out in the world. What I want you to hear right now is that we have life in Christ, and business to be about. Let us live, then, in peace and for the peace of the world.
+
+<!--more-->
+
+## 1.
+
+A few quick reminders:
+
+<ul>
+  <li>Book Club will meet at 6:30 on Thursday, January 4 at the parsonage. The book of the month is <em>Wonder</em> by R.J. Palacio. Everyone is welcome.</li>
+  <li>Reports for the Annual meeting are due to Marilyn no later than Sunday, Jan 7. You can email them to her at: <a href="mailto:groneng@me.com">groneng@me.com</a></li>
+  <li>We're taking the Christmas decorations down after church on January 15th. Come help. It doesn't take long, and it's appreciated.</li>
+  <li>Our annual congregational meeting will be held on January 28th immediately following worship. It will include an update from the Future Building Committee, if I understand correctly.</li>
+  <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+## 2.
+
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;"><br />
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;"><br />
+<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;"><br />
+That's eleven. Keep up the good work of putting food away!<br />(Mouse icons via <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.)
+
+## 3.
+
+Last week, I said I'd talk some more about adopting some core values (Community, Hospitality, Rootedness and Ministry) at the congregational meeting. After this week's long above-the-fold message, there's no cause for another essay. Here's short version: yes, I intend to repeat them to the point everyone's kind of sick of hearing about them. We're going to splash them on all our bulletins, letterhead, and agenda. If I can get away with it, we'll spend some time in our meetings reflecting on what they mean. The point of all this is to internalize those values, to give ourselves a standard to live up to, and a common agenda to work on. And&hellip;that's it, actually.
+
+## 4.
+
+Apparently, that really is it! Can't think of anything else to pass on this week.
+
+This week's scriptures come from the lessons for Epiphany, crowding out the Baptism of Christ:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=382009258">Isaiah 60:1-6</a></li>
+  <li><a href="http://bible.oremus.org/?ql=382009258">Psalm 72:1-7, 10-14</a></li>
+  <li><a href="http://bible.oremus.org/?ql=382009258">Ephesians 3:1-12</a></li>
+  <li><a href="http://bible.oremus.org/?ql=382009258">Matthew 2:1-12</a></li>
+</ul>
+
+"Arise, shine; for your light has come, and the glory of the Lord has risen upon you," which means: go, show the world the light of God's mysterious love and desire for peace.
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
