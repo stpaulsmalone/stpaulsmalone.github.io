@@ -60,17 +60,17 @@ A few quick reminders:
 
 ## 2.
 
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;"><br />
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;"><br />
-<img src="{{ site.url }}/img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;"><br />
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;"><br />
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;">
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;"><br />
+<img src="../img/news/mouse.jpg" width="24" height="18" style="max-width:24px; height:auto;"><br />
 That's eleven. Keep up the good work of putting food away!<br />(Mouse icons via <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.)
 
 ## 3.
