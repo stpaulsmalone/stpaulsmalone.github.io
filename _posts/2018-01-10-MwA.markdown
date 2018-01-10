@@ -35,13 +35,13 @@ calendar:
      - date: 2/14
        events: 7&#58;00 Ash Wednesday imposition of ashes
 ---
-Introducing a new feature in your Midweek Apostle! At the end of each introduction, you'll see a link like this: <a href="{{ page.url }}/#after" class="reminders">dates and reminders</a>. Clicking that link will take you to the bottom of the newsletter, where you'll find dates, birthdays, and quick reminders.
+Introducing a new feature in your Midweek Apostle! At the end of each introduction, you'll see a link like this: <a href="{{ page.url }}#after" class="reminders">dates and reminders</a>. Clicking that link will take you to the bottom of the newsletter, where you'll find dates, birthdays, and quick reminders.
 
 Keep in mind, however, that you'll be skipping over the Midweek Apostle items, which you don't want to miss. No, seriously. Go back and read them, please. And if you're clicking from your email inbox, it will open the link in your browser, not in the email itself. (It's all there in the email, I just can't give you a link to jump ahead.)
 
 Anyway. Go ahead and try it. You know you want to.
 
-<a href="{{ page.url }}/#after" class="reminders">dates and reminders</a>
+<a href="{{ page.url }}#after" class="reminders">dates and reminders</a>
 
 <!--more-->
 
