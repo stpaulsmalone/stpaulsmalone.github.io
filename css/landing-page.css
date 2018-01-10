@@ -769,7 +769,7 @@ div.neighbor-modal img {
 
 /* Stupid Safari */
 
-@media screen and (-webkit-min-device-pixel-ratio:0) {
+@media @media \\0 screen {
     div.contact-p {
         float: left;
     }
@@ -820,7 +820,7 @@ div.neighbor-modal img {
 }
 
     #after {
-        margin-top: 25px;
+        margin-top: 75px;
     }
 }
 
