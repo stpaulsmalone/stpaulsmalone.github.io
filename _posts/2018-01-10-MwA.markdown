@@ -31,9 +31,9 @@ calendar:
      - date: 2/7
        events: 7&#58;00 Pastoral Advisory Committee
      - date: 2/11
-       events:10&#58;00 Worship and Sunday School
+       events: 10&#58;00 Worship and Sunday School
      - date: 2/14
-       events:7&#58;00 Ash Wednesday imposition of ashes
+       events: 7&#58;00 Ash Wednesday imposition of ashes
 ---
 Introducing a new feature in your Midweek Apostle! At the end of each introduction, you'll see a link like this: <a href="{% post.url %}/#after" class="reminders">dates and reminders</a>. Clicking that link will take you to the bottom of the newsletter, where you'll find dates, birthdays, and quick reminders.
 
