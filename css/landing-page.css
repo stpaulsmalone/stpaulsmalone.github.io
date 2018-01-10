@@ -818,6 +818,10 @@ div.neighbor-modal img {
     #history h3 {
     margin-left: 2.5%;
 }
+
+    #after {
+        margin-top: 25px;
+    }
 }
 
 @media (min-width:1200px) {

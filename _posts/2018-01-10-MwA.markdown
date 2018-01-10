@@ -70,7 +70,7 @@ St. Paul's UCC has a very active mission committee. (They keep me hopping!) In 2
 
 ## 4.
 
-<img src="/img/news/christmastree011018.jpg" alt="Christmas tree upright">. <img src="/img/news/christmastree011018a.jpg" alt="Christmas tree tipped">. January 14 after worship. Enough said.
+<img src="/img/news/christmastree011018.png" alt="Christmas tree upright">. <img src="/img/news/christmastree011018a.png" alt="Christmas tree tipped">. January 14 after worship. Enough said.
 
 ## 5.
 
@@ -124,9 +124,9 @@ I have a little fun planned for that first one. Stay tuned.
 
 <div class="blessings">Many blessings,<br />
 Pastor Dan</div>
-<a id="after" class="reminders"></a><br />
 <br />
-<div class="after-box">
+<br />
+<div class="after-box" id="after">
 
 <h3>Quick Reminders:</h3>
 <ul>
