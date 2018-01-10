@@ -124,9 +124,7 @@ I have a little fun planned for that first one. Stay tuned.
 
 <div class="blessings">Many blessings,<br />
 Pastor Dan</div>
-<br />
-<br />
-<a id="after"></a>
+<a id="after"></a><br />
 <br />
 <div class="after-box">
 
