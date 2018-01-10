@@ -126,7 +126,9 @@ I have a little fun planned for that first one. Stay tuned.
 Pastor Dan</div>
 <br />
 <br />
-<a id="after"></a><div class="after-box">
+<a id="after"></a>
+<br />
+<div class="after-box">
 
 <h3>Quick Reminders:</h3>
 <ul class="reminders">
