@@ -513,6 +513,11 @@ div.post-content.page {
     padding-top: 0;
 }
 
+a.reminders {
+    font-size: .75em;
+    font-style: italic;
+}
+
 .teaser {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: smaller;
@@ -592,6 +597,12 @@ div.after-box {
 div.after-box h3 {
     padding-top: 25px;
     padding-bottom: 10px;
+}
+
+li.reminders {
+    list-style: none;
+    padding-left: 1em;
+    content: "\0002B"
 }
 table.upcoming {
     margin-bottom: 20px;

@@ -1,0 +1,152 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 1/10&#58; New Year, New News!
+img: church011018.jpg
+caption: It's cold and gross outside today, so here's a picture from September, when it was sunny and hot.
+teaser: Behold, I saw a new heaven and a new earth, and an update from my church as well.
+calendar: 
+     - date: 1/10
+       events: 6&#58;00 Church Council
+     - date: 1/14
+       events: 10&#58;00 Worship and Sunday School<br />Christmas un-decorating after worship
+     - date: 1/19
+       events: Holyland Food Pantry Distribution
+     - date: 1/20
+       events: 4&#58;45 Pastor Dan preaching at St. John’s, Johnsburg
+     - date: 1/21
+       events: 8&#58;00 Pastor Dan preaching at St. Cloud<br />10&#58;00 Worship with Communion (Table)<br />Noisy Sunday!<br />Father Gary preaching<br />Potluck after worship
+     - date: 1/24
+       events: 7&#58;00 Future Building Committee
+     - date: 1/26
+       events: 10&#58;00 Worship service at Willowdale, New Holstein<br />Book Club goes to see Michael Perry in Oshkosh
+     - date: 1/28
+       events: 10&#58;00 Worship<br />Annual Meeting after worship
+     - date: 1/29
+       events: 6&#58;30 Mission Committee
+     - date: 2/4
+       events: 10&#58;00 Worship with Communion<br />Kids' Sunday!
+     - date: 2/7
+       events: 7&#58;00 Pastoral Advisory Committee
+     - date: 2/11
+       events:10&#58;00 Worship and Sunday School
+     - date: 2/14
+       events:7&#58;00 Ash Wednesday imposition of ashes
+---
+Introducing a new feature in your Midweek Apostle! At the end of each introduction, you'll see a link like this: <a href="{% post.url %}/#after" class="reminders">dates and reminders</a>. Clicking that link will take you to the bottom of the newsletter, where you'll find dates, birthdays, and quick reminders.
+
+Keep in mind, however, that you'll be skipping over the Midweek Apostle items, which you don't want to miss. No, seriously. Go back and read them, please. And if you're clicking from your email inbox, it will open the link in your browser, not in the email itself. (It's all there in the email, I just can't give you a link to jump ahead.)
+
+Anyway. Go ahead and try it. You know you want to.
+
+<a href="{% post.url %}/#after" class="reminders">dates and reminders</a>
+
+<!--more-->
+
+## 1.
+
+Now it can be told! (There was no reason not to tell it before, other than that we just decided it.) Once again this year, we will be holding Lenten gatherings on Wednesday evenings. Soup and a light meal will be served at 6:30, followed by an adult education session at 7:00.
+
+This year, our focus will be on the theme of <em>focus</em>, as suggested by the Old Testament readings for the season of Lent. We'll talk about rainbows, bronze serpents, God's faithfulness to humanity, and other such weirdness. I expect the conversation will be as wide-ranging and funny as always. Please do think about coming, even and especially if you haven't participated before. Our Lenten affairs really are rewarding.
+
+What we <em>won't</em> have this year is a service on Good Friday. Attendance has been slipping over the past couple of years, so we've decided to do something different. This year, we will hold a "<a href="https://en.wikipedia.org/wiki/Tenebrae">tenebrae</a>" service on Maundy Thursday, in which we remember Christ's passion while gradually extinguishing lights in the sanctuary. On Good Friday, the sanctuary will be open for silent prayer and reflection, with a prayer guide provided.
+
+In one of these forms or another, I hope you'll think about taking part in the Lenten journey to deepen and expand your faith.
+
+## 2.
+
+As mentioned in the calendar below, on January 26th, the Book Club will be going to dinner and then to hear a reading by Wisconsin author Michael Perry at the Oshkosh Opera House. I say this not so much to encourage you to attend (though I'm sure you'd be welcome), but to point out another of the many social activities that go on around St. Paul's. Yay us!!
+
+On a similar note, all the reports are in for the Annual Meeting on the 28th. Thanks to everyone who responded promptly, and go us!
+
+
+## 3.
+
+Would You Like to Serve on St. Paul's UCC Mission Committee?
+
+St. Paul's UCC has a very active mission committee. (They keep me hopping!) In 2018, the committee has designated six times to meet on Monday evenings at 6:30 p.m. If any member would like to serve on the 2018 Mission Committee, please contact Sue Schultz at dickandsue89@gmail.com or 920-418-1580 by January 25th.
+
+## 4.
+
+<img src="/img/news/christmastree011018.jpg" alt="Christmas tree upright">. <img src="/img/news/christmastree011018a.jpg" alt="Christmas tree tipped">. January 14 after worship. Enough said.
+
+## 5.
+
+As you may or may not have heard, I've asked to spin off the Pastoral Relations Committee from the Worship Committee. That is, to have it meet separately, and with a different team. The reasoning behind this move is pretty straightforward: I'd like to ask the PRC to do some more intensive work, and it didn't seem fair to ask the Worship group to take that on, on top of everything else they do (for which I am very grateful!).
+
+So on February 7th, our new group will meet with Jane Anderson of the Wisconsin Conference for some training, and then off we go. The team includes:
+
+- Sue Burlingham
+- Gayle Martin
+- Oran Sattler
+- Rick&ast; and Mary Stellick
+- Cara Wagner and
+- John Ziegler
+
+These good people will be charged with giving me advice and feedback from the congregation, and with being advocates for my ministry in the congregation. You're certainly more than welcome to talk to any of them with questions, compliments, and ideas. My intention is to have us rotate a couple of members off each year, so if you'd be interested in serving, hang on to the idea until 2019.
+
+&ast;I'm hoping Rick will say yes, anyway. No pressure!
+
+## 6.
+
+No new reports of dead mice this week. That must mean:
+
+a. They're all gone
+b. I'm missing something, or
+c. They're getting smarter
+
+Hopefully, it's not the last.
+
+
+## 7.
+
+News from Father Gary at the Holyland Parishes:
+<blockquote>
+  St. Mary’s school building is no longer being heated. The Altar & Rosary Society has worked hard to move items out of the school and to store them elsewhere. Some items have been sold. For example, the dishes that had been used for funeral dinners were sold to Marytown Tap. The owner is hoping to host more functions there that would require a large number of good dishes. It is good to see these items will still be put to good use in our community. The Finance Council with guidance from the Building & Grounds Committee has decided to take down the school. We recently received an offer that seems almost “too good to be true.” We are trying to do due diligence before accepting the offer.
+</blockquote>
+
+As you can imagine, this is an emotionally difficult decision for our neighbors at St. Mary's. Keep them in your thoughts as the work progresses.
+
+## 8.
+
+We're talking about call in this week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=382610745">1 Samuel 3:1-10, (11-20)</a></li>
+  <li><a href="http://bible.oremus.org/?ql=382610745">Psalm 139:1-6, 13-18</a></li>
+  <li><a href="http://bible.oremus.org/?ql=382610745">1 Corinthians 6:12-20</a></li>
+  <li><a href="http://bible.oremus.org/?ql=382610745">John 1:43-51</a></li>
+</ul>
+
+I have a little fun planned for that first one. Stay tuned.
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<a id="after"></a><div class="after-box">
+
+<h3>Quick Reminders:</h3>
+<ul class="reminders">
+  <li>Father Gary is coming to preach at St. Paul's on January 21st.</li>
+  <li>Our annual congregational meeting will be held on January 28th immediately following worship. It will include an update from the Future Building Committee.</li>
+  <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
