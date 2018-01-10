@@ -3,7 +3,7 @@ layout: mwa_post
 category: news
 class: page
 description:
-title: Midweek Apostle 1/10&#58; New Year, New News!
+title: Midweek Apostle 1/10 - New Year, New News!
 img: church011018.jpg
 caption: It's cold and gross outside today, so here's a picture from September, when it was sunny and hot.
 teaser: Behold, I saw a new heaven and a new earth, and an update from my church as well.
