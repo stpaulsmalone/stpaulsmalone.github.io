@@ -464,6 +464,10 @@ ul.follow {
     font:14px "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.js-comments {
+    margin-bottom: 10%;
+}
+
 #prayer-form {
     margin: 4% 0;
     padding: 2%;
