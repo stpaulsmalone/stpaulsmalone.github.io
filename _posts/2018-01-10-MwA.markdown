@@ -163,5 +163,8 @@ Pastor Dan</div>
         </div>
     </article>
   {% endfor %}
+  <p>
+    <a href="{{ site.url }}/prayer/">Add a prayer to our list</a>
+  </p>
 </div>
 
