@@ -4,7 +4,7 @@
 
 title: St. Paul's UCC Malone WI
 email: office@stpaulsmalone.org
-baseurl: http://stpaulsmalone.org
+baseurl: stpaulsmalone.org
 url: stpaulsmalone.org 
 
 # Permalinks
@@ -31,7 +31,3 @@ social:
     url: https://twitter.com/stpaulsmalone
   - title: facebook
     url: https://www.facebook.com/St-Pauls-UCC-Malone-Wisconsin-173703179630657/
-  - title: news
-    url: 
-
-# This is just nonsense to see if it will update. #

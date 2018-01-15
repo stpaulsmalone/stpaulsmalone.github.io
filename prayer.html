@@ -21,3 +21,18 @@ sitemap:
   
   <button type="submit">Send</button>
 </form>
+<div class="js-comments">
+	<h3>Please be in prayer for:</h3>
+	{% assign prayers = site.data.prayers | sort %}
+	
+	{% for prayer in prayers reversed %}
+		{% assign prayerData = prayer[1] %}
+
+		<article class="prayer mdl-card mdl-shadow--2dp">
+		    <div class="prayer__description">
+		    	{{ prayerData.description | markdownify }}
+		    </div>
+		  </div>
+		</article>
+	{% endfor %}
+</div>
