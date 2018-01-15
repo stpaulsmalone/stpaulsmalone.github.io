@@ -11,13 +11,18 @@ sitemap:
 
 <div class="content no-columns">
 <h2>St. Paul's Malone Prayer List</h2>
-
-<form method="POST" action="https://api.staticman.net/v2/entry/stpaulsmalone/stpaulsmalone.github.io/master/prayers">
+<p>
+	<em>To add a name to our list, please fill out</em>&nbsp;<strong>all</strong>&nbsp;<em>the fields below. Your name and email address will not display on the list.</em>
+</p>
+<p>
+	<em>Please use only first names in requests to maintain privacy. It may take a little while for your request to show up on the list.</em>
+</p>
+<form method="POST" action="https://api.staticman.net/v2/entry/stpaulsmalone/stpaulsmalone.github.io/master/prayers" id="prayer-form">
   <input name="options[redirect]" type="hidden" value="http://stpaulsmalone.org/prayer/">
   <input name="options[slug]" type="hidden" value="{{ page.alias }}">
-  <label><input name="fields[name]" type="text">Your Name</label>
-  <label><input name="fields[email]" type="email">Your e-mail</label>
-  <label><textarea name="fields[message]"></textarea>Prayer Request:</label>
+  <label>Your Name<input name="fields[name]" type="text"></label>
+  <label>Your e-mail<input name="fields[email]" type="email"></label><br />
+  <label>Prayer Request:<textarea name="fields[message]"></textarea></label>
   
   <button type="submit">Send</button>
 </form>
