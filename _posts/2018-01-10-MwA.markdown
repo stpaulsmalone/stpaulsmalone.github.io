@@ -150,3 +150,19 @@ Pastor Dan</div>
 
 {% include birthday.html content=page_date %}
 
+<div class="js-comments">
+  <h3>Please be in prayer for:</h3>
+  {% assign prayers = site.data.prayers | sort %}
+  
+  {% for prayer in prayers reversed %}
+    {% assign prayerData = prayer[1] %}
+
+    <article class="prayer mdl-card mdl-shadow--2dp">
+        <div class="prayer__message">
+          {{ prayerData.message | markdownify }}
+        </div>
+      </div>
+    </article>
+  {% endfor %}
+</div>
+

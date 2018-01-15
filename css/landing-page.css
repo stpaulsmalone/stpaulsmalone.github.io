@@ -464,56 +464,6 @@ ul.follow {
     font:14px "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-#prayer-form {
-    margin: 4% 0;
-    padding: 2%;
-    background-color: #f8f8f8;
-    border: 1px solid #e7e7e7;
-    max-width: 750px;
-}
-
-#prayer-form label {
-    font-weight: normal;
-    display: block;
-    margin-bottom: 3%;
-}
-
-#prayer-form label:last-of-type {
-    margin-top: -3%;
-}
-
-#prayer-form input {
-    margin: .75% 0 0% 1%;
-    margin-left: 1%;
-    width: 90%;
-    display: block;
-}
-
-#prayer-form button, #prayer-form textarea {
-    display: block;
-    margin-left: 1%;
-}
-
-#prayer-form textarea {
-    width: 90%;
-    border: 0.109em solid rgb(218, 218, 218);
-    margin-top: .75%;
-}
-
-div.prayer__message p {
-    font-size: 18px;
-    font-weight: 400;
-    display: list-item;
-    list-style-type: "+ ";
-    list-style-position: inside;
-}
-div.prayer__message {
-    margin-top: -10px;
-}
-.lead.no-columns div.prayer__message {
-    margin-top: 0;
-}
-
 /* Styling News Section, Page & Posts */
 
 ul.news {
@@ -598,6 +548,15 @@ figure a {
 } 
 
 div.post-content figcaption, ul.post-list figcaption {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: medium;
+    text-align: center;
+    font-style: italic;
+    display: block;
+    padding-bottom: 25px;
+}
+
+.caption {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: medium;
     text-align: center;
