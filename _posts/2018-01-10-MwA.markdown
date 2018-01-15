@@ -164,7 +164,7 @@ Pastor Dan</div>
     </article>
   {% endfor %}
   <p>
-    <a href="{{ site.baseurl }}/prayer/">Add a prayer to our list</a>
+    <a href="/prayer/">Add a prayer to our list</a>
   </p>
 </div>
 
