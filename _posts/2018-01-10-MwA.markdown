@@ -165,7 +165,7 @@ Pastor Dan</div>
     </article>
   {% endfor %}
   <p>
-    <a href="/prayer/#add-prayers">Add a prayer to our list</a>
+    <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a>
   </p>
 </div>
 
