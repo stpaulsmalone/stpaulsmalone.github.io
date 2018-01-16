@@ -79,7 +79,7 @@ $('div.modal').on('show.bs.modal', function() {
     $( "table.page-table tr td:contains('#!')" ).each(function () {
     $(this).html($(this).html().replace("#!", "<span class='hidden'>#!</span>"));
 });
-
+ 
 // Welcome neighbor modal
  /*$( document ).ready( function() {
     if ($.cookie( 'pop' ) == null) {
