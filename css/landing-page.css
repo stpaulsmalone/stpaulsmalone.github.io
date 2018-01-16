@@ -463,9 +463,20 @@ ul.follow {
     clear:left; 
     font:14px "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+/*Firefox does weird things with margins. IDK why.
 
-.js-comments {
+@-moz-document url-prefix(){
+    .js-comments {
+    margin-top: 2.5%;
     margin-bottom: 10%;
+    }
+} */
+
+.js-comments hr {
+    width: 50%;
+    margin-left: 0;
+    border-color: rgb(185, 185, 185);
+    background-color: rgb(185, 185, 185);
 }
 
 #prayer-form {
