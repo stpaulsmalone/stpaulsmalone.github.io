@@ -41,7 +41,7 @@ Keep in mind, however, that you'll be skipping over the Midweek Apostle items, w
 
 Anyway. Go ahead and try it. You know you want to.
 
-<a href="{{ page.url }}#after" class="reminders">dates and reminders</a>
+<a href="{{ post.url }}#after" class="reminders">dates and reminders</a>
 
 <!--more-->
 

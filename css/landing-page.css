@@ -681,12 +681,12 @@ div.after-box {
 }
 
 div.after-box a {
-    color: #fff;
-    text-decoration: none;
+    color: red;
+    text-decoration: underline;
 }
 
 div.after-box a:visited {
-    text-decoration: underline;
+    color: #fff;
 }
 
 div.after-box h3 {
