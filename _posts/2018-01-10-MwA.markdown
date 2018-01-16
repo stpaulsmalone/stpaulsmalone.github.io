@@ -126,9 +126,9 @@ I have a little fun planned for that first one. Stay tuned.
 Pastor Dan</div>
 <br />
 <br />
-<div class="after-box" id="after">
+<div class="after-box">
 
-<h3>Quick Reminders:</h3>
+<h3 class="anchor" id="after">Quick Reminders:</h3>
 <ul>
   <li>Father Gary is coming to preach at St. Paul's on January 21st.</li>
   <li>Our annual congregational meeting will be held on January 28th immediately following worship. It will include an update from the Future Building Committee.</li>
@@ -150,8 +150,9 @@ Pastor Dan</div>
 
 {% include birthday.html content=page_date %}
 
+<h3>Please be in prayer for:</h3>
+
 <div class="js-comments">
-  <h3>Please be in prayer for:</h3>
   {% assign prayers = site.data.prayers | sort %}
   
   {% for prayer in prayers reversed %}

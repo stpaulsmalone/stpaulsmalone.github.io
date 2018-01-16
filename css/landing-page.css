@@ -38,16 +38,23 @@ a h3:hover {
     color: #e3e5e8;
 }
 
+.index {
+    margin-left: -5%;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
 }
+
 .container {
     padding-left: 0;
 }
+
 section#content {
     padding-left: 15px;
 }
+
 section.no-float section#content {
     padding-left: 0;
 }
@@ -63,6 +70,7 @@ section.no-float section#content {
     padding-top: 0;
     margin-top: -5px;
 }
+
 div.lead.index {
     background: url(../img/stp092017.jpg) no-repeat top center;
     background-size: cover;
@@ -72,6 +80,7 @@ div.lead.index {
     -moz-margin-start: -5px;
     margin-left: 0;
 }
+
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
@@ -137,6 +146,7 @@ div.content-section-a.page {
 section.left div.content {
     margin-left: -2.5%;
 }
+
 .section-heading {
     padding-left: 50px;
 }
@@ -229,6 +239,7 @@ div.submenu {
     color: #777;
     font-weight: normal;
 }
+
 .list-group {
     top:0;
     left:100%;
@@ -274,6 +285,7 @@ svg:not(:root) {
     margin-left: 0;
     padding-left: 0 !important;
 }
+
 nav.navbar div.container {
     padding-left: 0px;
 }
@@ -463,14 +475,6 @@ ul.follow {
     clear:left; 
     font:14px "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-/*Firefox does weird things with margins. IDK why.
-
-@-moz-document url-prefix(){
-    .js-comments {
-    margin-top: 2.5%;
-    margin-bottom: 10%;
-    }
-} */
 
 .js-comments hr {
     width: 50%;
@@ -522,6 +526,7 @@ div.prayer__message p {
     list-style-type: "+ ";
     list-style-position: inside;
 }
+
 div.prayer__message {
     margin-top: -10px;
 }
@@ -543,6 +548,7 @@ ul.news li a {
 h2.section-heading.news {
     max-width: 750px;
 }
+
 ul.post-list {
     list-style: none;
     padding: 10px 0;
@@ -673,6 +679,16 @@ div.after-box {
     margin-top: 125px;
     padding: 0 20px 25px 20px;
 }
+
+div.after-box a {
+    color: #fff;
+    text-decoration: none;
+}
+
+div.after-box a:visited {
+    text-decoration: underline;
+}
+
 div.after-box h3 {
     padding-top: 25px;
     padding-bottom: 10px;
@@ -686,9 +702,11 @@ li.reminders {
 table.upcoming {
     margin-bottom: 20px;
 }
+
 td { 
     padding-bottom: 0;
 }
+
 table.upcoming td {
     padding-right: 30px;
     padding-bottom: 15px;
@@ -805,7 +823,6 @@ span.click-me {
     font-size: small;
     text-align: right;
 }
-
 
 /* Neighbor Modal */
 div.neighbor-modal {

@@ -1,5 +1,5 @@
 // jQuery for page scrolling feature - requires jQuery Easing plugin
-/*$(function() {
+$(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
@@ -7,7 +7,7 @@
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
-});*/
+});
 
 /* Highlight the top nav as scrolling occurs
 $('body').scrollspy({
@@ -81,8 +81,8 @@ $('div.modal').on('show.bs.modal', function() {
 });
 
 // Welcome neighbor modal
-/* $( document ).ready( function() {
-    if ($ cookie( 'pop' ) == null) {
+ $( document ).ready( function() {
+    if ($.cookie( 'pop' ) == null) {
         $( "div.neighbor-modal" ).fadeIn( "slow" );
         $( "div.neighbor-modal" ).fadeTo( 'slow', 1 );
         setTimeout( function(){ $( "div.neighbor-modal" ).fadeTo( 4000, 0.0 ); }, 16000);
@@ -95,7 +95,7 @@ $('div.modal').on('show.bs.modal', function() {
       setTimeout(function(){
         $( "div.neighbor-modal" ).removeAttr('style');
       }, 999);
-    }); */
+    });
 
 // Taco Modal
 
