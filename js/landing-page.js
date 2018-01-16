@@ -107,3 +107,8 @@ $(function() {
     $( 'img.pastor-pic' ).css('opacity', '1');
   });
 });
+
+// Anchor offset
+    var offset = $(':target').offset();
+    var scrollto = offset.top - 75; // minus fixed header height
+    $('html, body').animate({scrollTop:scrollto}, 0);
