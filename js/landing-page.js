@@ -120,4 +120,4 @@ function delayedFragmentTargetOffset(){
         var scrollto = offset.top - 95; // minus fixed header height
         $('html, body').animate({scrollTop:scrollto}, 0);
     }
-}
+} 
