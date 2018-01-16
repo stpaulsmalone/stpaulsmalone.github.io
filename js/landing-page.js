@@ -81,7 +81,7 @@ $('div.modal').on('show.bs.modal', function() {
 });
 
 // Welcome neighbor modal
- $( document ).ready( function() {
+ /*$( document ).ready( function() {
     if ($.cookie( 'pop' ) == null) {
         $( "div.neighbor-modal" ).fadeIn( "slow" );
         $( "div.neighbor-modal" ).fadeTo( 'slow', 1 );
@@ -95,7 +95,7 @@ $('div.modal').on('show.bs.modal', function() {
       setTimeout(function(){
         $( "div.neighbor-modal" ).removeAttr('style');
       }, 999);
-    });
+    });*/
 
 // Taco Modal
 
