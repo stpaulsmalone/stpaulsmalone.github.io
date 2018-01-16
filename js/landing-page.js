@@ -82,7 +82,7 @@ $('div.modal').on('show.bs.modal', function() {
 
 // Welcome neighbor modal
 $( document ).ready( function() {
-    if ($.cookie( 'pop' ) == null) {
+    if ($ cookie( 'pop' ) == null) {
         $( "div.neighbor-modal" ).fadeIn( "slow" );
         $( "div.neighbor-modal" ).fadeTo( 'slow', 1 );
         setTimeout( function(){ $( "div.neighbor-modal" ).fadeTo( 4000, 0.0 ); }, 16000);
