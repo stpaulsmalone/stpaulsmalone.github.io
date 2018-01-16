@@ -109,6 +109,6 @@ $(function() {
 });
 
 // Anchor offset
-    var offset = $(':target').offset();
+    var offset = $('.anchor').offset();
     var scrollto = offset.top - 75; // minus fixed header height
     $('html, body').animate({scrollTop:scrollto}, 0);
