@@ -3,10 +3,10 @@ layout: mwa_post
 category: news
 class: page
 description:
-title: Midweek Apostle 1/17 - New Year, New News!
-img: church011018.jpg
-caption: It's cold and gross outside today, so here's a picture from September, when it was sunny and hot.
-teaser: Behold, I saw a new heaven and a new earth, and an update from my church as well.
+title: Midweek Apostle 1/17 - So Many Prayers, So Little Time!
+img: benchh011718.jpg
+caption: Not that you need a reminder of the weather, but this is pretty.
+teaser: First prayer on the list? For you.
 calendar: 
      - date: 1/19
        events: Holyland Food Pantry Distribution
