@@ -1,0 +1,134 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 1/17 - New Year, New News!
+img: church011018.jpg
+caption: It's cold and gross outside today, so here's a picture from September, when it was sunny and hot.
+teaser: Behold, I saw a new heaven and a new earth, and an update from my church as well.
+calendar: 
+     - date: 1/19
+       events: Holyland Food Pantry Distribution
+     - date: 1/20
+       events: 4&#58;45 Pastor Dan preaching at St. John’s, Johnsburg
+     - date: 1/21
+       events: 8&#58;00 Pastor Dan preaching at St. Cloud<br />10&#58;00 Worship with Communion (Table)<br />Noisy Sunday!<br />Father Gary preaching<br />Potluck after worship
+     - date: 1/24
+       events: 7&#58;00 Future Building Committee
+     - date: 1/26
+       events: 10&#58;00 Worship service at Willowdale, New Holstein<br />Book Club goes to see Michael Perry in Oshkosh
+     - date: 1/28
+       events: 10&#58;00 Worship<br />Annual Meeting after worship
+     - date: 1/29
+       events: 6&#58;30 Mission Committee
+     - date: 2/4
+       events: 10&#58;00 Worship with Communion<br />Kids' Sunday!
+     - date: 2/7
+       events: 7&#58;00 Pastoral Advisory Committee
+     - date: 2/11
+       events: 10&#58;00 Worship and Sunday School
+     - date: 2/14
+       events: 1&#58;00 Pastor Dan at Communities of Practice meeting
+     - date: 2/14
+       events: 7&#58;00 Ash Wednesday imposition of ashes
+     - date: 2/18
+       events: 10&#58;00 Worship with Communion (Pew)<br />Kids Sunday!<br />Noisy Sunday!
+     - date: 2/19
+       events: 6&#58;30/7&#58;00 Women's Fellowship
+     - date: 2/11
+       events: 6&#58;30 Lenten Soup &amp; Learning
+---
+Upping the ante from last week, in this week's edition we have <em>two</em> new features! Well, one-and-a-half, anyway. The first is actually that I've found a way (cross your fingers) to fix the "dates and reminders" link from last week. You should now be able to jump to the calendar, birthdays, reminders, etc.
+
+More important, <strong>we now have a page for a <a href="http://www.stpaulsmalone.org/prayer/">prayer list</a></strong>! (Thank you to Lori for the suggestion.) You can read the list, or <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> of your own. The list is also included at the end of this email. 
+
+<a href="{{ site.baseurl }}{{ post.url }}/#after" class="reminders mcignore">dates and reminders</a>
+
+<!--more-->
+
+## 1.
+
+Er, I think I said the focus of the Lenten gatherings this year would be on...focus? I meant that it would be on <em>covenant</em>. That's a much more interesting subject, and certainly makes more sense of the stories about Noah, Moses, and Jeremiah. I blame sleep deprivation.
+
+## 2.
+
+With Father Gary Wegner coming to visit this weekend, it seems like a good time to remind everyone of the importance of the ecumenical movement&mdash;the drive to establish unity between Christian churches.  We've all heard (and some of have experienced firsthand) the religious divisions of the Holyland. Fortunately, those are starting to fade away. Still, we can be justifiably proud of not only our role in establishing the Holyland Food Pantry with our Catholic brothers and sisters, but of offering an open communion table.
+
+On a broader level, our very church is founded on ecumenism. St. Paul's was a Lutheran church originally, but eventually had a pastor from the Evangelical Synod, and wound up changing streams. The Evangelical Synod itself was founded about the same time as St. Paul's, not as a denomination, but as a pastoral association to help churches like ours find ministers. That history led them to connect to the German Reformed Church in 1934, and then the Congregational Christian church in 1957 to form the United Church of Christ. Those mergers were part of a larger set of plans to bring all the Protestant churches in the US under one branch, but that never panned out, obviously. Later, the UCC and other churches tried to bring together white and black denominations, but that didn't work out, either. And of course, St. Paul's was yoked for many years with the Methodist church in Stockbridge. Even today, we have a surprising number of members who have belonged to other churches: Methodists, Presbyterians, Catholics, Lutherans.
+
+The point of all this is working across religious lines is written in our DNA. It's who we are, it's what we do. We work in service of healing and reconciliation, answering the prayer of Jesus that all his followers may be one. It's a way of living up to our core values of Community and Hospitality, and with that, I will say I welcome Father Gary with open arms, and trust that you will as well.
+
+
+## 3.
+
+Would You Like to Serve on St. Paul's UCC Mission Committee?
+
+St. Paul's UCC has a very active mission committee. (They keep me hopping!) In 2018, the committee has designated six times to meet on Monday evenings at 6:30 p.m. If any member would like to serve on the 2018 Mission Committee, please contact Sue Schultz at dickandsue89@gmail.com or 920-418-1580 by January 25th.
+
+## 4.
+
+Hey, thanks to the people (Cara and Mackenzie, Nancy, Gayle and Ann, anyone I've forgotten) who took down the Christmas decorations on Sunday! Your work is appreciated.
+
+## 5.
+
+As a reminder, I don't check text messages on the church phone. You're welcome to send them to my personal number, though.
+
+## 6.
+
+This week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=383216334">Jonah 3:1-5, 10</a></li>
+  <li><a href="http://bible.oremus.org/?ql=383216334">Psalm 62:5-12</a></li>
+  <li><a href="http://bible.oremus.org/?ql=383216334">1 Corinthians 7:29-31</a></li>
+  <li><a href="http://bible.oremus.org/?ql=383216334">Mark 1:14-20</a></li>
+</ul>
+
+When Jesus told the disciples they would fish for men, did they wonder if they'd be pulling up people like Jonah?
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<h3 class="anchor" id="after">Quick Reminders:</h3>
+<ul>
+  <li>Father Gary is coming to preach at St. Paul's this Sunday.</li>
+  <li>Our annual congregational meeting will be held on January 28th immediately following worship. It will include an update from the Future Building Committee.</li>
+  <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+  {% assign prayers = site.data.prayers | sort %}
+  
+  {% for prayer in prayers reversed %}
+    {% assign prayerData = prayer[1] %}
+
+    <article class="prayer mdl-card mdl-shadow--2dp">
+        <div class="prayer__message">
+          {{ prayerData.message | markdownify }}
+        </div> 
+</article>
+  {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+
