@@ -4,7 +4,7 @@ category: news
 class: page
 description:
 title: Midweek Apostle 1/17 - So Many Prayers, So Little Time!
-img: benchh011718.jpg
+img: bench011718.jpg
 caption: Not that you need a reminder of the weather, but this is pretty.
 teaser: First prayer on the list? For you.
 calendar: 
@@ -43,7 +43,7 @@ Upping the ante from last week, in this week's edition we have <em>two</em> new 
 
 More important, <strong>we now have a page for a <a href="http://www.stpaulsmalone.org/prayer/">prayer list</a></strong>! (Thank you to Lori for the suggestion.) You can read the list, or <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> of your own. The list is also included at the end of this email. 
 
-<a href="{{ site.baseurl }}{{ post.url }}/#after" class="reminders mcignore">dates and reminders</a>
+<a href="{{ site.baseurl }}/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">dates and reminders</a>
 
 <!--more-->
 
