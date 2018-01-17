@@ -39,6 +39,10 @@ calendar:
      - date: 2/11
        events: 6&#58;30 Lenten Soup &amp; Learning
 ---
+{% if page.img !=null %}
+<span class="caption">{{ page.caption }}</span>
+{% endif %}
+
 Upping the ante from last week, in this week's edition we have <em>two</em> new features! Well, one-and-a-half, anyway. The first is actually that I've found a way (cross your fingers) to fix the "dates and reminders" link from last week. You should now be able to jump to the calendar, birthdays, reminders, etc.
 
 More important, <strong>we now have a page for a <a href="http://www.stpaulsmalone.org/prayer/">prayer list</a></strong>! (Thank you to Lori for the suggestion.) You can read the list, or <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> of your own. The list is also included at the end of this email. 
