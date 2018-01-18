@@ -47,7 +47,7 @@ Upping the ante from last week, in this week's edition we have <em>two</em> new 
 
 More important, <strong>we now have a page for a <a href="http://www.stpaulsmalone.org/prayer/">prayer list</a></strong>! (Thank you to Lori for the suggestion.) You can read the list, or <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> of your own. The list is also included at the end of this email. 
 
-<a href="stpaulsmalone.org/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">dates and reminders</a>
+<a href="/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">dates and reminders</a>
 
 <!--more-->
 
