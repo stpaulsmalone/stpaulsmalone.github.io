@@ -1,8 +1,17 @@
-<!-- jQuery Version 1.11.0 -->
-<script src="/js/jquery-1.11.0.js"></script>
+<!-- ##### JQuery ##### -->
 
-<!-- Plugin JavaScript -->
-    <script src="/js/jquery.easing.min.js"></script>
+<!-- JQueryUI -->
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+<!-- JQuery JavaScript -->
+<script src="{{ site.baseurl }}/js/external/jquery/jquery.js"></script>
+<script src="{{ site.baseurl }}/js/jquery-ui.min.js"></script>
+
+<!-- JQuery Easing -->
+<script src="/js/jquery.easing.min.js"></script>
+
+<!-- ##### Bootstrap ##### -->
 
 <!-- Bootstrap Core JavaScript -->
 <script src="/js/bootstrap.min.js"></script>
@@ -10,29 +19,7 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ site.baseurl }}/js/landing-page.js"></script>
 
-<!-- JQueryUI JavaScript -->
-<script src="/js/external/jquery/jquery.js"></script>
-<script src="/js/jquery-ui.min.js"></script>
-
-<!-- Lightbox JavaScript -->
-<script src="/js/lightbox.js"></script>
-
-<!-- JQuery Cookie
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js">
-	// Welcome neighbor modal
-$( document ).ready( function() {
-    if ($.cookie( 'pop' ) == null) {
-        $( "div.neighbor-modal" ).fadeIn( "slow" );
-        $( "div.neighbor-modal" ).fadeTo( 'slow', 1 );
-        setTimeout( function(){ $( "div.neighbor-modal" ).fadeTo( 4000, 0.0 ); }, 16000);
-        setTimeout( function(){ $( "div.neighbor-modal" ).removeAttr('style'); }, 20001);
-        $.cookie( 'pop', '365' );
-        }
-});
-    $( "div.neighbor-modal" ).click(function() {
-      $( this ).fadeTo( 1000, 0.0 );
-      setTimeout(function(){
-        $( "div.neighbor-modal" ).removeAttr('style');
-      }, 999);
-    });
-</script> -->
+{% if page.image-array !=null %}
+  <!-- Lightbox JavaScript -->
+  <script src="/js/lightbox.js"></script>
+{% endif %}

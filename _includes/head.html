@@ -8,19 +8,6 @@
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-    <!-- ##### JQuery ##### -->
-
-    <!-- JQueryUI -->
-    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-
-    <!-- JQuery JavaScript -->
-    <script src="{{ site.baseurl }}/js/external/jquery/jquery.js"></script>
-    <script src="{{ site.baseurl }}/js/jquery-ui.min.js"></script>
-
-    <!-- JQuery Cookie -->
-    <script src="{{ site.baseurl }}/js/jquery.cookie.js"></script>
-
     <!-- ##### CSS ##### -->
 
     <!-- Bootstrap Core CSS -->
@@ -32,8 +19,10 @@
     <!-- Lightbox CSS -->
     <link rel="stylesheet" href="{{ site.baseurl }}/css/lightbox.css">
 
+    {% if page.alias == 'follow' %}
     <!-- MailChimp CSS -->
     <link rel="stylesheet" href="http://cdn-images.mailchimp.com/embedcode/classic-10_7.css">
+    {% endif %}
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ site.baseurl }}/css/landing-page.css">
