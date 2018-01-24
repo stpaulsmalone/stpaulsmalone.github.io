@@ -1,0 +1,210 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 1/24 - Tree Down
+img: treeservice012418.jpg
+caption: So here's what the office looks like today.
+teaser: I've never seen a poem as lovely as a tree, but I've also never seen a tree as lovely as a prayer.
+calendar:
+     - date: 1/24
+       events: 7&#58;00 Future Building Committee
+     - date: 1/26
+       events: 10&#58;00 Worship service at Willowdale, New Holstein<br />Book Club goes to see Michael Perry in Oshkosh
+     - date: 1/28
+       events: 10&#58;00 Worship<br />Annual Meeting after worship
+     - date: 1/29
+       events: 6&#58;30 Mission Committee
+     - date: 2/4
+       events: 10&#58;00 Worship with Communion<br />Kids' Sunday!
+     - date: 2/7
+       events: 7&#58;00 Pastoral Advisory Committee
+     - date: 2/11
+       events: 10&#58;00 Worship and Sunday School
+     - date: 2/12
+       events: 1&#58;00 Pastor Dan at Communities of Practice meeting
+     - date: 2/14
+       events: 7&#58;00 Ash Wednesday imposition of ashes
+     - date: 2/18
+       events: 10&#58;00 Worship with Communion (Pew)<br />Kids Sunday!<br />Noisy Sunday!
+     - date: 2/19
+       events: 6&#58;30/7&#58;00 Women's Fellowship
+     - date: 2/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 2/25
+       events: 10&#58;00 Worship and Sunday School
+---
+{% if page.img !=null %}
+<span class="caption">{{ page.caption }}</span>
+{% endif %}
+
+It's a little early for Arbor Day, but as you can see, Asplundh Tree Service is here, trimming back branches around the power lines. They *do not mess around*, let us say. It's sad to see the shade get knocked back so extensively, but of course the alternative is that the trees come completely down.
+
+It's sad how little we notice the beauty of God's creation until it's gone, so this is as good a time as any to stop and remind ourselves of what's around us. Things will look different on our stretch of the road for a while (they're going all the way down Stone Soup Trail), but the good news is that time heals all wounds, butchered trees included.
+
+<a href="{{ site.url }}/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">dates and reminders</a>
+
+<!--more-->
+
+## 1.
+
+New Holyland Food Pantry list below. Check it out!
+
+## 2. 
+
+Don't forget that you can <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> to our Prayer Chain. If you prefer, you can skip down to the end of this email and read the list. We're up to seven requests, and yes, I'm working on setting up notifications so you can see when something's added.
+
+## 3.
+
+Father Gary has come and gone, and I at least was happy to have him. He's a good preacher! I'm going to have to step up my game here. Anyway, it's always good to try to work across those boundaries, and both Gary and I hope our relationship with the Holyland Parishes will continue to strengthen.
+
+
+## 4.
+
+A message from the Malone Area History Museum:
+<blockquote>
+  A permanent memorial to honor all those from the "Holyland" who died while serving our Country, including MIA's, will be dedicated on May 19th, 2018 as part of a ceremony beginning at 1:00. This will take place at the Malone Area Heritage Museum at N8791 County RD W, Malone, WI. If anyone knows of a person from the "Holyland" who died, or is an MIA, while serving our Country, please contact John Bertram at bertramjm@gmail.com or Dan Bord at danl1@charter.net.  
+</blockquote>
+
+## 5.
+
+Would You Like to Serve on St. Paul's UCC Mission Committee?
+
+St. Paul's UCC has a very active mission committee. (They keep me hopping!) In 2018, the committee has designated six times to meet on Monday evenings at 6:30 p.m. If any member would like to serve on the 2018 Mission Committee, please contact Sue Schultz at dickandsue89@gmail.com or 920-418-1580 by January 25th.
+
+## 6.
+
+We took in $31 in Noisy Sunday offerings this past week. I'm not sure what that brings the total to, but thank you to everyone who's thrown some coin in the buckets. The kids are going to have a grand time choosing charities to send the money to.
+
+## 7.
+
+<a href="http://www.fdlreporter.com/story/news/2018/01/23/fond-du-lac-high-school-host-hungry-hippos-ice-benefit-food-pantry-chegwin/1057341001/">This sounds <em>amazing</em></a>:
+<blockquote>
+  Fond du Lac High School’s Cardinal’s Nest will present “Hungry Hippos on Ice” at the Fond du Lac-Cedarburg high school hockey game on Saturday, Jan. 27 at Blue Line Family Ice Center, 550 Fond du Lac Ave.
+
+  Any fan who donates three non-perishable food items will receive free admission to the game and the chance to win prizes. 
+
+  Between the first and second periods of Saturday's game, students will try to scoop up as many balls as they can in the Hungry Hippo Challenge. Each ball collected by the winning team will result in $1 donated to Fondy Food Pantry by the Cardinal’s Nest — Fond du Lac High School’s advanced marketing and entrepreneurship students.
+</blockquote>
+
+Can you imagine this out on the <strike>pond</strike> swamp?
+
+## 8.
+
+This week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=383825240">Deuteronomy 18:15-20</a></li>
+  <li><a href="http://bible.oremus.org/?ql=383825240">Psalm 111</a></li>
+  <li><a href="http://bible.oremus.org/?ql=383825240">1 Corinthians 8:1-13</a></li>
+  <li><a href="http://bible.oremus.org/?ql=383825240">Mark 1:21-28</a></li>
+</ul>
+
+"Food will not bring us close to God," says Paul, quoting a slogan from the church in Corinth. Baloney, I say.
+
+## 9.
+
+One more thing, and speaking of the glories of nature:
+<img src="cougar012418" alt="Cougar sighted near Rosendale">
+<blockquote>
+  An animal <a href="https://dnr.wi.gov/news/images/slideshows/20180123_cougars/">seen on a trail camera near Rosendale</a> earlier this month was a cougar, the state Department of Natural Resources has confirmed.
+</blockquote>
+
+Enjoy God's creation, but in this case, don't stop to pet it.
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
+<ul>
+  <li>Father Gary is coming to preach at St. Paul's this Sunday.</li>
+  <li>Our annual congregational meeting will be held on January 28th immediately following worship. It will include an update from the Future Building Committee.</li>
+  <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+  {% assign prayers = site.data.prayers | sort %}
+  
+  {% for prayer in prayers reversed %}
+    {% assign prayerData = prayer[1] %}
+
+    <article class="prayer mdl-card mdl-shadow--2dp">
+        <div class="prayer__message">
+          {{ prayerData.message | markdownify }}
+        </div> 
+</article>
+  {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+
+6334">Mark 1:14-20</a></li>
+</ul>
+
+When Jesus told the disciples they would fish for men, did they wonder if they'd be pulling up people like Jonah?
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
+<ul>
+  <li>Father Gary is coming to preach at St. Paul's this Sunday.</li>
+  <li>Our annual congregational meeting will be held on January 28th immediately following worship. It will include an update from the Future Building Committee.</li>
+  <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+  {% assign prayers = site.data.prayers | sort %}
+  
+  {% for prayer in prayers reversed %}
+    {% assign prayerData = prayer[1] %}
+
+    <article class="prayer mdl-card mdl-shadow--2dp">
+        <div class="prayer__message">
+          {{ prayerData.message | markdownify }}
+        </div> 
+</article>
+  {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+
