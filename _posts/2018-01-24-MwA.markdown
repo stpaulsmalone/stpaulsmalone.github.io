@@ -43,7 +43,7 @@ It's a little early for Arbor Day, but as you can see, Asplundh Tree Service is 
 
 It's sad how little we notice the beauty of God's creation until it's gone, so this is as good a time as any to stop and remind ourselves of what's around us. Things will look different on our stretch of the road for a while (they're going all the way down Stone Soup Trail), but the good news is that time heals all wounds, butchered trees included.
 
-<a href="{{ site.url }}/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">dates and reminders</a>
+<a href="/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">dates and reminders</a>
 
 <!--more-->
 
