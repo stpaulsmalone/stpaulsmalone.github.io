@@ -106,7 +106,7 @@ This week's scriptures:
 ## 9.
 
 One more thing, and speaking of the glories of nature:
-<img src="cougar012418" alt="Cougar sighted near Rosendale">
+<img src="/img/news/cougar012418.jpg" alt="Cougar sighted near Rosendale">
 <blockquote>
   An animal <a href="https://dnr.wi.gov/news/images/slideshows/20180123_cougars/">seen on a trail camera near Rosendale</a> earlier this month was a cougar, the state Department of Natural Resources has confirmed.
 </blockquote>
@@ -121,57 +121,6 @@ Pastor Dan</div>
 
 <a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
 <ul>
-  <li>Father Gary is coming to preach at St. Paul's this Sunday.</li>
-  <li>Our annual congregational meeting will be held on January 28th immediately following worship. It will include an update from the Future Building Committee.</li>
-  <li>Large-print bulletins and a hearing loop are available for worship.</li>
-</ul>
-
-<h3>Upcoming Events:</h3>
-{% capture page_events %}
-{{ page.calendar }}
-{% endcapture %}
-
-{% include events.html content=page_events %}
-
-{% include hfp_needs.html %}
-
-{% capture page_date %}
-{{ page.date | date: '%j' }}
-{% endcapture %}
-
-{% include birthday.html content=page_date %}
-
-<h3>Please be in prayer for:</h3>
-
-<div class="js-comments">
-  {% assign prayers = site.data.prayers | sort %}
-  
-  {% for prayer in prayers reversed %}
-    {% assign prayerData = prayer[1] %}
-
-    <article class="prayer mdl-card mdl-shadow--2dp">
-        <div class="prayer__message">
-          {{ prayerData.message | markdownify }}
-        </div> 
-</article>
-  {% endfor %}
-<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
-</div>
-
-6334">Mark 1:14-20</a></li>
-</ul>
-
-When Jesus told the disciples they would fish for men, did they wonder if they'd be pulling up people like Jonah?
-
-<div class="blessings">Many blessings,<br />
-Pastor Dan</div>
-<br />
-<br />
-<div class="after-box">
-
-<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
-<ul>
-  <li>Father Gary is coming to preach at St. Paul's this Sunday.</li>
   <li>Our annual congregational meeting will be held on January 28th immediately following worship. It will include an update from the Future Building Committee.</li>
   <li>Large-print bulletins and a hearing loop are available for worship.</li>
 </ul>
