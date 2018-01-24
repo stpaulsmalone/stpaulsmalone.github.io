@@ -106,7 +106,7 @@ This week's scriptures:
 ## 9.
 
 One more thing, and speaking of the glories of nature:
-<img src="/img/news/cougar012418.jpg" alt="Cougar sighted near Rosendale">
+<img src="http://stpaulsmalone.org/img/news/cougar012418.jpg" alt="Cougar sighted near Rosendale">
 <blockquote>
   An animal <a href="https://dnr.wi.gov/news/images/slideshows/20180123_cougars/">seen on a trail camera near Rosendale</a> earlier this month was a cougar, the state Department of Natural Resources has confirmed.
 </blockquote>
