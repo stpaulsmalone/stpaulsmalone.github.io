@@ -1,0 +1,156 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 1/31 - It's the end of January as we know it, and I feel fine
+img: cranes013118.jpg
+caption: Teasing a Christian Education project to come.
+teaser: A population explosion of cranes on the Beckmans' dinner table!
+calendar:
+     - date: 2/4
+       events: 10&#58;00 Worship with Communion<br />Kids' Sunday!
+     - date: 2/7
+       events: 7&#58;00 Pastoral Advisory Committee
+     - date: 2/8
+       events: 6&#58;30 Book Club
+     - date: 2/11
+       events: 10&#58;00 Worship and Sunday School
+     - date: 2/12
+       events: 1&#58;00 Pastor Dan at Communities of Practice meeting
+     - date: 2/14
+       events: 7&#58;00 Ash Wednesday imposition of ashes
+     - date: 2/18
+       events: 10&#58;00 Worship with Communion (Pew)<br />Kids Sunday!<br />Noisy Sunday!<br />Congregational Meeting after worship
+     - date: 2/19
+       events: 6&#58;30/7&#58;00 Women's Fellowship
+     - date: 2/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 2/25
+       events: 10&#58;00 Worship and Sunday School
+---
+{% if page.img !=null %}
+<span class="caption">{{ page.caption }}</span>
+{% endif %}
+
+If you weren't around for the annual congregational meeting this past Sunday, you really missed a doozy. We were out in 45 minutes, and there weren't any terribly difficult decisions to make! The budget was approved, and we are welcoming the following members to council:
+
+- Sue Schultz
+- JoAnne Burris
+- Oran Sattler
+
+Rick Stellick will take over as Council President for the outgoing Cara Wagner. Thanks to everyone whose term expired this year!
+
+*We will have another congregational meeting after worship on February 18th.* There's a little leftover business from the annual meeting, but more important, we'll have an update from the Building Committee and an opportunity to at least discuss next steps. This is an important one, folks. We need you to come!
+
+<a href="/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">dates and reminders</a>
+
+<!--more-->
+
+## 1.
+
+Speaking of the annual meeting, copies of the 2017 Annual Report and <strong>New Phone Directory</strong> are available!
+
+## 2. 
+
+My apologies to Angela and Jason Hoefler for not passing on word of the birth of their new son Logan! Marilyn Groening says he's got ten fingers and ten toes and is cute as the dickens.
+
+## 3.
+
+I promised that I would talk about our newly adopted core values: <strong>C</strong>ommunity, <strong>H</strong>ospitality, <strong>R</strong>ootedness and <strong>M</strong>inistry (or <strong>M</strong>ission, if you prefer). Let's start with the least obvious of these, <em>Rootedness</em>.
+
+Although the word itself may not be familiar, the ideas it contains surely are. Rootedness involves a sense of <em>stability</em>, of <em>connection</em>, of <em>place</em> and <em>history</em>. Jonathan Wilson-Hartgrove says,
+<blockquote>
+  Like soldiers who've been on the front lines for back-to-back tours, we are sensitized to our basic human desire for stability by the extreme lack of it in a hypermobile culture. But in an economy of limitless growth that depends on the continual creation of unfulfilled desire, stability's wisdom...can be reduced to a commodity that does not satisfy the spirit but only sends us rushing off in search of greater insight and understanding somewhere else. At best, our deepest longings point us homeward. But desire alone does not make a home. Stability demands that we do the long, hard work of life with other people in the place where we are.
+</blockquote>
+Rural people, as most of us are, are typically committed to "the long, hard work of life with other people." In a slow-changing area like the Holyland, you learn to get along with neighbors, because they're going to be neighbors for a very long time&mdash;perhaps into the next generation or three.
+
+Most of us also recognize how the busyness and mobility of modern life leave us feeling disconnected from anyone beyond our immediate family. As we heard again and again in our cottage meetings, we value the connections and relationships that build up in our church. In fact, for many of us, that's what church&mdash;even the Christian faith&mdash;is all about. (If you agree, you're not wrong. Did you know that the word "religion" comes from a Latin word that means "to bind," as in "Blessed Be The Ties That Bind"?)
+
+Rootedness also has to do with a specific <em>place</em>: it's not for nothing that we call people who move around a lot "rootless." Again, for rural people, there is very often a pride in feeling connected to a particular plot of land, a farm or a creek, or a small town that is like no other. I've often joked that if you ask a country person for directions, you may or may not get to where you're going, but you're sure going to get a history lesson about who used to live where, and where the old school used to stand. We love our little bend in the road, and why shouldn't we? It's peaceful and beautiful here, nestled in between the fields and the pond.
+
+All of this comes in the context of history, though that's not all of it. But if you've ever listened to Theresa Mayer talked about the history of Pipe, listened to her audience add their details, you'll know how much pride we take in that history, how it helps us to feel a connection to generations past, how we sense that the history is still alive all around us.
+
+In the end, the best way I can explain the value of rootedness is this: We have found a home in <em>this place</em> and among <em>these</em> people. We sense that that home was built among our ancestors, and are determined to keep the love of it alive in generations to come.
+
+Sorry for the length. Onward!
+
+
+## 4.
+
+In local news: 
+
+- The New Holstein FFA Alumni 24th Annual Farm Toy and Craft Show will be held March 11, 2018 at New Holstein High School (1715 Plymouth Street) from 9:00A.M to 3:00P.M.  There will be farm toys, crafts, attendance prizes, farm displays, silent auction for handcrafted barn, Packers, Brewers, & Timber Rattlers items, and much more.  Kid’s pedal tractor pull weigh-in at noon, pull at 12:30.  Brats, hamburgers, pork sandwiches, cheesecake desserts.  Admission $3.  Children 8 and under free.  For more info go to https://www.facebook.com/FarmToyCraftShow
+
+
+- A permanent memorial to honor all those from the "Holyland" who died while serving our Country, including MIA's, will be dedicated on May 19th, 2018 as part of a ceremony beginning at 1:00. This will take place at the Malone Area Heritage Museum at N8791 County RD W, Malone, WI. If anyone knows of a person from the "Holyland" who died, or is an MIA, while serving our Country, please contact John Bertram at bertramjm@gmail.com or Dan Bord at danl1@charter.net.  
+
+## 5.
+
+Got some neat stuff happening in the Mission Committee. Stay tuned.
+
+## 6.
+
+This seems like <a href="http://www.ucc.org/news_wisconsin_church_increases_interest_sacred_stories_picture_the_bible_01252018?utm_campaign=kyp_jan30_18&utm_medium=email&utm_source=unitedchurchofchrist">an interesting idea</a>:
+<blockquote>
+  A United Church of Christ congregation in Wisconsin has created a resource that helps bring the Bible to life. The 36 original pieces of art, images that represent and follow the biblical text, are used by First Congregational Church in River Falls, Wisc., to increase interest and interpretation of the Bible stories. It's called <a href="http://www.picturethebible.org/">Picture the Bible</a>.
+</blockquote>
+This church connects the pictures to a "narrative lectionary" (reading the Bible as one long story) to help the kids make sense of the scripture stories they're hearing.
+
+## 7.
+
+This week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=384430742">Isaiah 40:21-31</a></li>
+  <li><a href="http://bible.oremus.org/?ql=384430742">Psalm 147:1-11, 20c</a></li>
+  <li><a href="http://bible.oremus.org/?ql=384430742">1 Corinthians 9:16-23</a></li>
+  <li><a href="http://bible.oremus.org/?ql=384430742">Mark 1:29-39</a></li>
+</ul>
+
+"Those who wait for the LORD shall renew their strength, they shall mount up with wings like eagles, they shall run and not be weary, they shall walk and not faint."
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
+<ul>
+  <li>Don't forget that you can <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> to our Prayer Chain</li>
+  <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+  {% assign prayers = site.data.prayers | sort %}
+  
+  {% for prayer in prayers reversed %}
+    {% assign prayerData = prayer[1] %}
+
+    <article class="prayer mdl-card mdl-shadow--2dp">
+        <div class="prayer__message">
+          {{ prayerData.message | markdownify }}
+        </div> 
+</article>
+  {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+
