@@ -1,0 +1,170 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 2/7
+img: warren020718.jpg
+caption: In memoriam<br />Warren Backus 1937-2018
+teaser: Community&nbsp;&nbsp;Hospitality&nbsp;&nbsp;Rootedness&nbsp;&nbsp;&nbsp;&nbsp;Ministry
+calendar:
+     - date: 2/7
+       events: 7&#58;00 Pastoral Advisory Committee
+     - date: 2/8
+       events: 6&#58;30 Book Club
+     - date: 2/11
+       events: 10&#58;00 Worship and Sunday School
+     - date: 2/12
+       events: 1&#58;00 Pastor Dan at Communities of Practice meeting
+     - date: 2/14
+       events: 7&#58;00 Ash Wednesday imposition of ashes
+     - date: 2/18
+       events: 10&#58;00 Worship with Communion (Pew)<br />Kids Sunday!<br />Noisy Sunday!<br />Congregational Meeting after worship
+     - date: 2/19
+       events: 6&#58;30/7&#58;00 Women's Fellowship<br />Barb Mills speaking on her experiences as a hospice volunteer
+     - date: 2/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 2/25
+       events: 10&#58;00 Worship and Sunday School<br />Installation of Church Officers
+     - date: 2/26
+       events: 7&#58;00 Church Council
+     - date: 2/28
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/4
+       events: 10&#58;00 Worship with Communion<br />Kids Sunday!
+     - date: 3/5
+       events: 7&#58;00 Worship Committee?
+     - date: 3/7
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/11
+       events: 10&#58;00 Worship and Sunday School<br />Rev. Kerri Parker from Wisconsin Council of Churches preaching
+---
+{% if page.img !=null %}
+<span class="caption">{{ page.caption }}</span>
+{% endif %}
+
+As you probably already know from previous messages, Warren Backus died last week, and his funeral was held on Monday afternoon. Thank you to everyone who helped, and everyone from the church who attended the service. Because of you, we were able to give Warren a good send-off, I think.
+
+Please continue to keep Joan and the rest of the family in your thoughts and prayers. They're only just beginning their journey, and could use your support in the days to come. We'll all miss Warren, but they most of all.
+
+<a href="/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">dates and reminders</a>
+
+<!--more-->
+
+## 1.
+
+If you look carefully at the <a href="/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">calendar</a> below, you'll see that I have a couple of speakers listed, at Women's Fellowship and on a Sunday morning. This is just the beginning!
+
+The Mission Committee has set a goal of having four speakers over the course of the year, and Women's Fellowship has a program almost every time they meet. And of course, I'll be on vacation a few Sundays here and there. So: good news, if you get tired of my majestic bass speaking voice! Bad news, if you're a fan of my lame humor!
+
+In any case, here's the line-up so far:
+
+- Barb Mills will speak to Women's Fellowship on <em>February 19th</em> about her experiences as a hospice volunteer
+- Rev. Kerri Parker of the <a href="https://www.wichurches.org/">Wisconsin Council of Churches</a> will preach on <em>March 11th</em>. (Mission)
+- Lucy Boll will speak to Women's Fellowship on <em>March 19th</em> about her mission work (Mission)
+- Rev. Jane Anderson of the Wisconsin Conference will preach on <em>March 25th</em>, to build and strengthen relationships with St. Paul's
+- Meg Boren of <a href="https://coenicaragua.weebly.com">Circle of Empowerment</a> will preach on <em>June 24th</em> about her work in Nicaragua (Mission)
+- Don Shire of Don Shire Ministries will play trumpet(!) and speak on <em>September 23rd</em>
+
+We also have the possibility of a visit from a United Church of Christ missionary this summer, but that schedule has not been set.
+
+I hope that you will come to hear as many of these speakers as you can. I know I'm looking forward to it!
+
+## 2. 
+
+This Sunday is going to be kind of...ordinary. Except for that whole Transfiguration thing.
+
+## 3.
+
+Let's talk about another of our core values, *Community*. As I've said before, one of the things that came through most clearly in the cottage meetings was how much we appreciate the bonds of a loving and supportive community. People often mentioned the presence of the community in difficult times, and the friendship they have found at St. Paul's.
+
+We are pretty clear in talking about community that we see it as being a part of the Body of Christ. Church is more than a "God-flavored social club" for us. That's not surprising for a small church: it's what congregations such as ours excel at.
+
+I've been reading a book by Jean Vanier, the founder of L'Arche Communities for men and women with mental and physical disabilities around the world. L'Arche began with a humble experiment: Vanier moved into a house with two developmentally disabled men as a form of intentional community. He speaks about what he has learned from his experiences:
+<blockquote>
+  Jesus brought me close to people suffering from mental handicaps. They called me to take another path, the path of tenderness, compassin, and communion. They taught me how to celebrate. As I shared my life with them, I discovered the importance of listening and of communicating through nonverbal as well as verbal language. I could not treat them according to my usual norms in working with students who were there to be taught. [They] wanted something else from me: they wanted friendship, which implies understanding. I had to try to listen to their heartbeat, understand their greatest needs, and discover what would help them find meaning in life and hope and trust in themselves. They led me to communion of the heart. However, in order to live this new love and communion faithfully, I needed a new gift of the Holy Spirit.
+</blockquote>
+
+Vanier goes on to talk about how he had to give up on the need to be right, to be invulnerable, to be better than others, and learn to open himself to humble, equal friendship in order to form true community. It was not easy for him: he emphasizes more than once how it required him to look at unpleasant truths about himself. There's more, too. Vanier stresses that true community has to go beyond the desire to do ministry for others to wanting to be <em>with</em> them, in all their messiness, irritation, and burden. It requires a commitment to forgiveness, peace, justice, openness to difference, and above all, celebration. As Vanier says, "A community that does not celebrate is in danger of becoming just a group of people that gets things done."
+
+All of this is a tall order, but it's the call&mdash;the invitation&mdash;of Jesus to live our true lives, to be who we were meant to be. If there's anyone who's capable of answering that invitation with one another and with those outside the present community, it's you guys.
+
+## 4.
+
+In local news: 
+
+- The New Holstein FFA Alumni 24th Annual Farm Toy and Craft Show will be held March 11, 2018 at New Holstein High School (1715 Plymouth Street) from 9:00A.M to 3:00P.M.  There will be farm toys, crafts, attendance prizes, farm displays, silent auction for handcrafted barn, Packers, Brewers, & Timber Rattlers items, and much more.  Kid’s pedal tractor pull weigh-in at noon, pull at 12:30.  Brats, hamburgers, pork sandwiches, cheesecake desserts.  Admission $3.  Children 8 and under free.  For more info go to https://www.facebook.com/FarmToyCraftShow
+
+
+- A permanent memorial to honor all those from the "Holyland" who died while serving our Country, including MIA's, will be dedicated on May 19th, 2018 as part of a ceremony beginning at 1:00. This will take place at the Malone Area Heritage Museum at N8791 County RD W, Malone, WI. If anyone knows of a person from the "Holyland" who died, or is an MIA, while serving our Country, please contact John Bertram at bertramjm@gmail.com or Dan Bord at danl1@charter.net.  
+
+## 5.
+
+Here's something interesting: American religious adherents displayed as a topographical map. (That is, places with more religious people are hills; those with fewer faithful types are valleys.)
+
+<a href="http://stpaulsmalone.org/img/news/faithland020718.png"><img src="http://stpaulsmalone.org/img/news/faithland020718.png"></a>
+(Click for a bigger version.)
+
+If you zoom into Wisconsin:
+<a href="http://stpaulsmalone.org/img/news/wisconsin020718.png"><img src="http://stpaulsmalone.org/img/news/wisconsin020718.png"></a>
+you see that we're just on the edge of an area where 56-60% of all people belong to one religion or another, and another where 61-65% do. Other areas of Wisconsin, shall we say, are not so fortunate. (That deep well appears to be up by Tomah or Adams/Friendship.)
+
+I'm not entirely sure what this tells us, but it is interesting.
+
+## 6.
+
+This week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=385037923">2 Kings 2:1-12</a></li>
+  <li><a href="http://bible.oremus.org/?ql=385037923">Psalm 50:1-6</a></li>
+  <li><a href="http://bible.oremus.org/?ql=385037923">2 Corinthians 4:3-6</a></li>
+  <li><a href="http://bible.oremus.org/?ql=385037923">Mark 9:2-9</a></li>
+</ul>
+
+Did you know <a href="https://www.youtube.com/watch?v=qQcxhed22rQ">Bob Dylan</a> got a song out of that reading from 2 Kings?
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
+<ul>
+  <li>Don't forget that you can <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> to our Prayer Chain</li>
+  <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+  {% assign prayers = site.data.prayers | sort %}
+  
+  {% for prayer in prayers reversed %}
+    {% assign prayerData = prayer[1] %}
+
+    <article class="prayer mdl-card mdl-shadow--2dp">
+        <div class="prayer__message">
+          {{ prayerData.message | markdownify }}
+        </div> 
+</article>
+  {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+
