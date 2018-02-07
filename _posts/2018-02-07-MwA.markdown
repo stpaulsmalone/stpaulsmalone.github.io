@@ -106,7 +106,7 @@ Here's something interesting: American religious adherents displayed as a topogr
 (Click for a bigger version.)
 
 If you zoom into Wisconsin:
-<a href="http://stpaulsmalone.org/img/news/wisconsin020718.png"><img src="http://stpaulsmalone.org/img/news/wisconsin020718.png"></a>
+<a href="http://stpaulsmalone.org/img/news/wisconsin020718.png"><img src="http://stpaulsmalone.org/img/news/wisconsin020718.png" style="display: block;"></a>
 you see that we're just on the edge of an area where 56-60% of all people belong to one religion or another, and another where 61-65% do. Other areas of Wisconsin, shall we say, are not so fortunate. (That deep well appears to be up by Tomah or Adams/Friendship.)
 
 I'm not entirely sure what this tells us, but it is interesting.
