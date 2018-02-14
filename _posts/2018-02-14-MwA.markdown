@@ -1,0 +1,186 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 2/14
+img: ashcross021418.jpg
+caption: Not sure my thumb skills are up to this, to be honest
+teaser: There's still time to catch the 7&#58;00 imposition of ashes!
+calendar:
+     - date: 2/14
+       events: 7&#58;00 Ash Wednesday imposition of ashes
+     - date: 2/18
+       events: 10&#58;00 Worship with Communion (Pew)<br />Kids Sunday!<br />Noisy Sunday!<br />Congregational Meeting after worship
+     - date: 2/19
+       events: 6&#58;30/7&#58;00 Women's Fellowship<br />Barb Mills speaking on her experiences as a hospice volunteer
+     - date: 2/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 2/25
+       events: 10&#58;00 Worship and Sunday School<br />Installation of Church Officers
+     - date: 2/26
+       events: 7&#58;00 Church Council
+     - date: 2/28
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/4
+       events: 10&#58;00 Worship with Communion<br />Kids Sunday!
+     - date: 3/5
+       events: 7&#58;00 Worship Committee?
+     - date: 3/7
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/11
+       events: 10&#58;00 Worship and Sunday School<br />Rev. Kerri Parker from Wisconsin Council of Churches preaching
+---
+{% if page.img !=null %}
+<span class="caption">{{ page.caption }}</span>
+{% endif %}
+
+Ahead of Sunday's congregational meeting to discuss the latest stage in the building discernment process, I want to emphasize two things:
+
+1. This is a meeting to <em>learn</em>, not to <em>decide</em> and certainly not to <em>debate</em>. We can't make any decisions because we haven't put them on the agenda, and we shouldn't debate because we need to take in the new information and reflect on it for a while. I've encouraged the Building Committee to use this meeting as an opportunity to learn where the congregation is at, and I would encourage those not on the committee to do the same for their work. (And they have done a lot of work.) We want to answer as many of your questions as we can, so please do ask, and let us know if you if you need more information.
+
+2. I've taken on the role of facilitator during the meeting: I'll do my best to make sure everybody gets heard, and that we all understand one another. It's important to note here and in general that I'm not making this decision. I'm not even driving the process! My job is to help us make the right decision for us&mdash;whatever that might be&mdash;and then to support that decision as best I can. A couple of people have asked what I think we should do, and I'm proud to say I haven't a clue! THe important thing is what we decide, together.
+
+You'll probably hear most or all of this again on Sunday. As always, feel free to talk to me about it.
+
+<a href="/news/{{ page.date | date: "%Y/%m/%d" }}/MwA/#after" class="reminders mcignore">dates and reminders</a>
+
+<!--more-->
+
+## 1.
+
+Would anyone like to volunteer to bring communion bread for this coming Sunday, February 18th? It's going to be cut up for pew communion, so no need for a beautiful loaf. If you'd be willing to provide, please let me know.
+
+## 2.
+
+<strong>St. Paul's UCC Women's Fellowship February Meeting</strong>
+
+Monday, February 19
+
+Church Lower Level
+
+<strong>6:30 PM</strong> - Social 
+
+<strong>7:00 PM</strong> - Program  - Barb Mills - Being A Hospice Volunteer
+
+<strong>8:00 PM</strong> - Fellowship & Business Meeting
+
+Hostess:  Sue Schultz
+________________________________________________
+
+<strong>March Meeting</strong>  - Monday March 19th 
+
+Speaker:  Lucy Boll - Mission Trip to India
+
+April Meeting  - Date To Be Determined
+
+Program:  Lori Schmitz - K-12 Learning Trends, #trending now: Blogs, Technology and Social Media in the Classrooms of our Children
+
+## 3. 
+
+It's already time to ask our church members for their Church Easter Flower 
+Order:
+
+Price is $8.00 per flower ordered for 2018 Easter Season
+
+Choices are:
+
+- Daffodils
+- Easter Lilly
+- Tulips
+- Mums ($11.00 each)
+
+<em>All flowers will be in six inch pots with pastel colored foil paper surrounding the 
+ flower pot.</em> 
+
+Orders are due to Piggly Wiggly at Kiel by Tuesday, February 27. See Barb Mills on Ash Wednesday or the first two Sundays in Lent to fill out your order form.
+
+Unfortunately, my cats will just eat any flowers we bring home.
+
+## 4.
+
+Hey, did we mention that there's a BIG MEETING on Sunday and IT'S SUPER IMPORTANT for you to be there?
+
+## 5.
+
+I wanted to add something to last week's discussion of Community (one of St. Paul's core values). Community, as you know, isn't something that happens all by itself. It takes <em>a lot</em> of work to build and sustain trust and a shared sense of purpose between people. If that language seems familiar to you, it might be you've heard me talk about those two things as the only predictors of a successful marriage (and they are!). Just like a marriage, the bonds Christians form between themselves and with their leaders are <em>covenants</em>: not super-contracts, but essentially shared recognitions that we are incomplete without one another. And just like in a marriage, the covenants between Christians need constant care, tending, nurturing, watering and feeding. You can't just take them for granted and assume it will all work out for the best. The goal of all that work is wholeness: a healing and completion that we cannot achieve as individuals. If you've ever wondered what keeps me in the pastoring business, it's this: community is where I experience God, and I don't know how to live my life without that.
+
+In a sense, our new Pastoral Relations Committee* is dedicated to the work of community, to help the lay people of St. Paul's and I build strong and lasting connections with one another. You'll hear more about that as we go along. I'm also hoping we can get the Congregational Care Committee going again, to teach us how to minister to one another, to strengthen our abilities to live Christ's call to love one another. I think that will start in the fall.
+
+One other thing, though: as Peter Block says, community isn't something that happens just because people know one another. Usually, real, deep, intimate community comes about as the product of shared struggle. For Christians, that means not only the struggles of our day-to-day lives, but the struggle to live <em>as Christians</em>: to embody the good news of Jesus Christ in seeking peace, wholeness, justice and mercy for all people.
+
+Now, how do we do that?
+
+* I have a tendency to call this the Pastoral <em>Advisory</em> Committee. It's Relations.
+
+## 5.
+
+So I see the ice shanties on their way out to Lake Winnebago last Friday, and I think, "Gee, it'd be kind of fun to do a Blessing of the Shanties sometime." And then, a little while later, the idea comes to me: why not have a Sunday service out on the ice for Sturgeon Fest? 
+
+And that's when I knew I needed to cut back on the caffeine.
+
+## 6.
+
+This week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=385643626">Genesis 9:8-17</a></li>
+  <li><a href="http://bible.oremus.org/?ql=385643626">Psalm 25:1-10</a></li>
+  <li><a href="http://bible.oremus.org/?ql=385643626">1 Peter 3:18-22</a></li>
+  <li><a href="http://bible.oremus.org/?ql=385643626">Mark 1:9-15</a></li>
+</ul>
+
+<em>God gave Noah the rainbow sign
+No more water but fire next time
+Tide me over, Rock of Ages cleft for me</em>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmXgREeRf5c" frameborder="0" allowfullscreen></iframe>
+
+
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
+<ul>
+  <li>The Farm Toy and Craft Show will be held March 11th at the New Holstein High School. See https://www.facebook.com/FarmToyCraftShow for more details.</li>
+  <li>If you know someone from the Holyland who was killed serving our nation, or who is listed as missing in action, please contact John Bertram at bertramjm@gmail.com or Dan Bord at danl1@charter.net so their name can be added to a memorial.</li>
+  <li>Don't forget that you can <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> to our Prayer Chain</li>
+  <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+  {% assign prayers = site.data.prayers | sort %}
+  
+  {% for prayer in prayers reversed %}
+    {% assign prayerData = prayer[1] %}
+
+    <article class="prayer mdl-card mdl-shadow--2dp">
+        <div class="prayer__message">
+          {{ prayerData.message | markdownify }}
+        </div> 
+</article>
+  {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+
