@@ -5,7 +5,7 @@ class: page
 description:
 title: Midweek Apostle 2/21
 img: building022118.jpg
-caption: Hey, that's OUR church!
+caption: Hey, that's OUR church
 teaser: Are you wearing purple for Lent?
 calendar:
    - date: 2/21
