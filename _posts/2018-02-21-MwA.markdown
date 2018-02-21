@@ -8,36 +8,36 @@ img: building022118.jpg
 caption: Hey, that's OUR church
 teaser: Are you wearing purple for Lent
 calendar:
-   - date: 2/21
-    events: 6&#58;30 Lenten Soup &amp; Learning
-   - date: 2/25
-    events: 10&#58;00 Worship and Sunday School<br />Installation of Church Officers
-   - date: 2/26
-    events: 7&#58;00 Church Council
-   - date: 2/28
-    events: 6&#58;30 Lenten Soup &amp; Learning
-   - date: 3/4
-    events: 10&#58;00 Worship with Communion<br />Kids Sunday!
-   - date: 3/5
-    events: 7&#58;00 Worship Committee?
-   - date: 3/7
-    events: 6&#58;30 Lenten Soup &amp; Learning
-   - date: 3/11
-    events: 10&#58;00 Worship and Sunday School<br />Rev. Kerri Parker from Wisconsin Council of Churches preaching
-   - date: 3/12
-    events: 1&#58;00 Pastor Dan at Community of Practice Meeting
-   - date: 3/14
-    events: 6&#58;30 Lenten Soup &amp; Learning
-   - date: 3/16
-    events: Holyland Food Pantry Distribution
-   - date: 3/18
-    events: 10&#58;00 Worship with Communion (Table) <br />Kids Sunday!
-   - date: 3/19
-    events: 6&#58;30/7&#58;00 Women's Fellowship<br />Lucy Boll speaking
-   - date: 3/21
-    events: 6&#58;30 Lenten Soup &amp; Learning
-   - date: 3/25
-    events: 10&#58;00 Worship and Sunday School<br />Palm Sunday
+     - date: 2/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 2/25
+       events: 10&#58;00 Worship and Sunday School<br />Installation of Church Officers
+     - date: 2/26
+       events: 7&#58;00 Church Council
+     - date: 2/28
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/4
+       events: 10&#58;00 Worship with Communion<br />Kids Sunday!
+     - date: 3/5
+       events: 7&#58;00 Worship Committee?
+     - date: 3/7
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/11
+       events: 10&#58;00 Worship and Sunday School<br />Rev. Kerri Parker from Wisconsin Council of Churches preaching
+     - date: 3/12
+       events: 1&#58;00 Pastor Dan at Community of Practice Meeting
+     - date: 3/14
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/16
+       events: Holyland Food Pantry Distribution
+     - date: 3/18
+       events: 10&#58;00 Worship with Communion (Table) <br />Kids Sunday!
+     - date: 3/19
+       events: 6&#58;30/7&#58;00 Women's Fellowship<br />Lucy Boll speaking
+     - date: 3/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/25
+       events: 10&#58;00 Worship and Sunday School<br />Palm Sunday
 ---
 {% if page.img !=null %}
 <span class="caption">{{ page.caption }}</span>
@@ -177,9 +177,9 @@ Pastor Dan</div>
   {% assign prayerData = prayer[1] %}
 
   <article class="prayer mdl-card mdl-shadow--2dp">
-    <div class="prayer__message">
-     {{ prayerData.message | markdownify }}
-    </div> 
+       <div class="prayer__message">
+        {{ prayerData.message | markdownify }}
+       </div> 
 </article>
  {% endfor %}
 <p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
