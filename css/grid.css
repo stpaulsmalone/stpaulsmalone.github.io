@@ -1,0 +1,88 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+   	height: 100%;
+  	min-height: 100vh;
+  	flex-direction: column;
+}
+
+a {text-decoration: none;}
+
+h1, h2, h3, h4 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 100%;
+	grid-template-rows: 10% 90% 10%;
+    grid-template-areas: nav main footer;
+	width:100vw;
+    height:  100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+	background-color: #f8f8f8;
+    width: 100vw;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+ul.header {
+	display: inline-block;
+	list-style-type: none;
+    background-color: #f8f8f8;
+    max-width: 90%;
+}
+
+ul.header li {
+	display: inline-block;
+    padding-right:2.5%;
+}
+
+.content-wrap {
+    background: url(../img/stp092017.jpg) no-repeat top center;
+	background-size: cover;    
+    flex: 1;
+}
+
+.content-wrap h1 {
+    color: #fff;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+	font-size: 5em;
+    text-align: center;
+}
+
+a h3 {
+    color: white;
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+    text-align: center;
+    font-size: 2.5em;
+    text-decoration: none;
+}
+
+.contact {
+    background: #333;
+    color: #f8f8f8;
+    
+}
+
+div.intro {
+    margin-top: 50vh;
+    line-height: 1.25em;
+}
+
+.intro-message h1 {
+    margin: 0;
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+	font-size: 5em;
+}
