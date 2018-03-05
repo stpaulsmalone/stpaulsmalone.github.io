@@ -1,0 +1,163 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 2/28
+img: stairs022818.jpg
+caption: Okay, not so inspirational, but pretty, isn't it?
+teaser: Lots to talk about today
+calendar:
+     - date: 2/28
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/4
+       events: 10&#58;00 Worship with Communion<br />Kids Sunday!
+     - date: 3/5
+       events: 7&#58;00 Building Committee
+     - date: 3/7
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/11
+       events: 10&#58;00 Worship and Sunday School<br />Rev. Kerri Parker from Wisconsin Council of Churches preaching
+     - date: 3/12
+       events: 1&#58;00 Pastor Dan at Community of Practice Meeting
+     - date: 3/14
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/16
+       events: Holyland Food Pantry Distribution
+     - date: 3/18
+       events: 10&#58;00 Worship with Communion (Table) <br />Kids Sunday! <br />Noisy Sunday!
+     - date: 3/19
+       events: 6&#58;30&#47;7&#58;00 Women's Fellowship<br />Lucy Boll speaking
+     - date: 3/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/23
+       events: 10&#58;00 Service at Willowdale
+     - date: 3/25
+       events: 10&#58;00 Worship and Sunday School<br />Palm Sunday
+---
+{% if page.img !=null %}
+<span class="caption">{{ page.caption }}</span>
+{% endif %}
+
+We have lots of smaller items to mention this week, so no longer reflection this week. In its place, here's a thank-you from Joan Backus:
+
+<blockquote>
+  <p>Dear One &amp; All of St. Paul's UCC:</p>
+  <p>Thank you for all the kindness bestowed on our family during our time of sorrow. Warren loved his family of St. Paul's and I know the love you had for him, showed on every face.</p>
+  <p>Somehow, thank-you doesn't seem enough. I'm speechless so grateful to all of you.</p>
+  <p>Joan Backus and Family</p>
+  <p>PS: For the refreshements at church, thank-you!</p>
+</blockquote>
+
+<!--more-->
+
+## 1.
+
+Look for One Great Hour of Sharing (OGHS) materials in your bulletins this coming Sunday! We will take up our annual collection on Sunday, March 11th. OGHS is one of four mission offerings in the United Church of Christ, and focuses on providing support to places "lacking health and educational resources and/or where disaster has struck."
+
+Also on March 11th, Rev. Kerri Parker of the Wisconsin Council of Churches will speak to us about her organization and how it helps churches like ours do their mission work. We will split the additional offering between OGHS and the WCC: simply write one check or place your offering in the OGHS envelope, and we'll do the rest.
+
+## 2.
+
+In case you missed yesterday's update: Tom Tomter is now receiving court-appointed services through Fond du Lac County. I attended his hearing yesterday, which went well. He was very pleased to be able to remain in his home, with the assistance of a caretaker who will check in on him about three times a week.
+
+Tom did lose his license, though, and I don't know how that's going to go over. If you would be available to drive him to church or to the occasional doctor's appointment, please let me know. I'm told that transportation services are quite costly, so it would be good if Tom could avoid using them routinely. We may also need to bring back the casserole brigade. I will be checking in with Tom later this week, and should have a better handle on his needs then.
+
+As always, <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">keep praying</a> for Tom, and for all in need!
+
+## 3.
+
+Having completed one phase of our ongoing discernment process, the Future Building Committee feels it would be appropriate to welcome new members to the team. Please talk to Nancy or I if you're interested. 
+
+Also, please note! The Future Building Committee will meet on March 5th at 7:00. The Worship Committee meeting scheduled for that night has been postponed to April 2nd.
+
+## 4. 
+
+Nancy Beckman will demonstrate the art of folding origami cranes after worship this coming Sunday. It's part of a Worship Committee project to fold 1,000 cranes for peace and healing, a Japanese tradition popularized by the novel <a href="https://en.wikipedia.org/wiki/Sadako_and_the_Thousand_Paper_Cranes">Sadako and the Thousand Paper Cranes</a>. She'd ideally like to get two more lines of cranes hung in the sanctuary by Easter, which would put us at just less than halfway on the project. Stop by! As Nancy says, it's something we can do that doesn't cost anything but a little of our time.
+
+## 5.
+
+I spotted a bald eagle in the stream near the corner of Artesia Beach Road and Lakeshore Drive this afternoon. That's got to count as good luck, right?
+
+## 6.
+
+A community announcement:
+
+<blockquote>
+  <p>The Malone Area Heritage Museum will be hosting their Old Fashioned Country Breakfast on Sunday March 25th, 2018 at the Johnsburg school hall in Johnsburg on County Road Q.</p>
+  <p>The breakfast will be featuring homemade potato pancakes, regular pancakes, ham, sausages, scrambled eggs and desserts.</p>
+  <p>Serving times are from 9:00 a.m. to 12:30 p.m. The cost is $9.00 for adults, $4.00 for children under 10 and children under 3 years of age are free. Carryouts will be available.</p>
+  <p>The museum will be open from 10:00 a.m. until 4:00 p.m. The theme for this year is "Let's Play Ball." Come see our exhibits and talk to our genealogists. Free Admission.</p>
+</blockquote>
+
+## 7.
+
+A few weeks ago, I mentioned that Rev. Jane Anderson, the Northeast Area Minister, would join us on March 25th. She unfortunately had another commitment that day, so we've rescheduled her for Sunday, April 29th. Yes, I know that's when we're planning on doing another Messy Church service. No, I don't know how we'll make that work.
+
+## 8. 
+
+Here are the <a href="http://www.stpaulsmalone.org/documents/1-10-18.docx">approved minutes</a> from the January Council Meeting. 
+
+## 9.
+
+This week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=386854359">Exodus 20:1-17</a></li>
+  <li><a href="http://bible.oremus.org/?ql=386854359">Psalm 19</a></li>
+  <li><a href="http://bible.oremus.org/?ql=386854359">1 Corinthians 1:18-25</a></li>
+  <li><a href="http://bible.oremus.org/?ql=386854359">John 2:13-22</a></li>
+</ul>
+
+<blockquote>Let the words of my mouth and the meditation of my heart
+     be acceptable to you,
+     O Lord, my rock and my redeemer.</blockquote>
+
+Always.
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
+<ul>
+ <li>The Farm Toy and Craft Show will be held March 11th at the New Holstein High School. See https://www.facebook.com/FarmToyCraftShow for more details.</li>
+ <li>If you know someone from the Holyland who was killed serving our nation, or who is listed as missing in action, please contact John Bertram at bertramjm@gmail.com or Dan Bord at danl1@charter.net so their name can be added to a memorial.</li>
+ <li>Don't forget that you can <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> to our Prayer Chain</li>
+ <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+ {% assign prayers = site.data.prayers | sort %}
+ 
+ {% for prayer in prayers reversed %}
+  {% assign prayerData = prayer[1] %}
+
+  <article class="prayer mdl-card mdl-shadow--2dp">
+       <div class="prayer__message">
+        {{ prayerData.message | markdownify }}
+       </div> 
+</article>
+ {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+
