@@ -3,23 +3,17 @@ layout: mwa_post
 category: news
 class: page
 description:
-title: Midweek Apostle 2/28
-img: stairs022818.jpg
-caption: Okay, not so inspirational, but pretty, isn't it?
-teaser: Lots to talk about today
+title: Midweek Apostle 3/7
+img: 
+caption: 
+teaser: Very brief today, no seriously
 calendar:
-     - date: 2/28
-       events: 6&#58;30 Lenten Soup &amp; Learning
-     - date: 3/4
-       events: 10&#58;00 Worship with Communion<br />Kids Sunday!
-     - date: 3/5
-       events: 7&#58;00 Building Committee
      - date: 3/7
        events: 6&#58;30 Lenten Soup &amp; Learning
      - date: 3/11
        events: 10&#58;00 Worship and Sunday School<br />Rev. Kerri Parker from Wisconsin Council of Churches preaching
      - date: 3/12
-       events: 1&#58;00 Pastor Dan at Community of Practice Meeting
+       events: 1&#58;00 Pastor Dan at Community of Practice Meeting<br />7&#58;00 Future Building Committee
      - date: 3/14
        events: 6&#58;30 Lenten Soup &amp; Learning
      - date: 3/16
@@ -34,50 +28,60 @@ calendar:
        events: 10&#58;00 Service at Willowdale
      - date: 3/25
        events: 10&#58;00 Worship and Sunday School<br />Palm Sunday
+     - date: 3/25
+       events: 6&#58;30 Mission Committee<br />7&#58;00 Council
+     - date: 3/29
+       events: 7&#58;00 Maundy Thursday Tenebrae service<br />No dinner before service
+     - date: 3/30
+       events: 12&#58;00&mdash;3&#58;00 Church open for silent meditation
+     - date: 4/1
+       events: 10&#58;00 Easter Worship with Communion (Intinction)<br />Kids' Sunday!
+     - date: 4/2
+       events: 7&#58;00 Worship Committee @ Parsonage
+     - date: 4/4
+       events: 7&#58;00(?) Pastoral Relations Committee
+     - date: 4/8
+       events: 10&#58; Worship and Sunday School
 ---
 {% if page.img !=null %}
 <span class="caption">{{ page.caption }}</span>
 {% endif %}
 
-We have lots of smaller items to mention this week, so no longer reflection this week. In its place, here's a thank-you from Joan Backus:
+<a href="https://flic.kr/s/aHsmc1LGTE"><img src="http://stpaulsmalone.org/img/news/installation030718.jpg" alt="Lay Leader Installation March 4 2018"></a>
 
-<blockquote>
-  <p>Dear One &amp; All of St. Paul's UCC:</p>
-  <p>Thank you for all the kindness bestowed on our family during our time of sorrow. Warren loved his family of St. Paul's and I know the love you had for him, showed on every face.</p>
-  <p>Somehow, thank-you doesn't seem enough. I'm speechless so grateful to all of you.</p>
-  <p>Joan Backus and Family</p>
-  <p>PS: For the refreshements at church, thank-you!</p>
-</blockquote>
+Lori Schmitz took some pictures of the installation service for lay leaders this past Sunday. Click the photo above to see the whole album. [crosses fingers]
 
 <!--more-->
 
 ## 1.
 
-Look for One Great Hour of Sharing (OGHS) materials in your bulletins this coming Sunday! We will take up our annual collection on Sunday, March 11th. OGHS is one of four mission offerings in the United Church of Christ, and focuses on providing support to places "lacking health and educational resources and/or where disaster has struck."
+As announced in last's week <em>Apostle</em>, we will be taking up a special collection this Sunday <em>both</em> for One Great Hour of Sharing (the UCC's annual mission and disaster relief offering) <em>and</em> for the Wisconsin Council of Churches, whose Executive Director Rev. Kerri Parker will be joining us in worship.
 
-Also on March 11th, Rev. Kerri Parker of the Wisconsin Council of Churches will speak to us about her organization and how it helps churches like ours do their mission work. We will split the additional offering between OGHS and the WCC: simply write one check or place your offering in the OGHS envelope, and we'll do the rest.
+More properly, we're taking up <strong>one</strong> collection, which we're then splitting between the two groups. This makes it easy for you: simply take your donation and place it in the envelope you will find in your bulletin. We'll take it from there!
 
 ## 2.
 
-In case you missed yesterday's update: Tom Tomter is now receiving court-appointed services through Fond du Lac County. I attended his hearing yesterday, which went well. He was very pleased to be able to remain in his home, with the assistance of a caretaker who will check in on him about three times a week.
+Also on Sunday: I will bring a couple of sign-up sheets for people interested in helping Tom Tomter get around, or in making dinner for him. Please sign up! Between now and then, can I have at least one volunteer to bring Tom to church?
 
-Tom did lose his license, though, and I don't know how that's going to go over. If you would be available to drive him to church or to the occasional doctor's appointment, please let me know. I'm told that transportation services are quite costly, so it would be good if Tom could avoid using them routinely. We may also need to bring back the casserole brigade. I will be checking in with Tom later this week, and should have a better handle on his needs then.
-
-As always, <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">keep praying</a> for Tom, and for all in need!
+As always, <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">keep praying</a> for Tom, and for all in need.
 
 ## 3.
 
-Having completed one phase of our ongoing discernment process, the Future Building Committee feels it would be appropriate to welcome new members to the team. Please talk to Nancy or I if you're interested. 
-
-Also, please note! The Future Building Committee will meet on March 5th at 7:00. The Worship Committee meeting scheduled for that night has been postponed to April 2nd.
+I've added our Holy Week schedule to the calendar. As in the past couple of years, we will <em>not</em> have a Wednesday night gathering during Holy Week. This year, rather than observe an Upper Room service, we will hold a Tenebrae service with scripture readings and the gradual extinguishing of lights. On Good Friday, the church will be open for quiet prayer and meditation. We won't have a slideshow Stations of the Cross, but the booklet will be available.
 
 ## 4. 
 
-Nancy Beckman will demonstrate the art of folding origami cranes after worship this coming Sunday. It's part of a Worship Committee project to fold 1,000 cranes for peace and healing, a Japanese tradition popularized by the novel <a href="https://en.wikipedia.org/wiki/Sadako_and_the_Thousand_Paper_Cranes">Sadako and the Thousand Paper Cranes</a>. She'd ideally like to get two more lines of cranes hung in the sanctuary by Easter, which would put us at just less than halfway on the project. Stop by! As Nancy says, it's something we can do that doesn't cost anything but a little of our time.
+On Easter Saturday (April 7), Mark Schubert's recorder group will be playing a brief concert at the Chilton Public Library. He didn't have exact information yet, but it should right around closing time (1:00) or shortly before. I'll pass on the details as I get them.
 
 ## 5.
 
-I spotted a bald eagle in the stream near the corner of Artesia Beach Road and Lakeshore Drive this afternoon. That's got to count as good luck, right?
+There will be a Holyland Blood Drive on March 20!
+ 
+March is Red Cross Month and area residents will have the opportunity to help in its lifesaving mission by giving blood on Tuesday, March 20. All blood types are needed and donations will be accepted at Maximillians in Mt. Calvary from 11:45 a.m. to 6 p.m.
+ 
+Donating blood makes a big difference in the lives of others and one donation can help save up to three people. Persons who are healthy, weigh 110 pounds or more, and are at least 17 years old (age 16 with parental consent) can give blood.
+ 
+Walk-ins are welcome. As is tradition, donors will be treated to a light lunch compliments of local area contributors, businesses, and volunteers
 
 ## 6.
 
@@ -92,28 +96,16 @@ A community announcement:
 
 ## 7.
 
-A few weeks ago, I mentioned that Rev. Jane Anderson, the Northeast Area Minister, would join us on March 25th. She unfortunately had another commitment that day, so we've rescheduled her for Sunday, April 29th. Yes, I know that's when we're planning on doing another Messy Church service. No, I don't know how we'll make that work.
-
-## 8. 
-
-Here are the <a href="http://www.stpaulsmalone.org/documents/1-10-18.docx">approved minutes</a> from the January Council Meeting. 
-
-## 9.
-
 This week's scriptures:
 
 <ul>
-  <li><a href="http://bible.oremus.org/?ql=386854359">Exodus 20:1-17</a></li>
-  <li><a href="http://bible.oremus.org/?ql=386854359">Psalm 19</a></li>
-  <li><a href="http://bible.oremus.org/?ql=386854359">1 Corinthians 1:18-25</a></li>
-  <li><a href="http://bible.oremus.org/?ql=386854359">John 2:13-22</a></li>
+  <li><a href="http://bible.oremus.org/?ql=387452768">Numbers 21:4-9</a></li>
+  <li><a href="http://bible.oremus.org/?ql=387452768">Psalm 107:1-3, 17-22</a></li>
+  <li><a href="http://bible.oremus.org/?ql=387452768">Ephesians 2:1-10</a></li>
+  <li><a href="http://bible.oremus.org/?ql=387452768">John 3:14-21</a></li>
 </ul>
 
-<blockquote>Let the words of my mouth and the meditation of my heart
-     be acceptable to you,
-     O Lord, my rock and my redeemer.</blockquote>
-
-Always.
+This is one of the weirder set of readings you will encounter in the Lectionary, to be honest.
 
 <div class="blessings">Many blessings,<br />
 Pastor Dan</div>
