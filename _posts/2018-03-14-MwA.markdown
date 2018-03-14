@@ -1,0 +1,160 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 3/14
+img: church031418.jpg
+caption: Church with hay trucks
+teaser: Chock full o' news
+calendar:
+     - date: 3/14
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/16
+       events: Holyland Food Pantry Distribution
+     - date: 3/18
+       events: 10&#58;00 Worship with Communion (Table) <br />Kids Sunday! <br />Noisy Sunday!
+     - date: 3/19
+       events: 6&#58;30&#47;7&#58;00 Women's Fellowship<br />Lucy Boll speaking
+     - date: 3/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/23
+       events: 10&#58;00 Service at Willowdale
+     - date: 3/25
+       events: 10&#58;00 Worship and Sunday School<br />Palm Sunday
+     - date: 3/25
+       events: 6&#58;30 Mission Committee<br />7&#58;00 Council
+     - date: 3/29
+       events: 7&#58;00 Maundy Thursday Tenebrae service<br />No dinner before service
+     - date: 3/30
+       events: 12&#58;00&mdash;3&#58;00 Church open for silent meditation
+     - date: 4/1
+       events: 10&#58;00 Easter Worship with Communion (Intinction)<br />Kids' Sunday!
+     - date: 4/2
+       events: 7&#58;00 Worship Committee @ Parsonage
+     - date: 4/4
+       events: 7&#58;00(?) Pastoral Relations Committee
+     - date: 4/7
+       events: 1&#58;00 Renard Consort recorder concert at Chilton Public Library
+     - date: 4/8
+       events: 10&#58; Worship and Sunday School
+     - date: 4/9
+       events: 1&#58;00 Pastor Dan at Community of Practice Meeting
+     - date: 4/11
+       events: 7&#58;00 Building Committee
+     - date: 4/15
+       events: 10&#58;00 Worship with Communion (Table) <br />Kids Sunday! <br />Noisy Sunday!<br />Building Question &amp; Answer Session with lunch following worship
+---
+{% if page.img !=null %}
+<span class="caption">{{ page.caption }}</span>
+{% endif %}
+
+Got questions? We've got answers, probably! The Future Building Committee will hold two Question & Answer sessions after worship on Sunday April 15 and Sunday April 22. There's only one item on the agenda: to hear and answer as many of your questions about our future building options as possible. (Some things we just don't know at this point.) Of course, if you'd like to share your thoughts, we're happy to listen to those, too.
+
+The idea behind these sessions is to break the discussion down into smaller groups so everyone can be heard and feel like they have all the information they need. We'll provide lunch so we can talk at greater length. *No decisions will be made at these meetings.* At a later date, we'll come together as a congregation to settle on an option.
+
+If you have questions about any of this, feel free to call me or Dwight Sattler, our new Chair.
+
+Speaking of buildings, though: today's picture of our building isn't an oldy! I took it just the other day. <a href="https://scontent-ort2-2.cdninstagram.com/vp/938bf1e55b114c91d416d103b0ab4abb/5B3B3F53/t51.2885-15/s1080x1080/e15/fr/28434051_813651302169874_5654644811089575936_n.jpg">Here's a larger version</a>.
+
+<!--more-->
+
+## 1.
+
+From Mary Stellick: You may have heard that a “new” committee has started up at St. Paul’s recently. Actually, it’s a re-activation of a committee that’s been around in the past in various incarnations&mdash;the Pastoral Relations Committee. The UCC Conference describes the Pastoral Relations Committee as “a standing committee in a local church that seeks to support and maintain an open and healthy relationship between the pastor and members of the congregation…Its goals are the professional growth and well-being of the pastor and the promotion of mutual ministry between the pastor and the congregation.” By doing so, we can enhance the effectiveness of our church’s mission and strengthen our ministry. The committee is accountable to the members of the congregation. It serves as a liaison between the congregation and the pastor, helping all to increase their understanding of the roles and expectations of both the pastor and the congregation, and envisioning ways their partnership can be more effective in achieving the congregation’s mission.
+
+Members of the PRC are Sue Burlingham, Gayle Martin, Oran Sattler, Mary Stellick, Rick Stellick, Cara Wagner, and John Ziegler. 
+
+## 2.
+
+I will bring a couple of sign-up sheets on Sunday for people interested in helping Tom Tomter get around, or in making dinner for him. Please sign up!
+
+As always, <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">keep praying</a> for Tom, and for all in need.
+
+## 3.
+
+Our organist Mark Schubert plays music with a group in Appleton called the Renard Consort. It's a group of about a dozen musicians, professionals and amateurs, who enjoy getting together twice a month to play recorders. They will be playing a concert at the Chilton Public Library April 7th at 1&#58;00 p.m., open to the general public. All are invited to attend. They will be playing a variety of recorders from the very small to the very large. Included in the program will be a movement from the Brahms Requiem, some 1930's big band favorites and some beautiful Easter hymns. Please come to hear something you've never heard before, in a comfortable and beautiful setting. The concert will last about an hour and it's free.
+
+## 4. 
+
+Don't forget about our monthly service at Willowdale, at 10&#58;00 Friday the 23rd! I will buy coffee for anyone who cares to participate. Also, don't neglect Maundy Thursday, 7&#58;00 March 29th. It is a beautiful and moving service, unique in the Christian year. Hope to see you at both of these events!
+
+## 5.
+
+There will be a Holyland Blood Drive on March 20!
+ 
+March is Red Cross Month and area residents will have the opportunity to help in its lifesaving mission by giving blood on Tuesday, March 20. All blood types are needed and donations will be accepted at Maximillians in Mt. Calvary from 11:45 a.m. to 6 p.m.
+ 
+Donating blood makes a big difference in the lives of others and one donation can help save up to three people. Persons who are healthy, weigh 110 pounds or more, and are at least 17 years old (age 16 with parental consent) can give blood.
+ 
+Walk-ins are welcome. As is tradition, donors will be treated to a light lunch compliments of local area contributors, businesses, and volunteers
+
+## 6.
+
+A community announcement:
+
+<blockquote>
+  <p>The Malone Area Heritage Museum will be hosting their Old Fashioned Country Breakfast on Sunday March 25th, 2018 at the Johnsburg school hall in Johnsburg on County Road Q.</p>
+  <p>The breakfast will be featuring homemade potato pancakes, regular pancakes, ham, sausages, scrambled eggs and desserts.</p>
+  <p>Serving times are from 9:00 a.m. to 12:30 p.m. The cost is $9.00 for adults, $4.00 for children under 10 and children under 3 years of age are free. Carryouts will be available.</p>
+  <p>The museum will be open from 10:00 a.m. until 4:00 p.m. The theme for this year is "Let's Play Ball." Come see our exhibits and talk to our genealogists. Free Admission.</p>
+</blockquote>
+
+## 7.
+
+This week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=388053800">Jeremiah 31:31-34</a></li>
+  <li><a href="http://bible.oremus.org/?ql=388053800">Psalm 51:1-12</a></li>
+  <li><a href="http://bible.oremus.org/?ql=388053800">Hebrews 5:5-10</a></li>
+  <li><a href="http://bible.oremus.org/?ql=388053800">John 12:20-33</a></li>
+</ul>
+
+"Very truly, I tell you, unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit."
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
+<ul>
+ <li>If you know someone from the Holyland who was killed serving our nation, or who is listed as missing in action, please contact John Bertram at bertramjm@gmail.com or Dan Bord at danl1@charter.net so their name can be added to a memorial.</li>
+ <li>Don't forget that you can <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> to our Prayer Chain</li>
+ <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+ {% assign prayers = site.data.prayers | sort %}
+ 
+ {% for prayer in prayers reversed %}
+  {% assign prayerData = prayer[1] %}
+
+  <article class="prayer mdl-card mdl-shadow--2dp">
+       <div class="prayer__message">
+        {{ prayerData.message | markdownify }}
+       </div> 
+</article>
+ {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+
