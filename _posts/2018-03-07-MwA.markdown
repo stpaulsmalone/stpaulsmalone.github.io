@@ -1,0 +1,155 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 3/7
+img: 
+caption: 
+teaser: Very brief today, no seriously
+calendar:
+     - date: 3/7
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/11
+       events: 10&#58;00 Worship and Sunday School<br />Rev. Kerri Parker from Wisconsin Council of Churches preaching
+     - date: 3/12
+       events: 1&#58;00 Pastor Dan at Community of Practice Meeting<br />7&#58;00 Future Building Committee
+     - date: 3/14
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/16
+       events: Holyland Food Pantry Distribution
+     - date: 3/18
+       events: 10&#58;00 Worship with Communion (Table) <br />Kids Sunday! <br />Noisy Sunday!
+     - date: 3/19
+       events: 6&#58;30&#47;7&#58;00 Women's Fellowship<br />Lucy Boll speaking
+     - date: 3/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/23
+       events: 10&#58;00 Service at Willowdale
+     - date: 3/25
+       events: 10&#58;00 Worship and Sunday School<br />Palm Sunday
+     - date: 3/25
+       events: 6&#58;30 Mission Committee<br />7&#58;00 Council
+     - date: 3/29
+       events: 7&#58;00 Maundy Thursday Tenebrae service<br />No dinner before service
+     - date: 3/30
+       events: 12&#58;00&mdash;3&#58;00 Church open for silent meditation
+     - date: 4/1
+       events: 10&#58;00 Easter Worship with Communion (Intinction)<br />Kids' Sunday!
+     - date: 4/2
+       events: 7&#58;00 Worship Committee @ Parsonage
+     - date: 4/4
+       events: 7&#58;00(?) Pastoral Relations Committee
+     - date: 4/8
+       events: 10&#58; Worship and Sunday School
+---
+{% if page.img !=null %}
+<span class="caption">{{ page.caption }}</span>
+{% endif %}
+
+<a href="https://flic.kr/s/aHsmc1LGTE"><img src="http://stpaulsmalone.org/img/news/installation030718.jpg" alt="Lay Leader Installation March 4 2018"></a>
+
+Lori Schmitz took some pictures of the installation service for lay leaders this past Sunday. Click the photo above to see the whole album. [crosses fingers]
+
+<!--more-->
+
+## 1.
+
+As announced in last's week <em>Apostle</em>, we will be taking up a special collection this Sunday <em>both</em> for One Great Hour of Sharing (the UCC's annual mission and disaster relief offering) <em>and</em> for the Wisconsin Council of Churches, whose Executive Director Rev. Kerri Parker will be joining us in worship.
+
+More properly, we're taking up <strong>one</strong> collection, which we're then splitting between the two groups. This makes it easy for you: simply take your donation and place it in the envelope you will find in your bulletin. We'll take it from there!
+
+## 2.
+
+Also on Sunday: I will bring a couple of sign-up sheets for people interested in helping Tom Tomter get around, or in making dinner for him. Please sign up! Between now and then, can I have at least one volunteer to bring Tom to church?
+
+As always, <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">keep praying</a> for Tom, and for all in need.
+
+## 3.
+
+I've added our Holy Week schedule to the calendar. As in the past couple of years, we will <em>not</em> have a Wednesday night gathering during Holy Week. This year, rather than observe an Upper Room service, we will hold a Tenebrae service with scripture readings and the gradual extinguishing of lights. On Good Friday, the church will be open for quiet prayer and meditation. We won't have a slideshow Stations of the Cross, but the booklet will be available.
+
+## 4. 
+
+On Easter Saturday (April 7), Mark Schubert's recorder group will be playing a brief concert at the Chilton Public Library. Mark didn't have exact information yet, but it should be right around closing time (1:00) or shortly before. I'll pass on the details as I get them.
+
+## 5.
+
+There will be a Holyland Blood Drive on March 20!
+ 
+March is Red Cross Month and area residents will have the opportunity to help in its lifesaving mission by giving blood on Tuesday, March 20. All blood types are needed and donations will be accepted at Maximillians in Mt. Calvary from 11:45 a.m. to 6 p.m.
+ 
+Donating blood makes a big difference in the lives of others and one donation can help save up to three people. Persons who are healthy, weigh 110 pounds or more, and are at least 17 years old (age 16 with parental consent) can give blood.
+ 
+Walk-ins are welcome. As is tradition, donors will be treated to a light lunch compliments of local area contributors, businesses, and volunteers
+
+## 6.
+
+A community announcement:
+
+<blockquote>
+  <p>The Malone Area Heritage Museum will be hosting their Old Fashioned Country Breakfast on Sunday March 25th, 2018 at the Johnsburg school hall in Johnsburg on County Road Q.</p>
+  <p>The breakfast will be featuring homemade potato pancakes, regular pancakes, ham, sausages, scrambled eggs and desserts.</p>
+  <p>Serving times are from 9:00 a.m. to 12:30 p.m. The cost is $9.00 for adults, $4.00 for children under 10 and children under 3 years of age are free. Carryouts will be available.</p>
+  <p>The museum will be open from 10:00 a.m. until 4:00 p.m. The theme for this year is "Let's Play Ball." Come see our exhibits and talk to our genealogists. Free Admission.</p>
+</blockquote>
+
+## 7.
+
+This week's scriptures:
+
+<ul>
+  <li><a href="http://bible.oremus.org/?ql=387452768">Numbers 21:4-9</a></li>
+  <li><a href="http://bible.oremus.org/?ql=387452768">Psalm 107:1-3, 17-22</a></li>
+  <li><a href="http://bible.oremus.org/?ql=387452768">Ephesians 2:1-10</a></li>
+  <li><a href="http://bible.oremus.org/?ql=387452768">John 3:14-21</a></li>
+</ul>
+
+This is one of the weirder sets of readings you will encounter in the Lectionary, to be honest.
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
+<ul>
+ <li>The Farm Toy and Craft Show will be held March 11th at the New Holstein High School. See https://www.facebook.com/FarmToyCraftShow for more details.</li>
+ <li>If you know someone from the Holyland who was killed serving our nation, or who is listed as missing in action, please contact John Bertram at bertramjm@gmail.com or Dan Bord at danl1@charter.net so their name can be added to a memorial.</li>
+ <li>Don't forget that you can <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> to our Prayer Chain</li>
+ <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+ {% assign prayers = site.data.prayers | sort %}
+ 
+ {% for prayer in prayers reversed %}
+  {% assign prayerData = prayer[1] %}
+
+  <article class="prayer mdl-card mdl-shadow--2dp">
+       <div class="prayer__message">
+        {{ prayerData.message | markdownify }}
+       </div> 
+</article>
+ {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+

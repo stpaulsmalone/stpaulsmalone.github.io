@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+
+	<body onunload="">
+		{% include header.html %}
+			{% assign class = page.class %}
+		{% include content.html %}
+		{% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>
