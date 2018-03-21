@@ -35,7 +35,7 @@ calendar:
      - date: 4/11
        events: 7&#58;00 Building Committee
      - date: 4/12
-       events: 6&#58;30 Book Club, reading <em>3 Weeks with my Brother by Nicholas Sparks
+       events: 6&#58;30 Book Club, reading <em>3 Weeks with my Brother</em> by Nicholas Sparks
      - date: 4/15
        events: 10&#58;00 Worship with Communion (Table) <br />Kids Sunday! <br />Noisy Sunday! <br />Building Question &amp; Answer Session (1/2) with lunch following worship
      - date: 4/16
