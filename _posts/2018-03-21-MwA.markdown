@@ -1,0 +1,187 @@
+---
+layout: mwa_post
+category: news
+class: page
+description:
+title: Midweek Apostle 3/21
+img:
+caption:
+teaser: Announcements, so many announcements
+calendar:
+     - date: 3/21
+       events: 6&#58;30 Lenten Soup &amp; Learning
+     - date: 3/23
+       events: 10&#58;00 Service at Willowdale
+     - date: 3/25
+       events: 10&#58;00 Worship and Sunday School<br />Palm Sunday
+     - date: 3/26
+       events: 6&#58;30 Mission Committee<br />7&#58;00 Council
+     - date: 3/29
+       events: 7&#58;00 Maundy Thursday Tenebrae service<br />No dinner before service
+     - date: 3/30
+       events: 12&#58;00&mdash;3&#58;00 Church open for silent meditation
+     - date: 4/1
+       events: 9&#58;30 Easter Fellowship<br />10&#58;00 Easter Worship with Communion (Intinction)<br />Kids' Sunday!
+     - date: 4/2
+       events: 7&#58;00 Worship Committee @ Parsonage
+     - date: 4/4
+       events: 7&#58;00(?) Pastoral Relations Committee
+     - date: 4/7
+       events: 1&#58;00 Renard Consort recorder concert at Chilton Public Library
+     - date: 4/8
+       events: 10&#58; Worship and Sunday School
+     - date: 4/9
+       events: 1&#58;00 Pastor Dan at Community of Practice Meeting
+     - date: 4/11
+       events: 7&#58;00 Building Committee
+     - date: 4/12
+       events: 6&#58;30 Book Club, reading <em>3 Weeks with my Brother</em> by Nicholas Sparks
+     - date: 4/15
+       events: 10&#58;00 Worship with Communion (Table) <br />Kids Sunday! <br />Noisy Sunday! <br />Building Question &amp; Answer Session (1/2) with lunch following worship
+     - date: 4/16
+       events: 6&#58;30/7&#58;00 Women's Fellowship
+     - date: 4/22
+       events: 10&#58;00 Worship and Sunday School<br />Building Question &amp; Answer Session (2/2) with lunch following worship
+---
+{% if page.img !=null %}
+<span class="caption">{{ page.caption }}</span>
+{% endif %}
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/stpaulsmalone/albums/72157694742965925" title="Scarf Night"><img src="https://farm1.staticflickr.com/802/26071066157_fc9e8d33ac.jpg" width="500" height="281" alt="Scarf Night"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+An explanation of this week's photo illustration, via Women's Fellowship president Sue Schultz:
+<blockquote>
+Women's Fellowship members with guest speaker Lucy Boll at March meeting. Lori Schmitz is missing as she was taking the photo. Lucy, who is from Chilton, spoke on her mission work in India with widows and orphans through the Don Shire Ministries. Don and Kathy Shire will be at St. Pau'l's on Sunday, October 28th to share their story of love, compassion and ministry as they and many volunteers help thousands of people in need daily throughout the world via their ministry which is based in White Lake, Wisconsin. The scarves you see worn in the picture are made by the widows and sold through the Don Shire Ministries. St. Paul's members purchased 34 scarves on Monday night with 100% of the funds going to assist the widows with daily living expenses.
+</blockquote>
+
+That's a lot of scarves! (Click on the picture to see a photo album of the night.)
+
+<!--more-->
+
+## 1.
+
+Please Join Us - Easter Fellowship - Sunday, April 1 - 9:30 a.m. - 10:00 a.m
+
+St. Paul's Women's Fellowship invites Easter Sunday worship attendees to a pre-Easter fellowship gathering from 9:30 a.m..-10:00 a.m. Donut holes, juice and coffee will  be provided in the fellowship area in the back of church.
+
+## 2.
+
+As mentioned in the calendar, Book Club will meet on April 12th at 6:30. This month's book is *3 Weeks With My Brother* by Nicholas Sparks. Our discussion will be led by Nancy Beckman. Mary Sattler and Rick Stellick are going to co-host.   
+
+## 3.
+
+The Women's Fellowship has been busy! Save these dates:
+
+- Monday, April 16 - Program: Andrea DuWell and Lori Schmitz K-12 Learning Trends, #trending now: Blogs, Technology and Social Media in the Classrooms of our Children
+
+- Thursday, April 26 - Community Service Project for Mother's Day 2018 - 6:30 p.m. Held at home of Terry &amp; Nancy Beckman
+ 
+- Wednesday, May 16 - Monthly Meeting - Program:  Barb Mills, Being A Hospice Volunteer
+
+- Monday, June 18 - Monthly Meeting - Program:  Theresa Mayer, Tales of the Holyland  
+
+Monthly meetings are held at church. Programs are at 7:00 p.m.
+
+## 4.
+
+An update from the Cemetery Board:
+<blockquote>
+<p>We are planning for a clean up on Saturday, May 12 from 9-noon. At that time, we will be working on removing old decorations, cleaning trash cans, mowing, and preparing for the honor guard, should they choose our cemetery again. We will have a mowing schedule for folks to sign up to help. We are looking forward to the help.</p>
+<p>We will again offer a "cemetery history" in advance of the honor guard on Memorial day, and are thinking about having a "scavenger hunt" to locate the names of all the veterans as a children's game. Additionally, we hope to have Theresa's book available for folks.</p>
+<p>We are planning on having a display signage/case attached to the new shed. The dedication plaque may also be placed by that time. This signage space will be used to display information about the Sexton contact, names of the buried, and will be a resource for letting folks know about restrictions. (Flowers, tree plantings, base requests for newly placed headstones).</p>
+<p>Finally, since Founders' Day is this weekend, we will work to do a Founders' Day something NEXT year.</p>
+<p>Thanks for your support through trail work, headstone cleaning, financial support, mowing, and maintaining the cemetery.</p>
+</blockquote>
+
+Lori Schmitz suggests that the church combine its spring clean-up with the cemetery's. Sounds like the basement and kitchen could use a little attention. Seems like a good idea to me.
+
+## 5.
+
+The Conference Office sent out an email today summarizing the most recent Small and Rural Church Conference in Dubuque. (You might remember me attending this meeting back in 2016.) We are reminded that St. Paul's situation is <a href="http://files.constantcontact.com/4fc4c9cb001/08990d84-9455-45be-af37-07d9ce3d2652.pdf">far from unique</a>:
+<blockquote>
+	Seventy one percent of churches have less than one hundred people in church on Sunday morning, many of these with under fifty. By 2019, twenty percent of full-time pastorates will be in multiple point calls.
+</blockquote>
+
+The presenters encourage congregations to consider shared ministries before they become desperate about their situation. And they have some useful framing for us to think about:
+
+<blockquote>
+<p>Like their urban counterparts, rural church folk are struggling with the cultural shifts of competing for people’s time, commitment and spiritual engagement.</p>
+<p>These realities are not new considerations. One presenter suggested that rural churches are in an interim period, a time between eras of the church and Christianity. Because this is an interim time, she [proposed] that our approaches to ministry will need to focus on the present moment, and be flexible and evolving. Worship language, hymn[s] and programming in churches that elevate the permanence of church structures may feel a constant sense of loss and disappointment because the realities of our time and the desire for permanence do not match up.</p>
+<p>There seemed to be some joy and freedom for those who embraced movement away from trying to create church life that would last for generations. Those who began focusing on the ministry needs at hand and discerning God’s call for the present moment felt encouraged. Attendees expressed hope in recognizing what might be in their hands and control, and in turning over what was beyond their control to God.</p>
+</blockquote>
+
+I'm as guilty as anyone of wanting to create a church life to serve the next couple of generations. But according to at least these experts, we'd be better off focussing on who can help *here* and *now*. That way, we get the benefit of being faithful, feeling successful in our ministry, *and* being well-adapted when things inevitably begin to change later on.
+
+The Conference also passes on an article from <a href="http://www.wcucc.org/wp-content/uploads/2018/03/2018-03-Finding-Significance-as-a-small-church.pdf">The Parish Paper</a>. It's an argument against solving church problems by moving the building&mdash;but I want to be very clear that's not why I bring it to your attention. Rather, it has a very good reminder that churches have a tendency to focus on The One Thing that they see as holding them back. That in turn leads them to ignore their many strengths. Maybe we'll decide to move, maybe we won't, but either way it's worth mentioning again: this congregation does indeed have many strengths. No matter where we're at, we should celebrate them and use them, to the glory of God.
+
+## 7.
+
+From Mary Stellick: You may have heard that a “new” committee has started up at St. Paul’s recently. Actually, it’s a re-activation of a committee that’s been around in the past in various incarnations&mdash;the Pastoral Relations Committee. The UCC Conference describes the Pastoral Relations Committee as “a standing committee in a local church that seeks to support and maintain an open and healthy relationship between the pastor and members of the congregation…Its goals are the professional growth and well-being of the pastor and the promotion of mutual ministry between the pastor and the congregation.” By doing so, we can enhance the effectiveness of our church’s mission and strengthen our ministry. The committee is accountable to the members of the congregation. It serves as a liaison between the congregation and the pastor, helping all to increase their understanding of the roles and expectations of both the pastor and the congregation, and envisioning ways their partnership can be more effective in achieving the congregation’s mission.
+
+Members of the PRC are Sue Burlingham, Gayle Martin, Oran Sattler, Mary Stellick, Rick Stellick, Cara Wagner, and John Ziegler. 
+
+## 8.
+
+Our organist Mark Schubert plays music with a group in Appleton called the Renard Consort. It's a group of about a dozen musicians, professionals and amateurs, who enjoy getting together twice a month to play recorders. They will be playing a concert at the Chilton Public Library April 7th at 1&#58;00 p.m., open to the general public. All are invited to attend. They will be playing a variety of recorders from the very small to the very large. Included in the program will be a movement from the Brahms Requiem, some 1930's big band favorites and some beautiful Easter hymns. Please come to hear something you've never heard before, in a comfortable and beautiful setting. The concert will last about an hour and it's free.
+
+## 9. 
+
+Don't forget about our monthly service at Willowdale, at 10&#58;00 Friday the 23rd! I will buy coffee for anyone who cares to participate. Also, don't neglect Maundy Thursday, 7&#58;00 March 29th. It is a beautiful and moving service, unique in the Christian year. Hope to see you at both of these events!
+
+## 10.
+
+This week's scriptures:
+
+<ul>
+	<li><a href="http://bible.oremus.org/?ql=388658484">Psalm 118:1-2, 19-29</a></li>
+	<li><a href="http://bible.oremus.org/?ql=388658484">John 12:12-16</a></li>
+	<li><a href="http://bible.oremus.org/?ql=388658484">John 13:1-17, 31-35</a></li>
+</ul>
+
+*Two* gospel lessons? What's that all about?! You will just have to come on Sunday morning and find out.
+
+<div class="blessings">Many blessings,<br />
+Pastor Dan</div>
+<br />
+<br />
+<div class="after-box">
+
+<a class="anchor" id="after" name="after"><h3>Quick Reminders:</h3></a>
+<ul>
+ <li>Old Fashioned Country Breakfast 9:00 a.m. to 12:30 p.m. on Sunday March 25th, 2018 at the Johnsburg school, $9.00 for adults, $4.00 for kids.</li>
+ <li>Don't forget that you can <a href="http://www.stpaulsmalone.org/prayer/#add-prayers">submit prayer requests</a> to our Prayer Chain.</li>
+ <li>Large-print bulletins and a hearing loop are available for worship.</li>
+</ul>
+
+<h3>Upcoming Events:</h3>
+{% capture page_events %}
+{{ page.calendar }}
+{% endcapture %}
+
+{% include events.html content=page_events %}
+
+{% include hfp_needs.html %}
+
+{% capture page_date %}
+{{ page.date | date: '%j' }}
+{% endcapture %}
+
+{% include birthday.html content=page_date %}
+
+<h3>Please be in prayer for:</h3>
+
+<div class="js-comments">
+ {% assign prayers = site.data.prayers | sort %}
+ 
+ {% for prayer in prayers reversed %}
+  {% assign prayerData = prayer[1] %}
+
+  <article class="prayer mdl-card mdl-shadow--2dp">
+       <div class="prayer__message">
+        {{ prayerData.message | markdownify }}
+       </div> 
+</article>
+ {% endfor %}
+<p><a href="http://www.stpaulsmalone.org/prayer/#add-prayers">Add a prayer to our list</a></p>
+</div>
+
