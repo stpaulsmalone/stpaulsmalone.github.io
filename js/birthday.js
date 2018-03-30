@@ -56,7 +56,6 @@
       ['Cindy Schussman', '5/27'],
       ['Sarah Jain', '5/29'],
       ['Cathy Barr', '5/31'],
-      ['Daniel Schultz', '6/3'],
       ['Theresa Mayer', '6/5'],
       ['Bonnie Ebert', '6/7'],
       ['Marsha Lisowe', '6/8'],
